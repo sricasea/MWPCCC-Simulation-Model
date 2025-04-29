@@ -1,0 +1,57 @@
+﻿ExpenseID,CenterID,Type,Description,MonthlyAmount,YearlyAmount,StartDate,EndDate,Negotiable,Notes
+E-00001,C-Corp,Payroll,ADP,3060,,,,,Payroll/HR Service
+E-00002,C-Corp,Tech,Advantage Telecom,272,,,,,Phone and Internet Service
+E-00003,C-HP,Tech,Advantage Telecom,170,,,,,Phone and Internet Service
+E-00004,C-Corp,Insurance,California Choice,939,,,,,Employer Cost for Medical Insurance
+E-00005,C-JP,Insurance,California Choice,4230,,,,,Employer Cost for Medical Insurance
+E-00006,C-HP,Insurance,California Choice,2167,,,,,Employer Cost for Medical Insurance
+E-00007,C-TD,Insurance,California Choice,1348,,,,,Employer Cost for Medical Insurance
+E-00008,C-Corp,Tech,Cell Business Equipment,200,,,,,"Copiers at Corp, HP, JP, and TD"
+E-00009,C-JP,Tech,Cell Business Equipment,150,,,,,"Copiers at Corp, HP, JP, and TD"
+E-00010,C-HP,Tech,Cell Business Equipment,150,,,,,"Copiers at Corp, HP, JP, and TD"
+E-00011,C-Corp,Insurance,Employers Insurance,,11000,,,,WC Audit Findings
+E-00012,C-Corp,Insurance,Great America Insurance Group,1264,,,,,Liability Insurance
+E-00013,C-Corp,Accounting Services,Gremin Merchant,3000,,,,,Accounting Services
+E-00014,C-Corp,Rent,JACCC,3152,,,,,Office Rental Space
+E-00015,C-Corp,Insurance,Principal Life Insurance Company,46,,,,,Employer Cost for Dental and Vision
+E-00016,C-JP,Insurance,Principal Life Insurance Company,384,,,,,Employer Cost for Dental and Vision
+E-00017,C-HP,Insurance,Principal Life Insurance Company,278,,,,,Employer Cost for Dental and Vision
+E-00018,C-TD,Insurance,Principal Life Insurance Company,114,,,,,Employer Cost for Dental and Vision
+E-00019,C-Corp,Audit,Quigley & Miron 2023-2024 Audit,,18000,,,,2023-2024 and 2024-2025 Audit
+E-00020,C-Corp,Audit,Quigley & Miron 2024-2025 Audit,,18000,,,,2023-2024 and 2024-2025 Audit
+E-00021,C-HP,Tech,Snappy Copy Corporation,110,,,,,Copier
+E-00022,C-Corp,Tech,Tech Rockstars,562,,,,,IT Services
+E-00023,C-TD,Parking,"Tiny DOTs Child Care Center, Inc.",240,,,,,Parking
+E-00024,C-TD,Rent,"Tiny DOTs Child Care Center, Inc.",1350,,,,,Facility Rent
+E-00025,C-Corp,Tech,CBE Office Solutions,50,,,,,Copier Supplies (usually less)
+E-00026,C-JP,Tech,CBE Office Solutions,50,,,,,Copier Supplies (usually less)
+E-00027,C-TD,Tech,CBE Office Solutions,50,,,,,Copier Supplies (usually less)
+FE-1997,C-LCV,Rent,LCV Facility Lease,1200,,1/1/1997,12/31/2005,No,Founding era rent
+FE-1998,C-LCV,Insurance,Basic Liability Insurance,150,,1/1/1997,12/31/2005,No,Barebones insurance
+FE-1999,C-LCV,Utilities,Electric/Water,300,,1/1/1997,12/31/2005,No,Minimal utilities
+FE-19100,C-LCV,Supplies,Art and Cleaning Supplies,200,,1/1/1997,12/31/2005,No,DIY supplies
+FE-19101,C-LCV,Maintenance,Building Repairs,100,,1/1/1997,12/31/2005,No,Small repairs only
+FE-19102,C-LCV,Phone/Internet,Basic Phone Line,50,,1/1/1997,12/31/2005,No,Landline only
+FE-19103,C-LCV,Payroll Processing,Manual Payroll Service,75,,1/1/1997,12/31/2005,No,Paper checks
+FE-19104,C-LCV,Training,Child Development Training,50,,1/1/1997,12/31/2005,No,Minimal professional training
+FE-19105,C-LCV,Licensing Fees,State Licensing,100,,1/1/1997,12/31/2005,No,State required fees
+GE-2006,C-LCV,Rent,LCV Facility Lease (renewed),1500,,1/1/2006,12/31/2015,Yes,Rent increases over time
+GE-2007,C-LCV,Insurance,Expanded Liability Coverage,300,,1/1/2006,12/31/2015,Yes,Insurance expanded for staff
+GE-2008,C-JP,Rent,JP Facility Lease,4000,,1/1/2006,12/31/2015,Yes,JP opens in 2009
+GE-2009,C-JP,Utilities,JP Electric/Water,600,,1/1/2006,12/31/2015,Yes,Utility load grows
+GE-2010,C-JP,Supplies,JP Supplies,500,,1/1/2006,12/31/2015,Yes,"Art, educational supplies"
+GE-2011,C-HP,Rent,HP Facility Lease,3800,,1/1/2006,12/31/2015,Yes,HP opens in 2003 but grows
+GE-2012,C-HP,Insurance,HP Full Coverage Insurance,600,,1/1/2006,12/31/2015,Yes,Higher coverage needs
+GE-2013,C-HP,Maintenance,Major Building Repairs,400,,1/1/2006,12/31/2015,Yes,Major repair projects
+GE-2014,C-HP,Utilities,HP Electric/Water,650,,1/1/2006,12/31/2015,Yes,Growing electrical costs
+GE-2015,C-Corp,Admin Fees,Accounting and Payroll Systems,200,,1/1/2006,12/31/2015,Yes,Outside admin help added
+PC-2016,C-LCV,Rent,LCV Lease Renewed,2200,,1/1/2016,12/31/2025,Yes,Rising real estate costs
+PC-2017,C-JP,Insurance,Expanded Full Coverage,750,,1/1/2016,12/31/2025,Yes,Higher liability premiums
+PC-2018,C-HP,Utilities,Increased Utility Costs,1200,,1/1/2016,12/31/2025,Yes,"More staff, higher costs"
+PC-2019,C-TD,Maintenance,COVID Upgrades & Repairs,900,,1/1/2016,12/31/2025,Yes,COVID ventilation upgrades
+PC-2020,C-Corp,Admin Fees,Increased Compliance Admin Fees,400,,1/1/2016,12/31/2025,Yes,Higher audit compliance
+PC-2021,C-JP,Tech Services,"Zoom, Email Hosting",500,,1/1/2016,12/31/2025,Yes,Remote work support tools
+PC-2022,C-HP,Cleaning Services,Professional Cleaning 3x/week,1200,,1/1/2016,12/31/2025,Yes,COVID protocols
+PC-2023,C-TD,PPE Supplies,"Masks, sanitizer, gloves",300,,1/1/2016,12/31/2025,Yes,Health and safety supplies
+PC-2024,C-JP,Security Services,Security Guard Services,800,,1/1/2016,12/31/2025,Yes,Site security enhancements
+PC-2025,C-HP,Payroll Platform,"Paychex, Payroll Software",350,,1/1/2016,12/31/2025,Yes,Integrated payroll system

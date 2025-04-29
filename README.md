@@ -37,8 +37,7 @@ The simulation covers:
 | Folder/File | Purpose |
 |:---|:---|
 | `data/DIM_*.csv` | Dimension tables (Children, Teachers, Classrooms, Subsidies, etc.) |
-| `data/FACT_*.csv` | Fact tables (Invoices, Attendance, Payroll, Payments, etc.) |
-| `data/historical_expenses/` | Invented historical expenses and liabilities |
+| `data/FACT_*.csv` | Fact tables (Invoices, Attendance, Payroll, Payments, Expenses, Liabilities, etc.) |
 | `notebooks/` | (Future) Analysis, Power BI integration |
 | `visuals/` | (Future) Dashboard screenshots, sample reports |
 | `README_data.md` | Detailed data dictionary (future enhancement) |

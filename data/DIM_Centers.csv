@@ -1,0 +1,7 @@
+﻿CenterID,CenterName,Capacity,MinAgeMonths,MaxAgeMonths,AllocationPercent,Opened,Closed,Address
+C-JP,Joy Picus,86,0,60,0.43,7/8/2009,,"111 E. First Street, Los Angeles CA 90012"
+C-HP,Harry Pregerson,52,0,60,0.27,3/18/2003,,"255 E. Temple St., Los Angeles, CA 90012"
+C-TD,TinyDOTs,67,0,60,0.3,9/1/2023,,"100 South Main Street, STE. 130, Los Angeles CA 90012"
+C-Corp,Corporate,N/A,N/A,N/A,0,1/1/1990,,"244 San Pedro St. Ste 308, Los Angeles, CA 90012"
+C-LCV,La Casita Verde,0,0,60,0,,5/31/2022,"4601 N. Figueroa Street, Los Angeles, CA 90065"
+C-High,Highlands,0,0,60,0,,,

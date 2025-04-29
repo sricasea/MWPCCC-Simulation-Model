@@ -1,0 +1,2047 @@
+﻿EnrollmentID,ChildID,ClassroomID,CenterID,ScheduleType,RateName,InitialEnrollment,BeginningDate,FinishingDate,Notes
+ENR0001,CH0500,CL-JPIN-01,C-JP,Part-Time-3Day,24-25,3/3/2025,3/3/2025,6/3/2025,Initial enrollment
+ENR0002,CH0500,CL-JPTO-01,C-JP,Full-Time,24-25,3/3/2025,6/4/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0002,CH0500,CL-JPTO-01,C-JP,Full-Time,25-26 Grandfathered,3/3/2025,7/1/2025,5/4/2026,Rate policy change
+ENR0003,CH0500,CL-JPPS1-01,C-JP,Full-Time,25-26,3/3/2025,5/5/2026,6/30/2026,Aged into new classroom; Rate policy change
+ENR0003,CH0500,CL-JPPS1-01,C-JP,Full-Time,26-27 (Placeholder),3/3/2025,7/1/2026,5/5/2027,Rate policy change
+ENR0004,CH0500,CL-JPPS2-01,C-JP,Full-Time,26-27 (Placeholder),3/3/2025,5/6/2027,6/30/2027,Aged into new classroom
+ENR0004,CH0500,CL-JPPS2-01,C-JP,Full-Time,27-28 (Placeholder),3/3/2025,7/1/2027,6/30/2028,Rate policy change
+ENR0004,CH0500,CL-JPPS2-01,C-JP,Full-Time,28-29 (Placeholder),3/3/2025,7/1/2028,5/6/2029,Rate policy change
+ENR0005,CH0501,CL-JPIN-01,C-JP,Part-Time-3Day,24-25,3/29/2025,3/29/2025,5/29/2025,Initial enrollment
+ENR0006,CH0501,CL-JPTO-01,C-JP,Part-Time-3Day,24-25,3/29/2025,5/30/2025,6/30/2025,Aged into new classroom
+ENR0006,CH0501,CL-JPTO-01,C-JP,Part-Time-3Day,25-26 Grandfathered,3/29/2025,7/1/2025,4/30/2026,Rate policy change
+ENR0007,CH0501,CL-JPPS1-01,C-JP,Part-Time-3Day,25-26,3/29/2025,5/1/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0007,CH0501,CL-JPPS1-01,C-JP,Part-Time-3Day,26-27 (Placeholder),3/29/2025,7/1/2026,5/1/2027,Rate policy change
+ENR0008,CH0501,CL-JPPS2-01,C-JP,Full-Time,26-27 (Placeholder),3/29/2025,5/2/2027,6/30/2027,Aged into new classroom; Schedule change
+ENR0008,CH0501,CL-JPPS2-01,C-JP,Full-Time,27-28 (Placeholder),3/29/2025,7/1/2027,6/30/2028,Rate policy change
+ENR0008,CH0501,CL-JPPS2-01,C-JP,Full-Time,28-29 (Placeholder),3/29/2025,7/1/2028,5/2/2029,Rate policy change
+ENR0009,CH0502,CL-JPIN-01,C-JP,Full-Time,24-25,1/23/2025,1/23/2025,6/30/2025,Initial enrollment
+ENR0009,CH0502,CL-JPIN-01,C-JP,Full-Time,25-26 Grandfathered,1/23/2025,7/1/2025,10/23/2025,Rate policy change
+ENR0010,CH0502,CL-JPTO-01,C-JP,Full-Time,25-26 Grandfathered,1/23/2025,10/24/2025,6/29/2026,Aged into new classroom
+ENR0010,CH0502,CL-JPTO-01,C-JP,Full-Time,25-26,1/23/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0010,CH0502,CL-JPTO-01,C-JP,Full-Time,26-27 (Placeholder),1/23/2025,7/1/2026,9/24/2026,Rate policy change
+ENR0011,CH0502,CL-JPPS1-01,C-JP,Full-Time,26-27 (Placeholder),1/23/2025,9/25/2026,6/30/2027,Aged into new classroom
+ENR0011,CH0502,CL-JPPS1-01,C-JP,Full-Time,27-28 (Placeholder),1/23/2025,7/1/2027,9/25/2027,Rate policy change
+ENR0012,CH0502,CL-JPPS2-01,C-JP,Part-Time-3Day,27-28 (Placeholder),1/23/2025,9/26/2027,6/30/2028,Aged into new classroom; Schedule change
+ENR0012,CH0502,CL-JPPS2-01,C-JP,Part-Time-3Day,28-29 (Placeholder),1/23/2025,7/1/2028,6/30/2029,Rate policy change
+ENR0012,CH0502,CL-JPPS2-01,C-JP,Part-Time-3Day,29-30 (Placeholder),1/23/2025,7/1/2029,9/26/2029,Rate policy change
+ENR0013,CH0503,CL-JPIN-01,C-JP,Full-Time,24-25,3/4/2025,3/4/2025,6/30/2025,Initial enrollment
+ENR0013,CH0503,CL-JPIN-01,C-JP,Full-Time,25-26 Grandfathered,3/4/2025,7/1/2025,7/4/2025,Rate policy change
+ENR0014,CH0503,CL-JPTO-01,C-JP,Full-Time,25-26 Grandfathered,3/4/2025,7/5/2025,6/5/2026,Aged into new classroom
+ENR0015,CH0503,CL-JPPS1-01,C-JP,Part-Time-2Day,25-26,3/4/2025,6/6/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0015,CH0503,CL-JPPS1-01,C-JP,Part-Time-2Day,26-27 (Placeholder),3/4/2025,7/1/2026,6/6/2027,Rate policy change
+ENR0016,CH0503,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),3/4/2025,6/7/2027,6/30/2027,Aged into new classroom; Schedule change
+ENR0016,CH0503,CL-JPPS2-01,C-JP,Part-Time-3Day,27-28 (Placeholder),3/4/2025,7/1/2027,6/30/2028,Rate policy change
+ENR0016,CH0503,CL-JPPS2-01,C-JP,Part-Time-3Day,28-29 (Placeholder),3/4/2025,7/1/2028,6/7/2029,Rate policy change
+ENR0017,CH0504,CL-JPIN-01,C-JP,Full-Time,24-25,11/7/2024,11/7/2024,6/30/2025,Initial enrollment
+ENR0017,CH0504,CL-JPIN-01,C-JP,Full-Time,25-26 Grandfathered,11/7/2024,7/1/2025,12/7/2025,Rate policy change
+ENR0018,CH0504,CL-JPTO-01,C-JP,Part-Time-3Day,25-26 Grandfathered,11/7/2024,12/8/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0018,CH0504,CL-JPTO-01,C-JP,Part-Time-3Day,25-26,11/7/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0018,CH0504,CL-JPTO-01,C-JP,Part-Time-3Day,26-27 (Placeholder),11/7/2024,7/1/2026,11/8/2026,Rate policy change
+ENR0019,CH0504,CL-JPPS1-01,C-JP,Part-Time-3Day,26-27 (Placeholder),11/7/2024,11/9/2026,6/30/2027,Aged into new classroom; Schedule change
+ENR0019,CH0504,CL-JPPS1-01,C-JP,Part-Time-3Day,27-28 (Placeholder),11/7/2024,7/1/2027,11/9/2027,Rate policy change
+ENR0020,CH0504,CL-JPPS2-01,C-JP,Full-Time,27-28 (Placeholder),11/7/2024,11/10/2027,6/30/2028,Aged into new classroom; Schedule change
+ENR0020,CH0504,CL-JPPS2-01,C-JP,Full-Time,28-29 (Placeholder),11/7/2024,7/1/2028,6/30/2029,Rate policy change
+ENR0020,CH0504,CL-JPPS2-01,C-JP,Full-Time,29-30 (Placeholder),11/7/2024,7/1/2029,11/10/2029,Rate policy change
+ENR0021,CH0505,CL-JPIN-01,C-JP,Part-Time-2Day,24-25,4/17/2025,4/17/2025,6/30/2025,Initial enrollment
+ENR0021,CH0505,CL-JPIN-01,C-JP,Part-Time-2Day,25-26 Grandfathered,4/17/2025,7/1/2025,5/17/2026,Rate policy change
+ENR0022,CH0505,CL-JPTO-01,C-JP,Part-Time-3Day,25-26,4/17/2025,5/18/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0022,CH0505,CL-JPTO-01,C-JP,Part-Time-3Day,26-27 (Placeholder),4/17/2025,7/1/2026,4/18/2027,Rate policy change
+ENR0023,CH0505,CL-JPPS1-01,C-JP,Full-Time,26-27 (Placeholder),4/17/2025,4/19/2027,6/30/2027,Aged into new classroom; Schedule change
+ENR0023,CH0505,CL-JPPS1-01,C-JP,Full-Time,27-28 (Placeholder),4/17/2025,7/1/2027,4/19/2028,Rate policy change
+ENR0024,CH0505,CL-JPPS2-01,C-JP,Full-Time,27-28 (Placeholder),4/17/2025,4/20/2028,6/30/2028,Aged into new classroom
+ENR0024,CH0505,CL-JPPS2-01,C-JP,Full-Time,28-29 (Placeholder),4/17/2025,7/1/2028,6/30/2029,Rate policy change
+ENR0024,CH0505,CL-JPPS2-01,C-JP,Full-Time,29-30 (Placeholder),4/17/2025,7/1/2029,4/20/2030,Rate policy change
+ENR0025,CH0506,CL-JPIN-01,C-JP,Part-Time-3Day,24-25,2/7/2025,2/7/2025,6/30/2025,Initial enrollment
+ENR0025,CH0506,CL-JPIN-01,C-JP,Part-Time-3Day,25-26 Grandfathered,2/7/2025,7/1/2025,10/7/2025,Rate policy change
+ENR0026,CH0506,CL-JPTO-01,C-JP,Full-Time,25-26 Grandfathered,2/7/2025,10/8/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0026,CH0506,CL-JPTO-01,C-JP,Full-Time,25-26,2/7/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0026,CH0506,CL-JPTO-01,C-JP,Full-Time,26-27 (Placeholder),2/7/2025,7/1/2026,9/8/2026,Rate policy change
+ENR0027,CH0506,CL-JPPS1-01,C-JP,Full-Time,26-27 (Placeholder),2/7/2025,9/9/2026,6/30/2027,Aged into new classroom
+ENR0027,CH0506,CL-JPPS1-01,C-JP,Full-Time,27-28 (Placeholder),2/7/2025,7/1/2027,9/9/2027,Rate policy change
+ENR0028,CH0506,CL-JPPS2-01,C-JP,Full-Time,27-28 (Placeholder),2/7/2025,9/10/2027,6/30/2028,Aged into new classroom
+ENR0028,CH0506,CL-JPPS2-01,C-JP,Full-Time,28-29 (Placeholder),2/7/2025,7/1/2028,6/30/2029,Rate policy change
+ENR0028,CH0506,CL-JPPS2-01,C-JP,Full-Time,29-30 (Placeholder),2/7/2025,7/1/2029,9/10/2029,Rate policy change
+ENR0029,CH0507,CL-JPIN-01,C-JP,Part-Time-2Day,24-25,3/6/2025,3/6/2025,6/30/2025,Initial enrollment
+ENR0029,CH0507,CL-JPIN-01,C-JP,Part-Time-2Day,25-26 Grandfathered,3/6/2025,7/1/2025,2/6/2026,Rate policy change
+ENR0030,CH0507,CL-JPTO-01,C-JP,Part-Time-3Day,25-26,3/6/2025,2/7/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0030,CH0507,CL-JPTO-01,C-JP,Part-Time-3Day,26-27 (Placeholder),3/6/2025,7/1/2026,1/7/2027,Rate policy change
+ENR0031,CH0507,CL-JPPS1-01,C-JP,Part-Time-3Day,26-27 (Placeholder),3/6/2025,1/8/2027,6/30/2027,Aged into new classroom; Schedule change
+ENR0031,CH0507,CL-JPPS1-01,C-JP,Part-Time-3Day,27-28 (Placeholder),3/6/2025,7/1/2027,1/8/2028,Rate policy change
+ENR0032,CH0507,CL-JPPS2-01,C-JP,Part-Time-2Day,27-28 (Placeholder),3/6/2025,1/9/2028,6/30/2028,Aged into new classroom; Schedule change
+ENR0032,CH0507,CL-JPPS2-01,C-JP,Part-Time-2Day,28-29 (Placeholder),3/6/2025,7/1/2028,6/30/2029,Rate policy change
+ENR0032,CH0507,CL-JPPS2-01,C-JP,Part-Time-2Day,29-30 (Placeholder),3/6/2025,7/1/2029,1/9/2030,Rate policy change
+ENR0033,CH0508,CL-JPTO-01,C-JP,Part-Time-3Day,24-25,3/9/2025,3/9/2025,6/9/2025,Initial enrollment
+ENR0034,CH0508,CL-JPPS1-01,C-JP,Part-Time-3Day,24-25,3/9/2025,6/10/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0034,CH0508,CL-JPPS1-01,C-JP,Part-Time-3Day,25-26 Grandfathered,3/9/2025,7/1/2025,6/10/2026,Rate policy change
+ENR0035,CH0508,CL-JPPS2-01,C-JP,Full-Time,25-26,3/9/2025,6/11/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0035,CH0508,CL-JPPS2-01,C-JP,Full-Time,26-27 (Placeholder),3/9/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0035,CH0508,CL-JPPS2-01,C-JP,Full-Time,27-28 (Placeholder),3/9/2025,7/1/2027,6/11/2028,Rate policy change
+ENR0036,CH0509,CL-JPTO-01,C-JP,Part-Time-3Day,24-25,3/27/2025,3/27/2025,6/30/2025,Initial enrollment
+ENR0036,CH0509,CL-JPTO-01,C-JP,Part-Time-3Day,25-26 Grandfathered,3/27/2025,7/1/2025,8/27/2025,Rate policy change
+ENR0037,CH0509,CL-JPPS1-01,C-JP,Part-Time-3Day,25-26 Grandfathered,3/27/2025,8/28/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0037,CH0509,CL-JPPS1-01,C-JP,Part-Time-3Day,25-26,3/27/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0037,CH0509,CL-JPPS1-01,C-JP,Part-Time-3Day,26-27 (Placeholder),3/27/2025,7/1/2026,8/28/2026,Rate policy change
+ENR0038,CH0509,CL-JPPS2-01,C-JP,Part-Time-2Day,26-27 (Placeholder),3/27/2025,8/29/2026,6/30/2027,Aged into new classroom; Schedule change
+ENR0038,CH0509,CL-JPPS2-01,C-JP,Part-Time-2Day,27-28 (Placeholder),3/27/2025,7/1/2027,6/30/2028,Rate policy change
+ENR0038,CH0509,CL-JPPS2-01,C-JP,Part-Time-2Day,28-29 (Placeholder),3/27/2025,7/1/2028,8/29/2028,Rate policy change
+ENR0039,CH0510,CL-JPIN-01,C-JP,Part-Time-2Day,24-25,11/12/2024,11/12/2024,2/12/2025,Initial enrollment
+ENR0040,CH0510,CL-JPTO-01,C-JP,Part-Time-3Day,24-25,11/12/2024,2/13/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0040,CH0510,CL-JPTO-01,C-JP,Part-Time-3Day,25-26 Grandfathered,11/12/2024,7/1/2025,1/13/2026,Rate policy change
+ENR0041,CH0510,CL-JPPS1-01,C-JP,Part-Time-2Day,25-26,11/12/2024,1/14/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0041,CH0510,CL-JPPS1-01,C-JP,Part-Time-2Day,26-27 (Placeholder),11/12/2024,7/1/2026,1/14/2027,Rate policy change
+ENR0042,CH0510,CL-JPPS2-01,C-JP,Full-Time,26-27 (Placeholder),11/12/2024,1/15/2027,6/30/2027,Aged into new classroom; Schedule change
+ENR0042,CH0510,CL-JPPS2-01,C-JP,Full-Time,27-28 (Placeholder),11/12/2024,7/1/2027,6/30/2028,Rate policy change
+ENR0042,CH0510,CL-JPPS2-01,C-JP,Full-Time,28-29 (Placeholder),11/12/2024,7/1/2028,1/15/2029,Rate policy change
+ENR0043,CH0511,CL-JPTO-01,C-JP,Full-Time,24-25,11/7/2024,11/7/2024,6/30/2025,Initial enrollment
+ENR0043,CH0511,CL-JPTO-01,C-JP,Full-Time,25-26 Grandfathered,11/7/2024,7/1/2025,9/7/2025,Rate policy change
+ENR0044,CH0511,CL-JPPS1-01,C-JP,Full-Time,25-26 Grandfathered,11/7/2024,9/8/2025,6/29/2026,Aged into new classroom
+ENR0044,CH0511,CL-JPPS1-01,C-JP,Full-Time,25-26,11/7/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0044,CH0511,CL-JPPS1-01,C-JP,Full-Time,26-27 (Placeholder),11/7/2024,7/1/2026,9/8/2026,Rate policy change
+ENR0045,CH0511,CL-JPPS2-01,C-JP,Full-Time,26-27 (Placeholder),11/7/2024,9/9/2026,6/30/2027,Aged into new classroom
+ENR0045,CH0511,CL-JPPS2-01,C-JP,Full-Time,27-28 (Placeholder),11/7/2024,7/1/2027,6/30/2028,Rate policy change
+ENR0045,CH0511,CL-JPPS2-01,C-JP,Full-Time,28-29 (Placeholder),11/7/2024,7/1/2028,9/9/2028,Rate policy change
+ENR0046,CH0512,CL-JPTO-01,C-JP,Full-Time,24-25,1/5/2025,1/5/2025,6/30/2025,Initial enrollment
+ENR0046,CH0512,CL-JPTO-01,C-JP,Full-Time,25-26 Grandfathered,1/5/2025,7/1/2025,9/5/2025,Rate policy change
+ENR0047,CH0512,CL-JPPS1-01,C-JP,Full-Time,25-26 Grandfathered,1/5/2025,9/6/2025,6/29/2026,Aged into new classroom
+ENR0047,CH0512,CL-JPPS1-01,C-JP,Full-Time,25-26,1/5/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0047,CH0512,CL-JPPS1-01,C-JP,Full-Time,26-27 (Placeholder),1/5/2025,7/1/2026,9/6/2026,Rate policy change
+ENR0048,CH0512,CL-JPPS2-01,C-JP,Full-Time,26-27 (Placeholder),1/5/2025,9/7/2026,6/30/2027,Aged into new classroom
+ENR0048,CH0512,CL-JPPS2-01,C-JP,Full-Time,27-28 (Placeholder),1/5/2025,7/1/2027,6/30/2028,Rate policy change
+ENR0048,CH0512,CL-JPPS2-01,C-JP,Full-Time,28-29 (Placeholder),1/5/2025,7/1/2028,9/7/2028,Rate policy change
+ENR0049,CH0513,CL-JPTO-01,C-JP,Part-Time-3Day,24-25,12/17/2024,12/17/2024,6/30/2025,Initial enrollment
+ENR0049,CH0513,CL-JPTO-01,C-JP,Part-Time-3Day,25-26 Grandfathered,12/17/2024,7/1/2025,9/17/2025,Rate policy change
+ENR0050,CH0513,CL-JPPS1-01,C-JP,Full-Time,25-26 Grandfathered,12/17/2024,9/18/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0050,CH0513,CL-JPPS1-01,C-JP,Full-Time,25-26,12/17/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0050,CH0513,CL-JPPS1-01,C-JP,Full-Time,26-27 (Placeholder),12/17/2024,7/1/2026,9/18/2026,Rate policy change
+ENR0051,CH0513,CL-JPPS2-01,C-JP,Full-Time,26-27 (Placeholder),12/17/2024,9/19/2026,6/30/2027,Aged into new classroom
+ENR0051,CH0513,CL-JPPS2-01,C-JP,Full-Time,27-28 (Placeholder),12/17/2024,7/1/2027,6/30/2028,Rate policy change
+ENR0051,CH0513,CL-JPPS2-01,C-JP,Full-Time,28-29 (Placeholder),12/17/2024,7/1/2028,9/19/2028,Rate policy change
+ENR0052,CH0514,CL-JPTO-01,C-JP,Full-Time,24-25,4/17/2025,4/17/2025,6/30/2025,Initial enrollment
+ENR0052,CH0514,CL-JPTO-01,C-JP,Full-Time,25-26 Grandfathered,4/17/2025,7/1/2025,9/17/2025,Rate policy change
+ENR0053,CH0514,CL-JPPS1-01,C-JP,Full-Time,25-26 Grandfathered,4/17/2025,9/18/2025,6/29/2026,Aged into new classroom
+ENR0053,CH0514,CL-JPPS1-01,C-JP,Full-Time,25-26,4/17/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0053,CH0514,CL-JPPS1-01,C-JP,Full-Time,26-27 (Placeholder),4/17/2025,7/1/2026,9/18/2026,Rate policy change
+ENR0054,CH0514,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),4/17/2025,9/19/2026,6/30/2027,Aged into new classroom; Schedule change
+ENR0054,CH0514,CL-JPPS2-01,C-JP,Part-Time-3Day,27-28 (Placeholder),4/17/2025,7/1/2027,6/30/2028,Rate policy change
+ENR0054,CH0514,CL-JPPS2-01,C-JP,Part-Time-3Day,28-29 (Placeholder),4/17/2025,7/1/2028,9/19/2028,Rate policy change
+ENR0055,CH0515,CL-JPIN-01,C-JP,Part-Time-3Day,24-25,12/3/2024,12/3/2024,4/3/2025,Initial enrollment
+ENR0056,CH0515,CL-JPTO-01,C-JP,Part-Time-3Day,24-25,12/3/2024,4/4/2025,6/30/2025,Aged into new classroom
+ENR0056,CH0515,CL-JPTO-01,C-JP,Part-Time-3Day,25-26 Grandfathered,12/3/2024,7/1/2025,3/4/2026,Rate policy change
+ENR0057,CH0515,CL-JPPS1-01,C-JP,Full-Time,25-26,12/3/2024,3/5/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0057,CH0515,CL-JPPS1-01,C-JP,Full-Time,26-27 (Placeholder),12/3/2024,7/1/2026,3/5/2027,Rate policy change
+ENR0058,CH0515,CL-JPPS2-01,C-JP,Part-Time-2Day,26-27 (Placeholder),12/3/2024,3/6/2027,6/30/2027,Aged into new classroom; Schedule change
+ENR0058,CH0515,CL-JPPS2-01,C-JP,Part-Time-2Day,27-28 (Placeholder),12/3/2024,7/1/2027,6/30/2028,Rate policy change
+ENR0058,CH0515,CL-JPPS2-01,C-JP,Part-Time-2Day,28-29 (Placeholder),12/3/2024,7/1/2028,3/6/2029,Rate policy change
+ENR0059,CH0516,CL-JPTO-01,C-JP,Full-Time,24-25,1/13/2025,1/13/2025,6/30/2025,Initial enrollment
+ENR0059,CH0516,CL-JPTO-01,C-JP,Full-Time,25-26 Grandfathered,1/13/2025,7/1/2025,12/13/2025,Rate policy change
+ENR0060,CH0516,CL-JPPS1-01,C-JP,Full-Time,25-26 Grandfathered,1/13/2025,12/14/2025,6/29/2026,Aged into new classroom
+ENR0060,CH0516,CL-JPPS1-01,C-JP,Full-Time,25-26,1/13/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0060,CH0516,CL-JPPS1-01,C-JP,Full-Time,26-27 (Placeholder),1/13/2025,7/1/2026,12/14/2026,Rate policy change
+ENR0061,CH0516,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),1/13/2025,12/15/2026,6/30/2027,Aged into new classroom; Schedule change
+ENR0061,CH0516,CL-JPPS2-01,C-JP,Part-Time-3Day,27-28 (Placeholder),1/13/2025,7/1/2027,6/30/2028,Rate policy change
+ENR0061,CH0516,CL-JPPS2-01,C-JP,Part-Time-3Day,28-29 (Placeholder),1/13/2025,7/1/2028,12/15/2028,Rate policy change
+ENR0062,CH0517,CL-JPTO-01,C-JP,Part-Time-3Day,24-25,1/26/2025,1/26/2025,3/26/2025,Initial enrollment
+ENR0063,CH0517,CL-JPPS1-01,C-JP,Part-Time-3Day,24-25,1/26/2025,3/27/2025,6/30/2025,Aged into new classroom
+ENR0063,CH0517,CL-JPPS1-01,C-JP,Part-Time-3Day,25-26 Grandfathered,1/26/2025,7/1/2025,3/27/2026,Rate policy change
+ENR0064,CH0517,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26,1/26/2025,3/28/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0064,CH0517,CL-JPPS2-01,C-JP,Part-Time-2Day,26-27 (Placeholder),1/26/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0064,CH0517,CL-JPPS2-01,C-JP,Part-Time-2Day,27-28 (Placeholder),1/26/2025,7/1/2027,3/28/2028,Rate policy change
+ENR0065,CH0518,CL-JPPS1-01,C-JP,Part-Time-3Day,24-25,3/1/2025,3/1/2025,6/30/2025,Initial enrollment
+ENR0065,CH0518,CL-JPPS1-01,C-JP,Part-Time-3Day,25-26 Grandfathered,3/1/2025,7/1/2025,8/1/2025,Rate policy change
+ENR0066,CH0518,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26 Grandfathered,3/1/2025,8/2/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0066,CH0518,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26,3/1/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0066,CH0518,CL-JPPS2-01,C-JP,Part-Time-2Day,26-27 (Placeholder),3/1/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0066,CH0518,CL-JPPS2-01,C-JP,Part-Time-2Day,27-28 (Placeholder),3/1/2025,7/1/2027,8/2/2027,Rate policy change
+ENR0067,CH0519,CL-JPTO-01,C-JP,Full-Time,24-25,10/27/2024,10/27/2024,3/27/2025,Initial enrollment
+ENR0068,CH0519,CL-JPPS1-01,C-JP,Full-Time,24-25,10/27/2024,3/28/2025,6/30/2025,Aged into new classroom
+ENR0068,CH0519,CL-JPPS1-01,C-JP,Full-Time,25-26 Grandfathered,10/27/2024,7/1/2025,3/28/2026,Rate policy change
+ENR0069,CH0519,CL-JPPS2-01,C-JP,Full-Time,25-26,10/27/2024,3/29/2026,6/30/2026,Aged into new classroom; Rate policy change
+ENR0069,CH0519,CL-JPPS2-01,C-JP,Full-Time,26-27 (Placeholder),10/27/2024,7/1/2026,6/30/2027,Rate policy change
+ENR0069,CH0519,CL-JPPS2-01,C-JP,Full-Time,27-28 (Placeholder),10/27/2024,7/1/2027,3/29/2028,Rate policy change
+ENR0070,CH0520,CL-JPTO-01,C-JP,Full-Time,24-25,11/9/2024,11/9/2024,3/9/2025,Initial enrollment
+ENR0071,CH0520,CL-JPPS1-01,C-JP,Full-Time,24-25,11/9/2024,3/10/2025,6/30/2025,Aged into new classroom
+ENR0071,CH0520,CL-JPPS1-01,C-JP,Full-Time,25-26 Grandfathered,11/9/2024,7/1/2025,3/10/2026,Rate policy change
+ENR0072,CH0520,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,11/9/2024,3/11/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0072,CH0520,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),11/9/2024,7/1/2026,6/30/2027,Rate policy change
+ENR0072,CH0520,CL-JPPS2-01,C-JP,Part-Time-3Day,27-28 (Placeholder),11/9/2024,7/1/2027,3/11/2028,Rate policy change
+ENR0073,CH0521,CL-JPPS1-01,C-JP,Part-Time-3Day,24-25,2/14/2025,2/14/2025,5/14/2025,Initial enrollment
+ENR0074,CH0521,CL-JPPS2-01,C-JP,Full-Time,24-25,2/14/2025,5/15/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0074,CH0521,CL-JPPS2-01,C-JP,Full-Time,25-26 Grandfathered,2/14/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0074,CH0521,CL-JPPS2-01,C-JP,Full-Time,25-26,2/14/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0074,CH0521,CL-JPPS2-01,C-JP,Full-Time,26-27 (Placeholder),2/14/2025,7/1/2026,5/15/2027,Rate policy change
+ENR0075,CH0522,CL-JPTO-01,C-JP,Part-Time-3Day,24-25,10/23/2024,10/23/2024,12/23/2024,Initial enrollment
+ENR0076,CH0522,CL-JPPS1-01,C-JP,Full-Time,24-25,10/23/2024,12/24/2024,6/30/2025,Aged into new classroom; Schedule change
+ENR0076,CH0522,CL-JPPS1-01,C-JP,Full-Time,25-26 Grandfathered,10/23/2024,7/1/2025,12/24/2025,Rate policy change
+ENR0077,CH0522,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,10/23/2024,12/25/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0077,CH0522,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,10/23/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0077,CH0522,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),10/23/2024,7/1/2026,6/30/2027,Rate policy change
+ENR0077,CH0522,CL-JPPS2-01,C-JP,Part-Time-3Day,27-28 (Placeholder),10/23/2024,7/1/2027,12/25/2027,Rate policy change
+ENR0078,CH0523,CL-JPPS1-01,C-JP,Part-Time-3Day,24-25,1/29/2025,1/29/2025,6/30/2025,Initial enrollment
+ENR0078,CH0523,CL-JPPS1-01,C-JP,Part-Time-3Day,25-26 Grandfathered,1/29/2025,7/1/2025,10/29/2025,Rate policy change
+ENR0079,CH0523,CL-JPPS2-01,C-JP,Full-Time,25-26 Grandfathered,1/29/2025,10/30/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0079,CH0523,CL-JPPS2-01,C-JP,Full-Time,25-26,1/29/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0079,CH0523,CL-JPPS2-01,C-JP,Full-Time,26-27 (Placeholder),1/29/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0079,CH0523,CL-JPPS2-01,C-JP,Full-Time,27-28 (Placeholder),1/29/2025,7/1/2027,10/30/2027,Rate policy change
+ENR0080,CH0524,CL-JPPS1-01,C-JP,Full-Time,24-25,3/23/2025,3/23/2025,6/30/2025,Initial enrollment
+ENR0080,CH0524,CL-JPPS1-01,C-JP,Full-Time,25-26 Grandfathered,3/23/2025,7/1/2025,1/23/2026,Rate policy change
+ENR0081,CH0524,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,3/23/2025,1/24/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0081,CH0524,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),3/23/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0081,CH0524,CL-JPPS2-01,C-JP,Part-Time-3Day,27-28 (Placeholder),3/23/2025,7/1/2027,1/24/2028,Rate policy change
+ENR0082,CH0525,CL-JPPS1-01,C-JP,Full-Time,24-25,12/11/2024,12/11/2024,6/30/2025,Initial enrollment
+ENR0082,CH0525,CL-JPPS1-01,C-JP,Full-Time,25-26 Grandfathered,12/11/2024,7/1/2025,10/11/2025,Rate policy change
+ENR0083,CH0525,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,12/11/2024,10/12/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0083,CH0525,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,12/11/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0083,CH0525,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),12/11/2024,7/1/2026,6/30/2027,Rate policy change
+ENR0083,CH0525,CL-JPPS2-01,C-JP,Part-Time-3Day,27-28 (Placeholder),12/11/2024,7/1/2027,10/12/2027,Rate policy change
+ENR0084,CH0526,CL-JPPS1-01,C-JP,Part-Time-3Day,24-25,1/30/2025,1/30/2025,6/30/2025,Initial enrollment
+ENR0084,CH0526,CL-JPPS1-01,C-JP,Part-Time-3Day,25-26 Grandfathered,1/30/2025,7/1/2025,7/30/2025,Rate policy change
+ENR0085,CH0526,CL-JPPS2-01,C-JP,Full-Time,25-26 Grandfathered,1/30/2025,7/31/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0085,CH0526,CL-JPPS2-01,C-JP,Full-Time,25-26,1/30/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0085,CH0526,CL-JPPS2-01,C-JP,Full-Time,26-27 (Placeholder),1/30/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0085,CH0526,CL-JPPS2-01,C-JP,Full-Time,27-28 (Placeholder),1/30/2025,7/1/2027,7/31/2027,Rate policy change
+ENR0086,CH0527,CL-JPPS1-01,C-JP,Full-Time,24-25,4/2/2025,4/2/2025,6/30/2025,Initial enrollment
+ENR0086,CH0527,CL-JPPS1-01,C-JP,Full-Time,25-26 Grandfathered,4/2/2025,7/1/2025,1/2/2026,Rate policy change
+ENR0087,CH0527,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,4/2/2025,1/3/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0087,CH0527,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),4/2/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0087,CH0527,CL-JPPS2-01,C-JP,Part-Time-3Day,27-28 (Placeholder),4/2/2025,7/1/2027,1/3/2028,Rate policy change
+ENR0088,CH0528,CL-JPTO-01,C-JP,Part-Time-3Day,24-25,2/1/2025,2/1/2025,3/1/2025,Initial enrollment
+ENR0089,CH0528,CL-JPPS1-01,C-JP,Full-Time,24-25,2/1/2025,3/2/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0089,CH0528,CL-JPPS1-01,C-JP,Full-Time,25-26 Grandfathered,2/1/2025,7/1/2025,3/2/2026,Rate policy change
+ENR0090,CH0528,CL-JPPS2-01,C-JP,Full-Time,25-26,2/1/2025,3/3/2026,6/30/2026,Aged into new classroom; Rate policy change
+ENR0090,CH0528,CL-JPPS2-01,C-JP,Full-Time,26-27 (Placeholder),2/1/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0090,CH0528,CL-JPPS2-01,C-JP,Full-Time,27-28 (Placeholder),2/1/2025,7/1/2027,3/3/2028,Rate policy change
+ENR0091,CH0529,CL-JPPS1-01,C-JP,Full-Time,24-25,12/23/2024,12/23/2024,6/30/2025,Initial enrollment
+ENR0091,CH0529,CL-JPPS1-01,C-JP,Full-Time,25-26 Grandfathered,12/23/2024,7/1/2025,11/23/2025,Rate policy change
+ENR0092,CH0529,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26 Grandfathered,12/23/2024,11/24/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0092,CH0529,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26,12/23/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0092,CH0529,CL-JPPS2-01,C-JP,Part-Time-2Day,26-27 (Placeholder),12/23/2024,7/1/2026,6/30/2027,Rate policy change
+ENR0092,CH0529,CL-JPPS2-01,C-JP,Part-Time-2Day,27-28 (Placeholder),12/23/2024,7/1/2027,11/24/2027,Rate policy change
+ENR0093,CH0530,CL-JPPS1-01,C-JP,Part-Time-2Day,24-25,12/6/2024,12/6/2024,5/6/2025,Initial enrollment
+ENR0094,CH0530,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,12/6/2024,5/7/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0094,CH0530,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,12/6/2024,7/1/2025,6/29/2026,Rate policy change
+ENR0094,CH0530,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,12/6/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0094,CH0530,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),12/6/2024,7/1/2026,5/7/2027,Rate policy change
+ENR0095,CH0531,CL-JPPS1-01,C-JP,Full-Time,24-25,12/5/2024,12/5/2024,6/30/2025,Initial enrollment
+ENR0095,CH0531,CL-JPPS1-01,C-JP,Full-Time,25-26 Grandfathered,12/5/2024,7/1/2025,7/5/2025,Rate policy change
+ENR0096,CH0531,CL-JPPS2-01,C-JP,Full-Time,25-26 Grandfathered,12/5/2024,7/6/2025,6/29/2026,Aged into new classroom
+ENR0096,CH0531,CL-JPPS2-01,C-JP,Full-Time,25-26,12/5/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0096,CH0531,CL-JPPS2-01,C-JP,Full-Time,26-27 (Placeholder),12/5/2024,7/1/2026,6/30/2027,Rate policy change
+ENR0096,CH0531,CL-JPPS2-01,C-JP,Full-Time,27-28 (Placeholder),12/5/2024,7/1/2027,7/6/2027,Rate policy change
+ENR0097,CH0532,CL-JPPS1-01,C-JP,Part-Time-3Day,24-25,12/28/2024,12/28/2024,6/30/2025,Initial enrollment
+ENR0097,CH0532,CL-JPPS1-01,C-JP,Part-Time-3Day,25-26 Grandfathered,12/28/2024,7/1/2025,10/28/2025,Rate policy change
+ENR0098,CH0532,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,12/28/2024,10/29/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0098,CH0532,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,12/28/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0098,CH0532,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),12/28/2024,7/1/2026,6/30/2027,Rate policy change
+ENR0098,CH0532,CL-JPPS2-01,C-JP,Part-Time-3Day,27-28 (Placeholder),12/28/2024,7/1/2027,10/29/2027,Rate policy change
+ENR0099,CH0533,CL-JPPS1-01,C-JP,Part-Time-3Day,24-25,3/15/2025,3/15/2025,6/15/2025,Initial enrollment
+ENR0100,CH0533,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,3/15/2025,6/16/2025,6/30/2025,Aged into new classroom
+ENR0100,CH0533,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,3/15/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0100,CH0533,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,3/15/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0100,CH0533,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),3/15/2025,7/1/2026,6/16/2027,Rate policy change
+ENR0101,CH0534,CL-JPPS1-01,C-JP,Full-Time,24-25,12/14/2024,12/14/2024,6/30/2025,Initial enrollment
+ENR0101,CH0534,CL-JPPS1-01,C-JP,Full-Time,25-26 Grandfathered,12/14/2024,7/1/2025,10/14/2025,Rate policy change
+ENR0102,CH0534,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26 Grandfathered,12/14/2024,10/15/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0102,CH0534,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26,12/14/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0102,CH0534,CL-JPPS2-01,C-JP,Part-Time-2Day,26-27 (Placeholder),12/14/2024,7/1/2026,6/30/2027,Rate policy change
+ENR0102,CH0534,CL-JPPS2-01,C-JP,Part-Time-2Day,27-28 (Placeholder),12/14/2024,7/1/2027,10/15/2027,Rate policy change
+ENR0103,CH0535,CL-JPPS2-01,C-JP,Part-Time-2Day,24-25,3/1/2025,3/1/2025,6/30/2025,Initial enrollment
+ENR0103,CH0535,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26 Grandfathered,3/1/2025,7/1/2025,12/31/2025,Rate policy change
+ENR0104,CH0536,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,1/5/2025,1/5/2025,6/30/2025,Initial enrollment
+ENR0104,CH0536,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,1/5/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0104,CH0536,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,1/5/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0104,CH0536,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),1/5/2025,7/1/2026,11/5/2026,Rate policy change
+ENR0105,CH0537,CL-JPPS1-01,C-JP,Full-Time,24-25,2/19/2025,2/19/2025,4/19/2025,Initial enrollment
+ENR0106,CH0537,CL-JPPS2-01,C-JP,Part-Time-2Day,24-25,2/19/2025,4/20/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0106,CH0537,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26 Grandfathered,2/19/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0106,CH0537,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26,2/19/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0106,CH0537,CL-JPPS2-01,C-JP,Part-Time-2Day,26-27 (Placeholder),2/19/2025,7/1/2026,4/20/2027,Rate policy change
+ENR0107,CH0538,CL-JPPS2-01,C-JP,Full-Time,24-25,3/16/2025,3/16/2025,6/30/2025,Initial enrollment
+ENR0107,CH0538,CL-JPPS2-01,C-JP,Full-Time,25-26 Grandfathered,3/16/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0107,CH0538,CL-JPPS2-01,C-JP,Full-Time,25-26,3/16/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0107,CH0538,CL-JPPS2-01,C-JP,Full-Time,26-27 (Placeholder),3/16/2025,7/1/2026,9/16/2026,Rate policy change
+ENR0108,CH0539,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,4/13/2025,4/13/2025,6/30/2025,Initial enrollment
+ENR0108,CH0539,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,4/13/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0108,CH0539,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,4/13/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0108,CH0539,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),4/13/2025,7/1/2026,10/13/2026,Rate policy change
+ENR0109,CH0540,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,12/10/2024,12/10/2024,6/30/2025,Initial enrollment
+ENR0109,CH0540,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,12/10/2024,7/1/2025,10/10/2025,Rate policy change
+ENR0110,CH0541,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,3/18/2025,3/18/2025,6/30/2025,Initial enrollment
+ENR0110,CH0541,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,3/18/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0110,CH0541,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,3/18/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0110,CH0541,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),3/18/2025,7/1/2026,11/18/2026,Rate policy change
+ENR0111,CH0542,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,11/3/2024,11/3/2024,6/30/2025,Initial enrollment
+ENR0111,CH0542,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,11/3/2024,7/1/2025,12/31/2025,Rate policy change
+ENR0112,CH0543,CL-JPPS1-01,C-JP,Full-Time,24-25,1/12/2025,1/12/2025,3/12/2025,Initial enrollment
+ENR0113,CH0543,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,1/12/2025,3/13/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0113,CH0543,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,1/12/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0113,CH0543,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,1/12/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0113,CH0543,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),1/12/2025,7/1/2026,3/13/2027,Rate policy change
+ENR0114,CH0544,CL-JPPS2-01,C-JP,Full-Time,24-25,2/12/2025,2/12/2025,6/30/2025,Initial enrollment
+ENR0114,CH0544,CL-JPPS2-01,C-JP,Full-Time,25-26 Grandfathered,2/12/2025,7/1/2025,8/12/2025,Rate policy change
+ENR0115,CH0545,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,11/10/2024,11/10/2024,6/30/2025,Initial enrollment
+ENR0115,CH0545,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,11/10/2024,7/1/2025,11/10/2025,Rate policy change
+ENR0116,CH0546,CL-JPPS1-01,C-JP,Part-Time-3Day,24-25,11/17/2024,11/17/2024,3/17/2025,Initial enrollment
+ENR0117,CH0546,CL-JPPS2-01,C-JP,Full-Time,24-25,11/17/2024,3/18/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0117,CH0546,CL-JPPS2-01,C-JP,Full-Time,25-26 Grandfathered,11/17/2024,7/1/2025,6/29/2026,Rate policy change
+ENR0117,CH0546,CL-JPPS2-01,C-JP,Full-Time,25-26,11/17/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0117,CH0546,CL-JPPS2-01,C-JP,Full-Time,26-27 (Placeholder),11/17/2024,7/1/2026,3/18/2027,Rate policy change
+ENR0118,CH0547,CL-JPPS1-01,C-JP,Part-Time-2Day,24-25,10/31/2024,10/31/2024,3/31/2025,Initial enrollment
+ENR0119,CH0547,CL-JPPS2-01,C-JP,Part-Time-2Day,24-25,10/31/2024,4/1/2025,6/30/2025,Aged into new classroom
+ENR0119,CH0547,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26 Grandfathered,10/31/2024,7/1/2025,6/29/2026,Rate policy change
+ENR0119,CH0547,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26,10/31/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0119,CH0547,CL-JPPS2-01,C-JP,Part-Time-2Day,26-27 (Placeholder),10/31/2024,7/1/2026,4/1/2027,Rate policy change
+ENR0120,CH0548,CL-JPPS1-01,C-JP,Full-Time,24-25,11/2/2024,11/2/2024,1/2/2025,Initial enrollment
+ENR0121,CH0548,CL-JPPS2-01,C-JP,Part-Time-2Day,24-25,11/2/2024,1/3/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0121,CH0548,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26 Grandfathered,11/2/2024,7/1/2025,6/29/2026,Rate policy change
+ENR0121,CH0548,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26,11/2/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0121,CH0548,CL-JPPS2-01,C-JP,Part-Time-2Day,26-27 (Placeholder),11/2/2024,7/1/2026,1/3/2027,Rate policy change
+ENR0122,CH0549,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,4/6/2025,4/6/2025,6/30/2025,Initial enrollment
+ENR0122,CH0549,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,4/6/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0122,CH0549,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,4/6/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0122,CH0549,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),4/6/2025,7/1/2026,4/6/2027,Rate policy change
+ENR0123,CH0550,CL-JPPS2-01,C-JP,Part-Time-2Day,24-25,3/20/2025,3/20/2025,6/20/2025,Initial enrollment
+ENR0124,CH0551,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,12/26/2024,12/26/2024,6/30/2025,Initial enrollment
+ENR0124,CH0551,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,12/26/2024,7/1/2025,12/31/2025,Rate policy change
+ENR0125,CH0552,CL-JPPS2-01,C-JP,Full-Time,24-25,3/18/2025,3/18/2025,6/30/2025,Initial enrollment
+ENR0125,CH0552,CL-JPPS2-01,C-JP,Full-Time,25-26 Grandfathered,3/18/2025,7/1/2025,12/31/2025,Rate policy change
+ENR0126,CH0553,CL-JPPS2-01,C-JP,Full-Time,24-25,2/13/2025,2/13/2025,6/30/2025,Initial enrollment
+ENR0126,CH0553,CL-JPPS2-01,C-JP,Full-Time,25-26 Grandfathered,2/13/2025,7/1/2025,11/13/2025,Rate policy change
+ENR0127,CH0554,CL-JPPS2-01,C-JP,Full-Time,24-25,10/21/2024,10/21/2024,6/30/2025,Initial enrollment
+ENR0127,CH0554,CL-JPPS2-01,C-JP,Full-Time,25-26 Grandfathered,10/21/2024,7/1/2025,12/31/2025,Rate policy change
+ENR0128,CH0555,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,2/25/2025,2/25/2025,6/30/2025,Initial enrollment
+ENR0128,CH0555,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,2/25/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0128,CH0555,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,2/25/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0128,CH0555,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),2/25/2025,7/1/2026,12/25/2026,Rate policy change
+ENR0129,CH0556,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,10/25/2024,10/25/2024,6/25/2025,Initial enrollment
+ENR0130,CH0557,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,4/16/2025,4/16/2025,6/30/2025,Initial enrollment
+ENR0130,CH0557,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,4/16/2025,7/1/2025,8/16/2025,Rate policy change
+ENR0131,CH0558,CL-JPPS2-01,C-JP,Full-Time,24-25,1/1/2025,1/1/2025,6/30/2025,Initial enrollment
+ENR0131,CH0558,CL-JPPS2-01,C-JP,Full-Time,25-26 Grandfathered,1/1/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0131,CH0558,CL-JPPS2-01,C-JP,Full-Time,25-26,1/1/2025,6/30/2026,7/1/2026,Rate policy change
+ENR0132,CH0559,CL-JPPS2-01,C-JP,Full-Time,24-25,3/24/2025,3/24/2025,6/30/2025,Initial enrollment
+ENR0132,CH0559,CL-JPPS2-01,C-JP,Full-Time,25-26 Grandfathered,3/24/2025,7/1/2025,7/24/2025,Rate policy change
+ENR0133,CH0560,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,12/6/2024,12/6/2024,6/30/2025,Initial enrollment
+ENR0133,CH0560,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,12/6/2024,7/1/2025,7/6/2025,Rate policy change
+ENR0134,CH0561,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,11/10/2024,11/10/2024,6/30/2025,Initial enrollment
+ENR0134,CH0561,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,11/10/2024,7/1/2025,6/29/2026,Rate policy change
+ENR0134,CH0561,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,11/10/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0134,CH0561,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),11/10/2024,7/1/2026,8/10/2026,Rate policy change
+ENR0135,CH0562,CL-JPPS2-01,C-JP,Full-Time,24-25,10/21/2024,10/21/2024,6/30/2025,Initial enrollment
+ENR0135,CH0562,CL-JPPS2-01,C-JP,Full-Time,25-26 Grandfathered,10/21/2024,7/1/2025,9/21/2025,Rate policy change
+ENR0136,CH0602,CL-HPIN-01,C-HP,Full-Time,24-25,11/11/2024,11/11/2024,6/11/2025,Initial enrollment
+ENR0137,CH0602,CL-HPTO-01,C-HP,Full-Time,24-25,11/11/2024,6/12/2025,6/30/2025,Aged into new classroom
+ENR0137,CH0602,CL-HPTO-01,C-HP,Full-Time,25-26 Grandfathered,11/11/2024,7/1/2025,5/12/2026,Rate policy change
+ENR0138,CH0602,CL-HPPS1-01,C-HP,Part-Time-2Day,25-26,11/11/2024,5/13/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0138,CH0602,CL-HPPS1-01,C-HP,Part-Time-2Day,26-27 (Placeholder),11/11/2024,7/1/2026,5/13/2027,Rate policy change
+ENR0139,CH0602,CL-HPPS2-01,C-HP,Part-Time-2Day,26-27 (Placeholder),11/11/2024,5/14/2027,6/30/2027,Aged into new classroom
+ENR0139,CH0602,CL-HPPS2-01,C-HP,Part-Time-2Day,27-28 (Placeholder),11/11/2024,7/1/2027,6/30/2028,Rate policy change
+ENR0139,CH0602,CL-HPPS2-01,C-HP,Part-Time-2Day,28-29 (Placeholder),11/11/2024,7/1/2028,5/14/2029,Rate policy change
+ENR0140,CH0604,CL-HPIN-01,C-HP,Full-Time,24-25,3/22/2025,3/22/2025,6/30/2025,Initial enrollment
+ENR0140,CH0604,CL-HPIN-01,C-HP,Full-Time,25-26 Grandfathered,3/22/2025,7/1/2025,4/22/2026,Rate policy change
+ENR0141,CH0604,CL-HPTO-01,C-HP,Full-Time,25-26,3/22/2025,4/23/2026,6/30/2026,Aged into new classroom; Rate policy change
+ENR0141,CH0604,CL-HPTO-01,C-HP,Full-Time,26-27 (Placeholder),3/22/2025,7/1/2026,3/23/2027,Rate policy change
+ENR0142,CH0604,CL-HPPS1-01,C-HP,Part-Time-3Day,26-27 (Placeholder),3/22/2025,3/24/2027,6/30/2027,Aged into new classroom; Schedule change
+ENR0142,CH0604,CL-HPPS1-01,C-HP,Part-Time-3Day,27-28 (Placeholder),3/22/2025,7/1/2027,3/24/2028,Rate policy change
+ENR0143,CH0604,CL-HPPS2-01,C-HP,Full-Time,27-28 (Placeholder),3/22/2025,3/25/2028,6/30/2028,Aged into new classroom; Schedule change
+ENR0143,CH0604,CL-HPPS2-01,C-HP,Full-Time,28-29 (Placeholder),3/22/2025,7/1/2028,6/30/2029,Rate policy change
+ENR0143,CH0604,CL-HPPS2-01,C-HP,Full-Time,29-30 (Placeholder),3/22/2025,7/1/2029,3/25/2030,Rate policy change
+ENR0144,CH0605,CL-HPTO-01,C-HP,Part-Time-2Day,24-25,2/27/2025,2/27/2025,6/30/2025,Initial enrollment
+ENR0144,CH0605,CL-HPTO-01,C-HP,Part-Time-2Day,25-26 Grandfathered,2/27/2025,7/1/2025,8/27/2025,Rate policy change
+ENR0145,CH0605,CL-HPPS1-01,C-HP,Part-Time-3Day,25-26 Grandfathered,2/27/2025,8/28/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0145,CH0605,CL-HPPS1-01,C-HP,Part-Time-3Day,25-26,2/27/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0145,CH0605,CL-HPPS1-01,C-HP,Part-Time-3Day,26-27 (Placeholder),2/27/2025,7/1/2026,8/28/2026,Rate policy change
+ENR0146,CH0605,CL-HPPS2-01,C-HP,Full-Time,26-27 (Placeholder),2/27/2025,8/29/2026,6/30/2027,Aged into new classroom; Schedule change
+ENR0146,CH0605,CL-HPPS2-01,C-HP,Full-Time,27-28 (Placeholder),2/27/2025,7/1/2027,6/30/2028,Rate policy change
+ENR0146,CH0605,CL-HPPS2-01,C-HP,Full-Time,28-29 (Placeholder),2/27/2025,7/1/2028,8/29/2028,Rate policy change
+ENR0147,CH0606,CL-HPTO-01,C-HP,Part-Time-3Day,24-25,2/26/2025,2/26/2025,6/26/2025,Initial enrollment
+ENR0148,CH0606,CL-HPPS1-01,C-HP,Part-Time-2Day,24-25,2/26/2025,6/27/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0148,CH0606,CL-HPPS1-01,C-HP,Part-Time-2Day,25-26 Grandfathered,2/26/2025,7/1/2025,6/27/2026,Rate policy change
+ENR0149,CH0606,CL-HPPS2-01,C-HP,Full-Time,25-26,2/26/2025,6/28/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0149,CH0606,CL-HPPS2-01,C-HP,Full-Time,26-27 (Placeholder),2/26/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0149,CH0606,CL-HPPS2-01,C-HP,Full-Time,27-28 (Placeholder),2/26/2025,7/1/2027,6/28/2028,Rate policy change
+ENR0150,CH0607,CL-HPTO-01,C-HP,Full-Time,24-25,12/6/2024,12/6/2024,6/30/2025,Initial enrollment
+ENR0150,CH0607,CL-HPTO-01,C-HP,Full-Time,25-26 Grandfathered,12/6/2024,7/1/2025,11/6/2025,Rate policy change
+ENR0151,CH0607,CL-HPPS1-01,C-HP,Part-Time-3Day,25-26 Grandfathered,12/6/2024,11/7/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0151,CH0607,CL-HPPS1-01,C-HP,Part-Time-3Day,25-26,12/6/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0151,CH0607,CL-HPPS1-01,C-HP,Part-Time-3Day,26-27 (Placeholder),12/6/2024,7/1/2026,11/7/2026,Rate policy change
+ENR0152,CH0607,CL-HPPS2-01,C-HP,Part-Time-2Day,26-27 (Placeholder),12/6/2024,11/8/2026,6/30/2027,Aged into new classroom; Schedule change
+ENR0152,CH0607,CL-HPPS2-01,C-HP,Part-Time-2Day,27-28 (Placeholder),12/6/2024,7/1/2027,6/30/2028,Rate policy change
+ENR0152,CH0607,CL-HPPS2-01,C-HP,Part-Time-2Day,28-29 (Placeholder),12/6/2024,7/1/2028,11/8/2028,Rate policy change
+ENR0153,CH0608,CL-HPTO-01,C-HP,Full-Time,24-25,1/17/2025,1/17/2025,6/30/2025,Initial enrollment
+ENR0153,CH0608,CL-HPTO-01,C-HP,Full-Time,25-26 Grandfathered,1/17/2025,7/1/2025,12/17/2025,Rate policy change
+ENR0154,CH0608,CL-HPPS1-01,C-HP,Part-Time-3Day,25-26 Grandfathered,1/17/2025,12/18/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0154,CH0608,CL-HPPS1-01,C-HP,Part-Time-3Day,25-26,1/17/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0154,CH0608,CL-HPPS1-01,C-HP,Part-Time-3Day,26-27 (Placeholder),1/17/2025,7/1/2026,12/18/2026,Rate policy change
+ENR0155,CH0608,CL-HPPS2-01,C-HP,Full-Time,26-27 (Placeholder),1/17/2025,12/19/2026,6/30/2027,Aged into new classroom; Schedule change
+ENR0155,CH0608,CL-HPPS2-01,C-HP,Full-Time,27-28 (Placeholder),1/17/2025,7/1/2027,6/30/2028,Rate policy change
+ENR0155,CH0608,CL-HPPS2-01,C-HP,Full-Time,28-29 (Placeholder),1/17/2025,7/1/2028,12/19/2028,Rate policy change
+ENR0156,CH0609,CL-HPTO-01,C-HP,Full-Time,24-25,1/4/2025,1/4/2025,4/4/2025,Initial enrollment
+ENR0157,CH0609,CL-HPPS1-01,C-HP,Full-Time,24-25,1/4/2025,4/5/2025,6/30/2025,Aged into new classroom
+ENR0157,CH0609,CL-HPPS1-01,C-HP,Full-Time,25-26 Grandfathered,1/4/2025,7/1/2025,4/5/2026,Rate policy change
+ENR0158,CH0609,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26,1/4/2025,4/6/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0158,CH0609,CL-HPPS2-01,C-HP,Part-Time-3Day,26-27 (Placeholder),1/4/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0158,CH0609,CL-HPPS2-01,C-HP,Part-Time-3Day,27-28 (Placeholder),1/4/2025,7/1/2027,4/6/2028,Rate policy change
+ENR0159,CH0610,CL-HPTO-01,C-HP,Full-Time,24-25,3/8/2025,3/8/2025,6/30/2025,Initial enrollment
+ENR0159,CH0610,CL-HPTO-01,C-HP,Full-Time,25-26 Grandfathered,3/8/2025,7/1/2025,11/8/2025,Rate policy change
+ENR0160,CH0610,CL-HPPS1-01,C-HP,Full-Time,25-26 Grandfathered,3/8/2025,11/9/2025,6/29/2026,Aged into new classroom
+ENR0160,CH0610,CL-HPPS1-01,C-HP,Full-Time,25-26,3/8/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0160,CH0610,CL-HPPS1-01,C-HP,Full-Time,26-27 (Placeholder),3/8/2025,7/1/2026,11/9/2026,Rate policy change
+ENR0161,CH0610,CL-HPPS2-01,C-HP,Full-Time,26-27 (Placeholder),3/8/2025,11/10/2026,6/30/2027,Aged into new classroom
+ENR0161,CH0610,CL-HPPS2-01,C-HP,Full-Time,27-28 (Placeholder),3/8/2025,7/1/2027,6/30/2028,Rate policy change
+ENR0161,CH0610,CL-HPPS2-01,C-HP,Full-Time,28-29 (Placeholder),3/8/2025,7/1/2028,11/10/2028,Rate policy change
+ENR0162,CH0611,CL-HPIN-01,C-HP,Part-Time-3Day,24-25,11/29/2024,11/29/2024,4/29/2025,Initial enrollment
+ENR0163,CH0611,CL-HPTO-01,C-HP,Full-Time,24-25,11/29/2024,4/30/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0163,CH0611,CL-HPTO-01,C-HP,Full-Time,25-26 Grandfathered,11/29/2024,7/1/2025,3/30/2026,Rate policy change
+ENR0164,CH0611,CL-HPPS1-01,C-HP,Part-Time-3Day,25-26,11/29/2024,3/31/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0164,CH0611,CL-HPPS1-01,C-HP,Part-Time-3Day,26-27 (Placeholder),11/29/2024,7/1/2026,3/31/2027,Rate policy change
+ENR0165,CH0611,CL-HPPS2-01,C-HP,Part-Time-3Day,26-27 (Placeholder),11/29/2024,4/1/2027,6/30/2027,Aged into new classroom
+ENR0165,CH0611,CL-HPPS2-01,C-HP,Part-Time-3Day,27-28 (Placeholder),11/29/2024,7/1/2027,6/30/2028,Rate policy change
+ENR0165,CH0611,CL-HPPS2-01,C-HP,Part-Time-3Day,28-29 (Placeholder),11/29/2024,7/1/2028,4/1/2029,Rate policy change
+ENR0166,CH0612,CL-HPTO-01,C-HP,Full-Time,24-25,2/24/2025,2/24/2025,6/30/2025,Initial enrollment
+ENR0166,CH0612,CL-HPTO-01,C-HP,Full-Time,25-26 Grandfathered,2/24/2025,7/1/2025,8/24/2025,Rate policy change
+ENR0167,CH0612,CL-HPPS1-01,C-HP,Full-Time,25-26 Grandfathered,2/24/2025,8/25/2025,6/29/2026,Aged into new classroom
+ENR0167,CH0612,CL-HPPS1-01,C-HP,Full-Time,25-26,2/24/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0167,CH0612,CL-HPPS1-01,C-HP,Full-Time,26-27 (Placeholder),2/24/2025,7/1/2026,8/25/2026,Rate policy change
+ENR0168,CH0612,CL-HPPS2-01,C-HP,Part-Time-2Day,26-27 (Placeholder),2/24/2025,8/26/2026,6/30/2027,Aged into new classroom; Schedule change
+ENR0168,CH0612,CL-HPPS2-01,C-HP,Part-Time-2Day,27-28 (Placeholder),2/24/2025,7/1/2027,6/30/2028,Rate policy change
+ENR0168,CH0612,CL-HPPS2-01,C-HP,Part-Time-2Day,28-29 (Placeholder),2/24/2025,7/1/2028,8/26/2028,Rate policy change
+ENR0169,CH0613,CL-HPPS1-01,C-HP,Full-Time,24-25,12/16/2024,12/16/2024,5/16/2025,Initial enrollment
+ENR0170,CH0613,CL-HPPS2-01,C-HP,Full-Time,24-25,12/16/2024,5/17/2025,6/30/2025,Aged into new classroom
+ENR0170,CH0613,CL-HPPS2-01,C-HP,Full-Time,25-26 Grandfathered,12/16/2024,7/1/2025,6/29/2026,Rate policy change
+ENR0170,CH0613,CL-HPPS2-01,C-HP,Full-Time,25-26,12/16/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0170,CH0613,CL-HPPS2-01,C-HP,Full-Time,26-27 (Placeholder),12/16/2024,7/1/2026,5/17/2027,Rate policy change
+ENR0171,CH0614,CL-HPPS1-01,C-HP,Part-Time-3Day,24-25,2/17/2025,2/17/2025,6/30/2025,Initial enrollment
+ENR0171,CH0614,CL-HPPS1-01,C-HP,Part-Time-3Day,25-26 Grandfathered,2/17/2025,7/1/2025,10/17/2025,Rate policy change
+ENR0172,CH0614,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26 Grandfathered,2/17/2025,10/18/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0172,CH0614,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26,2/17/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0172,CH0614,CL-HPPS2-01,C-HP,Part-Time-3Day,26-27 (Placeholder),2/17/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0172,CH0614,CL-HPPS2-01,C-HP,Part-Time-3Day,27-28 (Placeholder),2/17/2025,7/1/2027,10/18/2027,Rate policy change
+ENR0173,CH0615,CL-HPPS1-01,C-HP,Part-Time-3Day,24-25,4/15/2025,4/15/2025,6/30/2025,Initial enrollment
+ENR0173,CH0615,CL-HPPS1-01,C-HP,Part-Time-3Day,25-26 Grandfathered,4/15/2025,7/1/2025,3/15/2026,Rate policy change
+ENR0174,CH0615,CL-HPPS2-01,C-HP,Part-Time-2Day,25-26,4/15/2025,3/16/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0174,CH0615,CL-HPPS2-01,C-HP,Part-Time-2Day,26-27 (Placeholder),4/15/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0174,CH0615,CL-HPPS2-01,C-HP,Part-Time-2Day,27-28 (Placeholder),4/15/2025,7/1/2027,3/16/2028,Rate policy change
+ENR0175,CH0616,CL-HPPS1-01,C-HP,Part-Time-3Day,24-25,3/27/2025,3/27/2025,6/27/2025,Initial enrollment
+ENR0176,CH0616,CL-HPPS2-01,C-HP,Full-Time,24-25,3/27/2025,6/28/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0176,CH0616,CL-HPPS2-01,C-HP,Full-Time,25-26 Grandfathered,3/27/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0176,CH0616,CL-HPPS2-01,C-HP,Full-Time,25-26,3/27/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0176,CH0616,CL-HPPS2-01,C-HP,Full-Time,26-27 (Placeholder),3/27/2025,7/1/2026,6/28/2027,Rate policy change
+ENR0177,CH0617,CL-HPTO-01,C-HP,Full-Time,24-25,11/23/2024,11/23/2024,2/23/2025,Initial enrollment
+ENR0178,CH0617,CL-HPPS1-01,C-HP,Part-Time-3Day,24-25,11/23/2024,2/24/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0178,CH0617,CL-HPPS1-01,C-HP,Part-Time-3Day,25-26 Grandfathered,11/23/2024,7/1/2025,2/24/2026,Rate policy change
+ENR0179,CH0617,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26,11/23/2024,2/25/2026,6/30/2026,Aged into new classroom; Rate policy change
+ENR0179,CH0617,CL-HPPS2-01,C-HP,Part-Time-3Day,26-27 (Placeholder),11/23/2024,7/1/2026,6/30/2027,Rate policy change
+ENR0179,CH0617,CL-HPPS2-01,C-HP,Part-Time-3Day,27-28 (Placeholder),11/23/2024,7/1/2027,2/25/2028,Rate policy change
+ENR0180,CH0618,CL-HPPS1-01,C-HP,Part-Time-3Day,24-25,12/13/2024,12/13/2024,6/13/2025,Initial enrollment
+ENR0181,CH0618,CL-HPPS2-01,C-HP,Part-Time-2Day,24-25,12/13/2024,6/14/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0181,CH0618,CL-HPPS2-01,C-HP,Part-Time-2Day,25-26 Grandfathered,12/13/2024,7/1/2025,6/29/2026,Rate policy change
+ENR0181,CH0618,CL-HPPS2-01,C-HP,Part-Time-2Day,25-26,12/13/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0181,CH0618,CL-HPPS2-01,C-HP,Part-Time-2Day,26-27 (Placeholder),12/13/2024,7/1/2026,6/14/2027,Rate policy change
+ENR0182,CH0619,CL-HPPS1-01,C-HP,Part-Time-2Day,24-25,3/26/2025,3/26/2025,6/30/2025,Initial enrollment
+ENR0182,CH0619,CL-HPPS1-01,C-HP,Part-Time-2Day,25-26 Grandfathered,3/26/2025,7/1/2025,1/26/2026,Rate policy change
+ENR0183,CH0619,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26,3/26/2025,1/27/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0183,CH0619,CL-HPPS2-01,C-HP,Part-Time-3Day,26-27 (Placeholder),3/26/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0183,CH0619,CL-HPPS2-01,C-HP,Part-Time-3Day,27-28 (Placeholder),3/26/2025,7/1/2027,1/27/2028,Rate policy change
+ENR0184,CH0620,CL-HPPS1-01,C-HP,Full-Time,24-25,3/30/2025,3/30/2025,6/30/2025,Initial enrollment
+ENR0184,CH0620,CL-HPPS1-01,C-HP,Full-Time,25-26 Grandfathered,3/30/2025,7/1/2025,8/30/2025,Rate policy change
+ENR0185,CH0620,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26 Grandfathered,3/30/2025,8/31/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0185,CH0620,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26,3/30/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0185,CH0620,CL-HPPS2-01,C-HP,Part-Time-3Day,26-27 (Placeholder),3/30/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0185,CH0620,CL-HPPS2-01,C-HP,Part-Time-3Day,27-28 (Placeholder),3/30/2025,7/1/2027,8/31/2027,Rate policy change
+ENR0186,CH0621,CL-HPPS1-01,C-HP,Full-Time,24-25,3/24/2025,3/24/2025,5/24/2025,Initial enrollment
+ENR0187,CH0621,CL-HPPS2-01,C-HP,Part-Time-3Day,24-25,3/24/2025,5/25/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0187,CH0621,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26 Grandfathered,3/24/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0187,CH0621,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26,3/24/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0187,CH0621,CL-HPPS2-01,C-HP,Part-Time-3Day,26-27 (Placeholder),3/24/2025,7/1/2026,5/25/2027,Rate policy change
+ENR0188,CH0622,CL-HPPS1-01,C-HP,Full-Time,24-25,11/5/2024,11/5/2024,6/30/2025,Initial enrollment
+ENR0188,CH0622,CL-HPPS1-01,C-HP,Full-Time,25-26 Grandfathered,11/5/2024,7/1/2025,11/5/2025,Rate policy change
+ENR0189,CH0622,CL-HPPS2-01,C-HP,Full-Time,25-26 Grandfathered,11/5/2024,11/6/2025,6/29/2026,Aged into new classroom
+ENR0189,CH0622,CL-HPPS2-01,C-HP,Full-Time,25-26,11/5/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0189,CH0622,CL-HPPS2-01,C-HP,Full-Time,26-27 (Placeholder),11/5/2024,7/1/2026,6/30/2027,Rate policy change
+ENR0189,CH0622,CL-HPPS2-01,C-HP,Full-Time,27-28 (Placeholder),11/5/2024,7/1/2027,11/6/2027,Rate policy change
+ENR0190,CH0623,CL-HPPS1-01,C-HP,Part-Time-3Day,24-25,12/23/2024,12/23/2024,6/30/2025,Initial enrollment
+ENR0190,CH0623,CL-HPPS1-01,C-HP,Part-Time-3Day,25-26 Grandfathered,12/23/2024,7/1/2025,12/23/2025,Rate policy change
+ENR0191,CH0623,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26 Grandfathered,12/23/2024,12/24/2025,6/29/2026,Aged into new classroom
+ENR0191,CH0623,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26,12/23/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0191,CH0623,CL-HPPS2-01,C-HP,Part-Time-3Day,26-27 (Placeholder),12/23/2024,7/1/2026,6/30/2027,Rate policy change
+ENR0191,CH0623,CL-HPPS2-01,C-HP,Part-Time-3Day,27-28 (Placeholder),12/23/2024,7/1/2027,12/24/2027,Rate policy change
+ENR0192,CH0624,CL-HPPS1-01,C-HP,Full-Time,24-25,2/10/2025,2/10/2025,6/30/2025,Initial enrollment
+ENR0192,CH0624,CL-HPPS1-01,C-HP,Full-Time,25-26 Grandfathered,2/10/2025,7/1/2025,11/10/2025,Rate policy change
+ENR0193,CH0624,CL-HPPS2-01,C-HP,Full-Time,25-26 Grandfathered,2/10/2025,11/11/2025,6/29/2026,Aged into new classroom
+ENR0193,CH0624,CL-HPPS2-01,C-HP,Full-Time,25-26,2/10/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0193,CH0624,CL-HPPS2-01,C-HP,Full-Time,26-27 (Placeholder),2/10/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0193,CH0624,CL-HPPS2-01,C-HP,Full-Time,27-28 (Placeholder),2/10/2025,7/1/2027,11/11/2027,Rate policy change
+ENR0194,CH0625,CL-HPPS1-01,C-HP,Part-Time-3Day,24-25,4/6/2025,4/6/2025,6/30/2025,Initial enrollment
+ENR0194,CH0625,CL-HPPS1-01,C-HP,Part-Time-3Day,25-26 Grandfathered,4/6/2025,7/1/2025,9/6/2025,Rate policy change
+ENR0195,CH0625,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26 Grandfathered,4/6/2025,9/7/2025,6/29/2026,Aged into new classroom; Schedule change
+ENR0195,CH0625,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26,4/6/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0195,CH0625,CL-HPPS2-01,C-HP,Part-Time-3Day,26-27 (Placeholder),4/6/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0195,CH0625,CL-HPPS2-01,C-HP,Part-Time-3Day,27-28 (Placeholder),4/6/2025,7/1/2027,9/7/2027,Rate policy change
+ENR0196,CH0626,CL-HPPS1-01,C-HP,Part-Time-3Day,24-25,3/5/2025,3/5/2025,6/30/2025,Initial enrollment
+ENR0196,CH0626,CL-HPPS1-01,C-HP,Part-Time-3Day,25-26 Grandfathered,3/5/2025,7/1/2025,2/5/2026,Rate policy change
+ENR0197,CH0626,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26,3/5/2025,2/6/2026,6/30/2026,Aged into new classroom; Schedule change; Rate policy change
+ENR0197,CH0626,CL-HPPS2-01,C-HP,Part-Time-3Day,26-27 (Placeholder),3/5/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0197,CH0626,CL-HPPS2-01,C-HP,Part-Time-3Day,27-28 (Placeholder),3/5/2025,7/1/2027,2/6/2028,Rate policy change
+ENR0198,CH0627,CL-HPTO-01,C-HP,Full-Time,24-25,2/3/2025,2/3/2025,3/3/2025,Initial enrollment
+ENR0199,CH0627,CL-HPPS1-01,C-HP,Part-Time-3Day,24-25,2/3/2025,3/4/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0199,CH0627,CL-HPPS1-01,C-HP,Part-Time-3Day,25-26 Grandfathered,2/3/2025,7/1/2025,3/4/2026,Rate policy change
+ENR0200,CH0627,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26,2/3/2025,3/5/2026,6/30/2026,Aged into new classroom; Rate policy change
+ENR0200,CH0627,CL-HPPS2-01,C-HP,Part-Time-3Day,26-27 (Placeholder),2/3/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0200,CH0627,CL-HPPS2-01,C-HP,Part-Time-3Day,27-28 (Placeholder),2/3/2025,7/1/2027,3/5/2028,Rate policy change
+ENR0201,CH0628,CL-HPPS2-01,C-HP,Part-Time-3Day,24-25,10/27/2024,10/27/2024,6/30/2025,Initial enrollment
+ENR0201,CH0628,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26 Grandfathered,10/27/2024,7/1/2025,12/31/2025,Rate policy change
+ENR0202,CH0629,CL-HPPS2-01,C-HP,Part-Time-3Day,24-25,12/30/2024,12/30/2024,6/30/2025,Initial enrollment
+ENR0202,CH0629,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26 Grandfathered,12/30/2024,7/1/2025,12/31/2025,Rate policy change
+ENR0203,CH0630,CL-HPPS2-01,C-HP,Part-Time-3Day,24-25,3/20/2025,3/20/2025,5/20/2025,Initial enrollment
+ENR0204,CH0631,CL-HPPS2-01,C-HP,Full-Time,24-25,4/7/2025,4/7/2025,6/30/2025,Initial enrollment
+ENR0204,CH0631,CL-HPPS2-01,C-HP,Full-Time,25-26 Grandfathered,4/7/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0204,CH0631,CL-HPPS2-01,C-HP,Full-Time,25-26,4/7/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0204,CH0631,CL-HPPS2-01,C-HP,Full-Time,26-27 (Placeholder),4/7/2025,7/1/2026,1/7/2027,Rate policy change
+ENR0205,CH0632,CL-HPPS1-01,C-HP,Part-Time-3Day,24-25,3/14/2025,3/14/2025,4/14/2025,Initial enrollment
+ENR0206,CH0632,CL-HPPS2-01,C-HP,Full-Time,24-25,3/14/2025,4/15/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0206,CH0632,CL-HPPS2-01,C-HP,Full-Time,25-26 Grandfathered,3/14/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0206,CH0632,CL-HPPS2-01,C-HP,Full-Time,25-26,3/14/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0206,CH0632,CL-HPPS2-01,C-HP,Full-Time,26-27 (Placeholder),3/14/2025,7/1/2026,4/15/2027,Rate policy change
+ENR0207,CH0633,CL-HPPS2-01,C-HP,Part-Time-3Day,24-25,11/4/2024,11/4/2024,6/30/2025,Initial enrollment
+ENR0207,CH0633,CL-HPPS2-01,C-HP,Part-Time-3Day,25-26 Grandfathered,11/4/2024,7/1/2025,7/4/2025,Rate policy change
+ENR0208,CH0634,CL-HPPS2-01,C-HP,Full-Time,24-25,1/24/2025,1/24/2025,6/30/2025,Initial enrollment
+ENR0208,CH0634,CL-HPPS2-01,C-HP,Full-Time,25-26 Grandfathered,1/24/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0208,CH0634,CL-HPPS2-01,C-HP,Full-Time,25-26,1/24/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0208,CH0634,CL-HPPS2-01,C-HP,Full-Time,26-27 (Placeholder),1/24/2025,7/1/2026,11/24/2026,Rate policy change
+ENR0209,CH0635,CL-TDIN-01,C-TD,Full-Time,24-25,2/13/2025,2/13/2025,6/30/2025,Initial enrollment
+ENR0209,CH0635,CL-TDIN-01,C-TD,Full-Time,25-26 Grandfathered,2/13/2025,7/1/2025,12/13/2025,Rate policy change
+ENR0210,CH0636,CL-TDIN-01,C-TD,Part-Time-3Day,24-25,10/28/2024,10/28/2024,6/30/2025,Initial enrollment
+ENR0210,CH0636,CL-TDIN-01,C-TD,Part-Time-3Day,25-26 Grandfathered,10/28/2024,7/1/2025,8/28/2025,Rate policy change
+ENR0211,CH0637,CL-TDIN-01,C-TD,Full-Time,24-25,8/8/2024,8/8/2024,6/8/2025,Initial enrollment
+ENR0212,CH0639,CL-TDIN-01,C-TD,Part-Time-3Day,1997-2024,1/20/2024,1/20/2024,6/30/2024,Initial enrollment
+ENR0212,CH0639,CL-TDIN-01,C-TD,Part-Time-3Day,24-25,1/20/2024,7/1/2024,9/20/2024,Rate policy change
+ENR0213,CH0641,CL-TDIN-01,C-TD,Full-Time,1997-2024,2/1/2024,2/1/2024,4/1/2024,Initial enrollment
+ENR0214,CH0643,CL-TDIN-01,C-TD,Full-Time,1997-2024,11/15/2023,11/15/2023,5/15/2024,Initial enrollment
+ENR0215,CH0644,CL-TDIN-01,C-TD,Part-Time-3Day,1997-2024,1/14/2023,1/14/2023,9/14/2023,Initial enrollment
+ENR0216,CH0645,CL-TDPS-01,C-TD,Part-Time-3Day,24-25,3/6/2025,3/6/2025,6/30/2025,Initial enrollment
+ENR0216,CH0645,CL-TDPS-01,C-TD,Part-Time-3Day,25-26 Grandfathered,3/6/2025,7/1/2025,12/31/2025,Rate policy change
+ENR0217,CH0646,CL-TDTO-01,C-TD,Part-Time-3Day,24-25,3/13/2025,3/13/2025,4/13/2025,Initial enrollment
+ENR0218,CH0646,CL-TDPS-01,C-TD,Part-Time-2Day,24-25,3/13/2025,4/14/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0218,CH0646,CL-TDPS-01,C-TD,Part-Time-2Day,25-26 Grandfathered,3/13/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0218,CH0646,CL-TDPS-01,C-TD,Part-Time-2Day,25-26,3/13/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0218,CH0646,CL-TDPS-01,C-TD,Part-Time-2Day,26-27 (Placeholder),3/13/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0218,CH0646,CL-TDPS-01,C-TD,Part-Time-2Day,27-28 (Placeholder),3/13/2025,7/1/2027,10/14/2027,Rate policy change
+ENR0219,CH0647,CL-TDIN-01,C-TD,Full-Time,1997-2024,10/17/2022,10/17/2022,7/17/2023,Initial enrollment
+ENR0220,CH0648,CL-TDPS-01,C-TD,Full-Time,24-25,2/26/2025,2/26/2025,6/30/2025,Initial enrollment
+ENR0220,CH0648,CL-TDPS-01,C-TD,Full-Time,25-26 Grandfathered,2/26/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0220,CH0648,CL-TDPS-01,C-TD,Full-Time,25-26,2/26/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0220,CH0648,CL-TDPS-01,C-TD,Full-Time,26-27 (Placeholder),2/26/2025,7/1/2026,10/26/2026,Rate policy change
+ENR0221,CH0649,CL-TDPS-01,C-TD,Part-Time-3Day,24-25,11/14/2024,11/14/2024,6/30/2025,Initial enrollment
+ENR0221,CH0649,CL-TDPS-01,C-TD,Part-Time-3Day,25-26 Grandfathered,11/14/2024,7/1/2025,6/29/2026,Rate policy change
+ENR0221,CH0649,CL-TDPS-01,C-TD,Part-Time-3Day,25-26,11/14/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0221,CH0649,CL-TDPS-01,C-TD,Part-Time-3Day,26-27 (Placeholder),11/14/2024,7/1/2026,8/14/2026,Rate policy change
+ENR0222,ChildA-1007,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,1/20/2023,1/20/2023,12/20/2023,Initial enrollment
+ENR0223,ChildA-1007,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,1/20/2023,12/21/2023,6/30/2024,Aged into new classroom
+ENR0223,ChildA-1007,CL-JPPS1-01,C-JP,Part-Time-3Day,24-25,1/20/2023,7/1/2024,12/21/2024,Rate policy change
+ENR0224,ChildA-1007,CL-JPPS2-01,C-JP,Part-Time-2Day,24-25,1/20/2023,12/22/2024,6/30/2025,Aged into new classroom; Schedule change
+ENR0224,ChildA-1007,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26 Grandfathered,1/20/2023,7/1/2025,6/29/2026,Rate policy change
+ENR0224,ChildA-1007,CL-JPPS2-01,C-JP,Part-Time-2Day,25-26,1/20/2023,6/30/2026,6/30/2026,Rate policy change
+ENR0224,ChildA-1007,CL-JPPS2-01,C-JP,Part-Time-2Day,26-27 (Placeholder),1/20/2023,7/1/2026,12/22/2026,Rate policy change
+ENR0225,ChildA-1010,CL-TDPS-01,C-TD,Full-Time,24-25,1/17/2025,1/17/2025,6/30/2025,Initial enrollment
+ENR0225,ChildA-1010,CL-TDPS-01,C-TD,Full-Time,25-26 Grandfathered,1/17/2025,7/1/2025,10/17/2025,Rate policy change
+ENR0226,ChildA-1065,CL-TDPS-01,C-TD,Part-Time-3Day,24-25,3/17/2025,3/17/2025,6/30/2025,Initial enrollment
+ENR0226,ChildA-1065,CL-TDPS-01,C-TD,Part-Time-3Day,25-26 Grandfathered,3/17/2025,7/1/2025,12/31/2025,Rate policy change
+ENR0227,ChildA-1127,CL-TDPS-01,C-TD,Part-Time-3Day,24-25,2/1/2025,2/1/2025,6/30/2025,Initial enrollment
+ENR0227,ChildA-1127,CL-TDPS-01,C-TD,Part-Time-3Day,25-26 Grandfathered,2/1/2025,7/1/2025,6/29/2026,Rate policy change
+ENR0227,ChildA-1127,CL-TDPS-01,C-TD,Part-Time-3Day,25-26,2/1/2025,6/30/2026,6/30/2026,Rate policy change
+ENR0227,ChildA-1127,CL-TDPS-01,C-TD,Part-Time-3Day,26-27 (Placeholder),2/1/2025,7/1/2026,6/30/2027,Rate policy change
+ENR0228,ChildA-1158,CL-JPIN-01,C-JP,Part-Time-2Day,1997-2024,6/22/2021,6/22/2021,2/22/2022,Initial enrollment
+ENR0229,ChildA-1158,CL-JPTO-01,C-JP,Full-Time,1997-2024,6/22/2021,2/23/2022,1/23/2023,Aged into new classroom; Schedule change
+ENR0230,ChildA-1158,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,6/22/2021,1/24/2023,1/24/2024,Aged into new classroom; Schedule change
+ENR0231,ChildA-1158,CL-JPPS2-01,C-JP,Full-Time,1997-2024,6/22/2021,1/25/2024,6/30/2024,Aged into new classroom; Schedule change
+ENR0231,ChildA-1158,CL-JPPS2-01,C-JP,Full-Time,24-25,6/22/2021,7/1/2024,6/30/2025,Rate policy change
+ENR0231,ChildA-1158,CL-JPPS2-01,C-JP,Full-Time,25-26 Grandfathered,6/22/2021,7/1/2025,12/31/2025,Rate policy change
+ENR0232,ChildA-1181,CL-HPTO-01,C-HP,Full-Time,1997-2024,10/29/2023,10/29/2023,11/29/2023,Initial enrollment
+ENR0233,ChildA-1181,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,10/29/2023,11/30/2023,6/30/2024,Aged into new classroom; Schedule change
+ENR0233,ChildA-1181,CL-HPPS1-01,C-HP,Part-Time-3Day,24-25,10/29/2023,7/1/2024,11/30/2024,Rate policy change
+ENR0234,ChildA-1181,CL-HPPS2-01,C-HP,Part-Time-2Day,24-25,10/29/2023,12/1/2024,6/30/2025,Aged into new classroom; Schedule change
+ENR0234,ChildA-1181,CL-HPPS2-01,C-HP,Part-Time-2Day,25-26 Grandfathered,10/29/2023,7/1/2025,6/29/2026,Rate policy change
+ENR0234,ChildA-1181,CL-HPPS2-01,C-HP,Part-Time-2Day,25-26,10/29/2023,6/30/2026,6/30/2026,Rate policy change
+ENR0234,ChildA-1181,CL-HPPS2-01,C-HP,Part-Time-2Day,26-27 (Placeholder),10/29/2023,7/1/2026,12/1/2026,Rate policy change
+ENR0235,ChildA-1276,CL-TDTO-01,C-TD,Full-Time,1997-2024,11/12/2023,11/12/2023,1/12/2024,Initial enrollment
+ENR0236,ChildA-1276,CL-TDPS-01,C-TD,Full-Time,1997-2024,11/12/2023,1/13/2024,6/30/2024,Aged into new classroom
+ENR0236,ChildA-1276,CL-TDPS-01,C-TD,Full-Time,24-25,11/12/2023,7/1/2024,6/30/2025,Rate policy change
+ENR0236,ChildA-1276,CL-TDPS-01,C-TD,Full-Time,25-26 Grandfathered,11/12/2023,7/1/2025,6/29/2026,Rate policy change
+ENR0236,ChildA-1276,CL-TDPS-01,C-TD,Full-Time,25-26,11/12/2023,6/30/2026,6/30/2026,Rate policy change
+ENR0236,ChildA-1276,CL-TDPS-01,C-TD,Full-Time,26-27 (Placeholder),11/12/2023,7/1/2026,7/13/2026,Rate policy change
+ENR0237,ChildA-1311,CL-TDTO-01,C-TD,Part-Time-2Day,24-25,8/26/2024,8/26/2024,6/26/2025,Initial enrollment
+ENR0238,ChildA-1311,CL-TDPS-01,C-TD,Full-Time,24-25,8/26/2024,6/27/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0238,ChildA-1311,CL-TDPS-01,C-TD,Full-Time,25-26 Grandfathered,8/26/2024,7/1/2025,6/29/2026,Rate policy change
+ENR0238,ChildA-1311,CL-TDPS-01,C-TD,Full-Time,25-26,8/26/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0238,ChildA-1311,CL-TDPS-01,C-TD,Full-Time,26-27 (Placeholder),8/26/2024,7/1/2026,6/30/2027,Rate policy change
+ENR0238,ChildA-1311,CL-TDPS-01,C-TD,Full-Time,27-28 (Placeholder),8/26/2024,7/1/2027,12/27/2027,Rate policy change
+ENR0239,ChildA-1356,CL-TDPS-01,C-TD,Part-Time-3Day,1997-2024,6/6/2024,6/6/2024,6/5/2024,Initial enrollment
+ENR0239,ChildA-1356,CL-TDPS-01,C-TD,Part-Time-3Day,24-25,6/6/2024,7/1/2024,6/30/2024,Rate policy change
+ENR0239,ChildA-1356,CL-TDPS-01,C-TD,Part-Time-3Day,24-25,6/6/2024,6/30/2025,6/29/2025,Aged into new classroom
+ENR0239,ChildA-1356,CL-TDPS-01,C-TD,Part-Time-3Day,25-26 Grandfathered,6/6/2024,7/1/2025,6/30/2025,Rate policy change
+ENR0239,ChildA-1356,CL-TDPS-01,C-TD,Part-Time-3Day,1997-2024,12/4/2024,6/6/2024,6/30/2024,Continued enrollment
+ENR0239,ChildA-1356,CL-TDPS-01,C-TD,Part-Time-3Day,24-25,12/4/2024,7/1/2024,12/3/2024,Continued enrollment
+ENR0239,ChildA-1356,CL-TDPS-01,C-TD,Part-Time-3Day,24-25,12/4/2024,6/30/2025,6/30/2025,Continued enrollment
+ENR0239,ChildA-1356,CL-TDPS-01,C-TD,Part-Time-3Day,25-26 Grandfathered,12/4/2024,7/1/2025,11/6/2025,Continued enrollment
+ENR0240,ChildA-1356,CL-TDIN-01,C-TD,Part-Time-3Day,24-25,6/6/2024,12/4/2024,12/3/2024,Aged into new classroom
+ENR0240,ChildA-1356,CL-TDIN-01,C-TD,Part-Time-3Day,24-25,12/4/2024,12/4/2024,6/29/2025,Continued enrollment
+ENR0241,ChildA-1454,CL-JPIN-01,C-JP,Full-Time,1997-2024,12/30/2014,9/12/2022,9/11/2022,Aged into new classroom; Schedule change
+ENR0241,ChildA-1454,CL-JPIN-01,C-JP,Full-Time,1997-2024,9/12/2022,9/12/2022,1/12/2023,Continued enrollment
+ENR0242,ChildA-1454,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,12/30/2014,1/13/2023,1/12/2023,Aged into new classroom; Schedule change
+ENR0242,ChildA-1454,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,9/12/2022,1/13/2023,12/13/2023,Continued enrollment
+ENR0243,ChildA-1454,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,12/30/2014,12/14/2023,12/13/2023,Aged into new classroom
+ENR0243,ChildA-1454,CL-JPPS1-01,C-JP,Part-Time-3Day,24-25,12/30/2014,7/1/2024,6/30/2024,Rate policy change
+ENR0243,ChildA-1454,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,9/12/2022,12/14/2023,6/30/2024,Continued enrollment
+ENR0243,ChildA-1454,CL-JPPS1-01,C-JP,Part-Time-3Day,24-25,9/12/2022,7/1/2024,12/14/2024,Continued enrollment
+ENR0244,ChildA-1454,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,12/30/2014,12/15/2024,12/14/2024,Aged into new classroom; Schedule change
+ENR0244,ChildA-1454,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,12/30/2014,7/1/2025,6/30/2025,Rate policy change
+ENR0244,ChildA-1454,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,12/30/2014,6/30/2026,6/29/2026,Rate policy change
+ENR0244,ChildA-1454,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),12/30/2014,7/1/2026,6/30/2026,Rate policy change
+ENR0244,ChildA-1454,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,9/12/2022,12/15/2024,6/30/2025,Continued enrollment
+ENR0244,ChildA-1454,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,9/12/2022,7/1/2025,6/29/2026,Continued enrollment
+ENR0244,ChildA-1454,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,9/12/2022,6/30/2026,6/30/2026,Continued enrollment
+ENR0244,ChildA-1454,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),9/12/2022,7/1/2026,12/15/2026,Continued enrollment
+ENR0245,ChildA-1466,CL-TDTO-01,C-TD,Full-Time,1997-2024,4/5/2024,4/5/2024,6/30/2024,Initial enrollment
+ENR0245,ChildA-1466,CL-TDTO-01,C-TD,Full-Time,24-25,4/5/2024,7/1/2024,4/5/2025,Rate policy change
+ENR0246,ChildA-1466,CL-TDPS-01,C-TD,Part-Time-2Day,24-25,4/5/2024,4/6/2025,6/30/2025,Aged into new classroom; Schedule change
+ENR0246,ChildA-1466,CL-TDPS-01,C-TD,Part-Time-2Day,25-26 Grandfathered,4/5/2024,7/1/2025,6/29/2026,Rate policy change
+ENR0246,ChildA-1466,CL-TDPS-01,C-TD,Part-Time-2Day,25-26,4/5/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0246,ChildA-1466,CL-TDPS-01,C-TD,Part-Time-2Day,26-27 (Placeholder),4/5/2024,7/1/2026,6/30/2027,Rate policy change
+ENR0246,ChildA-1466,CL-TDPS-01,C-TD,Part-Time-2Day,27-28 (Placeholder),4/5/2024,7/1/2027,10/6/2027,Rate policy change
+ENR0247,ChildA-1503,CL-TDTO-01,C-TD,Full-Time,1997-2024,6/14/2024,6/14/2024,6/30/2024,Initial enrollment
+ENR0247,ChildA-1503,CL-TDTO-01,C-TD,Full-Time,24-25,6/14/2024,7/1/2024,1/14/2025,Rate policy change
+ENR0248,ChildA-1503,CL-TDPS-01,C-TD,Full-Time,24-25,6/14/2024,1/15/2025,6/30/2025,Aged into new classroom
+ENR0248,ChildA-1503,CL-TDPS-01,C-TD,Full-Time,25-26 Grandfathered,6/14/2024,7/1/2025,6/29/2026,Rate policy change
+ENR0248,ChildA-1503,CL-TDPS-01,C-TD,Full-Time,25-26,6/14/2024,6/30/2026,6/30/2026,Rate policy change
+ENR0248,ChildA-1503,CL-TDPS-01,C-TD,Full-Time,26-27 (Placeholder),6/14/2024,7/1/2026,6/30/2027,Rate policy change
+ENR0248,ChildA-1503,CL-TDPS-01,C-TD,Full-Time,27-28 (Placeholder),6/14/2024,7/1/2027,7/15/2027,Rate policy change
+ENR0249,ChildA-1520,CL-TDIN-01,C-TD,Part-Time-3Day,1997-2024,12/10/2023,12/10/2023,6/30/2024,Initial enrollment
+ENR0249,ChildA-1520,CL-TDIN-01,C-TD,Part-Time-3Day,24-25,12/10/2023,7/1/2024,9/10/2024,Rate policy change
+ENR0250,ChildA-1656,CL-TDIN-01,C-TD,Full-Time,1997-2024,10/10/2023,10/10/2023,3/10/2024,Continued enrollment
+ENR0250,ChildA-1656,CL-TDIN-01,C-TD,Full-Time,1997-2024,3/11/2024,10/10/2023,10/9/2023,Initial enrollment
+ENR0251,ChildA-1656,CL-TDTO-01,C-TD,Full-Time,1997-2024,10/10/2023,3/11/2024,6/30/2024,Continued enrollment
+ENR0251,ChildA-1656,CL-TDTO-01,C-TD,Full-Time,24-25,10/10/2023,7/1/2024,11/11/2024,Continued enrollment
+ENR0251,ChildA-1656,CL-TDTO-01,C-TD,Full-Time,1997-2024,3/11/2024,3/11/2024,3/10/2024,Aged into new classroom
+ENR0251,ChildA-1656,CL-TDTO-01,C-TD,Full-Time,24-25,3/11/2024,7/1/2024,6/30/2024,Rate policy change
+ENR0252,ChildA-1656,CL-TDPS-01,C-TD,Part-Time-2Day,24-25,10/10/2023,11/12/2024,6/30/2025,Continued enrollment
+ENR0252,ChildA-1656,CL-TDPS-01,C-TD,Part-Time-2Day,25-26 Grandfathered,10/10/2023,7/1/2025,6/29/2026,Continued enrollment
+ENR0252,ChildA-1656,CL-TDPS-01,C-TD,Part-Time-2Day,25-26,10/10/2023,6/30/2026,6/30/2026,Continued enrollment
+ENR0252,ChildA-1656,CL-TDPS-01,C-TD,Part-Time-2Day,26-27 (Placeholder),10/10/2023,7/1/2026,5/12/2027,Continued enrollment
+ENR0252,ChildA-1656,CL-TDPS-01,C-TD,Part-Time-2Day,24-25,3/11/2024,11/12/2024,11/11/2024,Aged into new classroom; Schedule change
+ENR0252,ChildA-1656,CL-TDPS-01,C-TD,Part-Time-2Day,25-26 Grandfathered,3/11/2024,7/1/2025,6/30/2025,Rate policy change
+ENR0252,ChildA-1656,CL-TDPS-01,C-TD,Part-Time-2Day,25-26,3/11/2024,6/30/2026,6/29/2026,Rate policy change
+ENR0252,ChildA-1656,CL-TDPS-01,C-TD,Part-Time-2Day,26-27 (Placeholder),3/11/2024,7/1/2026,6/30/2026,Rate policy change
+ENR0253,ChildA-1671,CL-JPTO-01,C-JP,Full-Time,1997-2024,2/25/2023,2/25/2023,9/25/2023,Initial enrollment
+ENR0254,ChildA-1671,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,2/25/2023,9/26/2023,6/30/2024,Aged into new classroom; Schedule change
+ENR0254,ChildA-1671,CL-JPPS1-01,C-JP,Part-Time-3Day,24-25,2/25/2023,7/1/2024,9/26/2024,Rate policy change
+ENR0255,ChildA-1671,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,2/25/2023,9/27/2024,6/30/2025,Aged into new classroom; Schedule change
+ENR0255,ChildA-1671,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26 Grandfathered,2/25/2023,7/1/2025,6/29/2026,Rate policy change
+ENR0255,ChildA-1671,CL-JPPS2-01,C-JP,Part-Time-3Day,25-26,2/25/2023,6/30/2026,6/30/2026,Rate policy change
+ENR0255,ChildA-1671,CL-JPPS2-01,C-JP,Part-Time-3Day,26-27 (Placeholder),2/25/2023,7/1/2026,9/27/2026,Rate policy change
+ENR0256,ChildA-1857,CL-TDPS-01,C-TD,Part-Time-3Day,24-25,1/2/2024,11/12/2024,11/11/2024,Initial enrollment
+ENR0256,ChildA-1857,CL-TDPS-01,C-TD,Part-Time-3Day,24-25,11/12/2024,11/12/2024,6/12/2025,Continued enrollment
+ENR0257,ChildA-2065,CL-TDPS-01,C-TD,Full-Time,24-25,12/30/2024,12/30/2024,5/30/2025,Initial enrollment
+ENR0258,ChildA-2183,CL-TDPS-01,C-TD,Full-Time,24-25,8/10/2024,8/10/2024,6/30/2025,Initial enrollment
+ENR0258,ChildA-2183,CL-TDPS-01,C-TD,Full-Time,25-26 Grandfathered,8/10/2024,7/1/2025,12/31/2025,Rate policy change
+ENR0259,ChildA-2270,CL-TDPS-01,C-TD,Full-Time,24-25,10/27/2024,10/27/2024,6/30/2025,Initial enrollment
+ENR0259,ChildA-2270,CL-TDPS-01,C-TD,Full-Time,25-26 Grandfathered,10/27/2024,7/1/2025,12/31/2025,Rate policy change
+ENR0260,ChildA-1003,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,2/22/1998,2/22/1998,7/22/1998,Initial enrollment
+ENR0261,ChildA-1003,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,2/22/1998,7/23/1998,1/23/2000,Aged into new classroom; Schedule change
+ENR0262,ChildA-1003,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,2/22/1998,1/24/2000,1/5/2002,Aged into new classroom; Schedule change
+ENR0263,ChildA-1004,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,8/12/2004,8/12/2004,6/12/2005,Initial enrollment
+ENR0264,ChildA-1004,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,8/12/2004,6/13/2005,12/13/2006,Aged into new classroom
+ENR0265,ChildA-1004,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,8/12/2004,12/14/2006,12/12/2008,Aged into new classroom; Schedule change
+ENR0266,ChildA-1005,CL-HPTO-01,C-HP,Part-Time-3Day,1997-2024,12/3/2011,12/3/2011,11/3/2012,Initial enrollment
+ENR0267,ChildA-1005,CL-HPPS1-01,C-HP,Part-Time-2Day,1997-2024,12/3/2011,11/4/2012,11/4/2013,Aged into new classroom; Schedule change
+ENR0268,ChildA-1005,CL-HPPS2-01,C-HP,Part-Time-3Day,1997-2024,12/3/2011,11/5/2013,11/5/2015,Aged into new classroom; Schedule change
+ENR0269,ChildA-1008,CL-JPPS1-01,C-JP,Part-Time-2Day,1997-2024,1/18/2019,1/18/2019,10/18/2019,Initial enrollment
+ENR0270,ChildA-1008,CL-JPPS2-01,C-JP,Full-Time,1997-2024,1/18/2019,10/19/2019,10/14/2021,Aged into new classroom; Schedule change
+ENR0271,ChildA-1014,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,4/11/2013,4/11/2013,11/11/2013,Initial enrollment
+ENR0272,ChildA-1018,CL-JPPS1-01,C-JP,Full-Time,1997-2024,3/14/2018,3/14/2018,10/14/2018,Initial enrollment
+ENR0273,ChildA-1018,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,3/14/2018,10/15/2018,10/3/2020,Aged into new classroom; Schedule change
+ENR0274,ChildA-1025,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,8/4/2002,8/4/2002,8/3/2002,Initial enrollment
+ENR0274,ChildA-1025,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,10/6/2014,8/4/2002,9/4/2003,Continued enrollment
+ENR0275,ChildA-1025,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,8/4/2002,9/5/2003,9/4/2003,Aged into new classroom; Schedule change
+ENR0275,ChildA-1025,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,10/6/2014,9/5/2003,10/5/2014,Continued enrollment
+ENR0276,ChildA-1025,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,8/4/2002,10/6/2014,10/5/2014,Aged into new classroom
+ENR0276,ChildA-1025,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,10/6/2014,10/6/2014,10/6/2015,Continued enrollment
+ENR0277,ChildA-1025,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,8/4/2002,10/7/2015,10/6/2015,Aged into new classroom
+ENR0277,ChildA-1025,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,10/6/2014,10/7/2015,10/7/2017,Continued enrollment
+ENR0278,ChildA-1026,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,12/8/2019,12/8/2019,6/8/2020,Initial enrollment
+ENR0279,ChildA-1026,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,12/8/2019,6/9/2020,5/31/2022,Aged into new classroom; Schedule change
+ENR0280,ChildA-1027,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,9/18/2020,9/18/2020,3/18/2021,Initial enrollment
+ENR0281,ChildA-1027,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,9/18/2020,3/19/2021,5/31/2022,Aged into new classroom
+ENR0283,ChildA-1031,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,9/16/2020,9/16/2020,2/16/2022,Initial enrollment
+ENR0284,ChildA-1031,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,9/16/2020,2/17/2022,5/31/2022,Aged into new classroom; Schedule change
+ENR0285,ChildA-1032,CL-HPIN-01,C-HP,Full-Time,1997-2024,3/3/2019,3/3/2019,7/3/2019,Initial enrollment
+ENR0286,ChildA-1032,CL-HPTO-01,C-HP,Part-Time-3Day,1997-2024,3/3/2019,7/4/2019,6/4/2020,Aged into new classroom; Schedule change
+ENR0287,ChildA-1032,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,3/3/2019,6/5/2020,6/5/2021,Aged into new classroom
+ENR0288,ChildA-1032,CL-HPPS2-01,C-HP,Full-Time,1997-2024,3/3/2019,6/6/2021,5/31/2022,Aged into new classroom; Schedule change
+ENR0289,ChildA-1036,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,3/31/2014,3/31/2014,4/8/2014,Initial enrollment
+ENR0290,ChildA-1037,CL-HPTO-01,C-HP,Full-Time,1997-2024,4/10/2012,4/10/2012,10/10/2012,Initial enrollment
+ENR0291,ChildA-1037,CL-HPPS1-01,C-HP,Full-Time,1997-2024,4/10/2012,10/11/2012,10/11/2013,Aged into new classroom
+ENR0292,ChildA-1037,CL-HPPS2-01,C-HP,Part-Time-2Day,1997-2024,4/10/2012,10/12/2013,9/30/2015,Aged into new classroom; Schedule change
+ENR0293,ChildA-1038,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,3/25/2001,3/25/2001,4/25/2002,Initial enrollment
+ENR0294,ChildA-1038,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,3/25/2001,4/26/2002,10/26/2003,Aged into new classroom; Schedule change
+ENR0295,ChildA-1038,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,3/25/2001,10/27/2003,10/23/2005,Aged into new classroom; Schedule change
+ENR0296,ChildA-1041,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,9/28/2021,9/28/2021,1/28/2022,Initial enrollment
+ENR0297,ChildA-1041,CL-HPPS2-01,C-HP,Part-Time-3Day,1997-2024,9/28/2021,1/29/2022,5/31/2022,Aged into new classroom
+ENR0298,ChildA-1042,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,9/4/2014,9/4/2014,12/4/2015,Initial enrollment
+ENR0299,ChildA-1043,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,7/5/2006,7/16/2016,7/15/2016,Schedule change
+ENR0299,ChildA-1043,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,7/16/2016,7/16/2016,9/30/2016,Continued enrollment
+ENR0300,ChildA-1043,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,7/5/2006,7/5/2006,7/4/2006,Initial enrollment
+ENR0300,ChildA-1043,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,7/16/2016,7/5/2006,7/5/2007,Continued enrollment
+ENR0301,ChildA-1043,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,7/5/2006,7/6/2007,7/5/2007,Aged into new classroom; Schedule change
+ENR0301,ChildA-1043,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,7/16/2016,7/6/2007,7/15/2016,Continued enrollment
+ENR0302,ChildA-1044,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,7/12/2020,7/12/2020,7/11/2020,Initial enrollment
+ENR0302,ChildA-1044,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,5/2/2022,7/12/2020,4/12/2021,Continued enrollment
+ENR0303,ChildA-1044,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,7/12/2020,4/13/2021,4/12/2021,Aged into new classroom; Schedule change
+ENR0303,ChildA-1044,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,5/2/2022,4/13/2021,5/1/2022,Continued enrollment
+ENR0304,ChildA-1044,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,7/12/2020,5/2/2022,5/1/2022,Aged into new classroom; Schedule change
+ENR0304,ChildA-1044,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,5/2/2022,5/2/2022,10/2/2022,Continued enrollment
+ENR0305,ChildA-1044,CL-JPPS2-01,C-JP,Full-Time,1997-2024,7/12/2020,10/3/2022,10/2/2022,Aged into new classroom; Schedule change
+ENR0305,ChildA-1044,CL-JPPS2-01,C-JP,Full-Time,24-25,7/12/2020,7/1/2024,6/30/2024,Rate policy change
+ENR0305,ChildA-1044,CL-JPPS2-01,C-JP,Full-Time,1997-2024,5/2/2022,10/3/2022,6/30/2024,Continued enrollment
+ENR0305,ChildA-1044,CL-JPPS2-01,C-JP,Full-Time,24-25,5/2/2022,7/1/2024,10/3/2024,Continued enrollment
+ENR0306,ChildA-1045,CL-JPPS1-01,C-JP,Full-Time,1997-2024,4/9/2013,4/9/2013,8/9/2013,Initial enrollment
+ENR0307,ChildA-1045,CL-JPPS2-01,C-JP,Full-Time,1997-2024,4/9/2013,8/10/2013,8/10/2015,Aged into new classroom
+ENR0308,ChildA-1046,CL-JPTO-01,C-JP,Part-Time-2Day,1997-2024,11/5/2011,11/5/2011,1/5/2012,Initial enrollment
+ENR0309,ChildA-1046,CL-JPPS1-01,C-JP,Part-Time-2Day,1997-2024,11/5/2011,1/6/2012,1/6/2013,Aged into new classroom
+ENR0310,ChildA-1046,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,11/5/2011,1/7/2013,1/7/2015,Aged into new classroom; Schedule change
+ENR0311,ChildA-1051,CL-JPIN-01,C-JP,Part-Time-2Day,1997-2024,7/20/2022,7/20/2022,9/20/2022,Initial enrollment
+ENR0312,ChildA-1051,CL-JPTO-01,C-JP,Full-Time,1997-2024,7/20/2022,9/21/2022,5/11/2023,Aged into new classroom; Schedule change
+ENR0313,ChildA-1053,CL-JPTO-01,C-JP,Full-Time,1997-2024,5/15/2016,5/15/2016,12/15/2016,Initial enrollment
+ENR0314,ChildA-1053,CL-JPPS1-01,C-JP,Full-Time,1997-2024,5/15/2016,12/16/2016,12/16/2017,Aged into new classroom
+ENR0315,ChildA-1053,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,5/15/2016,12/17/2017,12/17/2019,Aged into new classroom; Schedule change
+ENR0316,ChildA-1057,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,11/10/2019,11/10/2019,4/8/2020,Initial enrollment
+ENR0317,ChildA-1059,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,6/11/2019,6/11/2019,1/11/2020,Initial enrollment
+ENR0318,ChildA-1059,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,6/11/2019,1/12/2020,1/26/2021,Aged into new classroom; Schedule change
+ENR0319,ChildA-1063,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,11/4/2001,11/4/2001,7/4/2002,Initial enrollment
+ENR0320,ChildA-1063,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,11/4/2001,7/5/2002,1/5/2004,Aged into new classroom; Schedule change
+ENR0321,ChildA-1063,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,11/4/2001,1/6/2004,1/6/2006,Aged into new classroom
+ENR0322,ChildA-1064,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,9/13/1998,9/13/1998,12/13/1999,Initial enrollment
+ENR0323,ChildA-1064,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,9/13/1998,12/14/1999,6/14/2001,Aged into new classroom; Schedule change
+ENR0324,ChildA-1064,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,9/13/1998,6/15/2001,7/1/2002,Aged into new classroom; Schedule change
+ENR0325,ChildA-1066,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,6/14/2015,6/14/2015,11/14/2015,Initial enrollment
+ENR0326,ChildA-1066,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,6/14/2015,11/15/2015,5/15/2017,Aged into new classroom; Schedule change
+ENR0327,ChildA-1066,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,6/14/2015,5/16/2017,5/16/2019,Aged into new classroom; Schedule change
+ENR0328,ChildA-1069,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,7/31/2019,7/31/2019,4/29/2020,Initial enrollment
+ENR0329,ChildA-1071,CL-JPTO-01,C-JP,Part-Time-2Day,1997-2024,12/31/2014,12/31/2014,4/30/2015,Initial enrollment
+ENR0330,ChildA-1071,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,12/31/2014,5/1/2015,6/22/2015,Aged into new classroom; Schedule change
+ENR0331,ChildA-1073,CL-LCVIN-01,C-LCV,Part-Time-2Day,1997-2022,7/6/1999,7/6/1999,6/6/2000,Initial enrollment
+ENR0332,ChildA-1073,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,7/6/1999,6/7/2000,12/7/2001,Aged into new classroom; Schedule change
+ENR0333,ChildA-1073,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,7/6/1999,12/8/2001,7/1/2002,Aged into new classroom; Schedule change
+ENR0334,ChildA-1075,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,4/3/2004,4/3/2004,8/3/2005,Initial enrollment
+ENR0335,ChildA-1082,CL-LCVIN-01,C-LCV,Part-Time-2Day,1997-2022,1/19/2012,1/19/2012,3/19/2013,Initial enrollment
+ENR0336,ChildA-1082,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,1/19/2012,3/20/2013,9/20/2014,Aged into new classroom
+ENR0337,ChildA-1082,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,1/19/2012,9/21/2014,9/21/2016,Aged into new classroom; Schedule change
+ENR0338,ChildA-1083,CL-LCVIN-01,C-LCV,Part-Time-2Day,1997-2022,10/22/2004,10/22/2004,11/22/2004,Initial enrollment
+ENR0339,ChildA-1083,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,10/22/2004,11/23/2004,5/23/2006,Aged into new classroom; Schedule change
+ENR0340,ChildA-1083,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,10/22/2004,5/24/2006,5/1/2008,Aged into new classroom
+ENR0341,ChildA-1085,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,4/4/1998,4/4/1998,8/4/1998,Initial enrollment
+ENR0342,ChildA-1087,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,10/13/2012,10/13/2012,4/13/2013,Initial enrollment
+ENR0343,ChildA-1087,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,10/13/2012,4/14/2013,10/14/2014,Aged into new classroom
+ENR0344,ChildA-1087,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,10/13/2012,10/15/2014,10/15/2016,Aged into new classroom
+ENR0345,ChildA-1091,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,12/22/2018,12/22/2018,2/22/2020,Initial enrollment
+ENR0346,ChildA-1093,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,6/14/2017,6/14/2017,7/28/2017,Initial enrollment
+ENR0347,ChildA-1098,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,1/26/2023,1/26/2023,2/5/2024,Initial enrollment
+ENR0348,ChildA-1100,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,11/6/2015,11/6/2015,5/6/2016,Initial enrollment
+ENR0349,ChildA-1105,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,11/28/2008,11/28/2008,6/22/2010,Initial enrollment
+ENR0350,ChildA-1116,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,3/17/2010,3/17/2010,11/17/2010,Initial enrollment
+ENR0351,ChildA-1116,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,3/17/2010,11/18/2010,5/18/2012,Aged into new classroom; Schedule change
+ENR0352,ChildA-1116,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,3/17/2010,5/19/2012,5/19/2014,Aged into new classroom; Schedule change
+ENR0353,ChildA-1118,CL-JPIN-01,C-JP,Part-Time-3Day,1997-2024,1/4/2017,1/4/2017,3/4/2017,Initial enrollment
+ENR0354,ChildA-1118,CL-JPTO-01,C-JP,Full-Time,1997-2024,1/4/2017,3/5/2017,11/19/2017,Aged into new classroom; Schedule change
+ENR0355,ChildA-1119,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,2/10/2019,2/10/2019,4/13/2019,Initial enrollment
+ENR0356,ChildA-1121,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,2/13/2011,2/13/2011,9/12/2012,Initial enrollment
+ENR0357,ChildA-1122,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,4/15/2013,4/15/2013,1/15/2014,Initial enrollment
+ENR0358,ChildA-1122,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,4/15/2013,1/16/2014,7/16/2015,Aged into new classroom; Schedule change
+ENR0359,ChildA-1122,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,4/15/2013,7/17/2015,7/8/2017,Aged into new classroom
+ENR0360,ChildA-1124,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,11/4/2014,11/4/2014,9/4/2016,Initial enrollment
+ENR0361,ChildA-1128,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,10/5/2021,10/5/2021,5/31/2022,Initial enrollment
+ENR0363,ChildA-1129,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,8/21/2018,8/21/2018,2/3/2020,Initial enrollment
+ENR0364,ChildA-1131,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,5/26/2001,5/26/2001,7/1/2002,Initial enrollment
+ENR0365,ChildA-1134,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,2/8/2009,2/8/2009,5/8/2010,Initial enrollment
+ENR0366,ChildA-1134,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,2/8/2009,5/9/2010,5/9/2012,Aged into new classroom; Schedule change
+ENR0367,ChildA-1136,CL-JPPS2-01,C-JP,Full-Time,1997-2024,1/10/2010,1/10/2010,3/10/2010,Initial enrollment
+ENR0368,ChildA-1143,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,7/30/2016,7/30/2016,3/30/2017,Initial enrollment
+ENR0369,ChildA-1146,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,4/14/2006,4/14/2006,9/14/2007,Initial enrollment
+ENR0370,ChildA-1146,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,4/14/2006,9/15/2007,9/15/2009,Aged into new classroom; Schedule change
+ENR0371,ChildA-1147,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,9/9/2009,9/9/2009,8/9/2010,Initial enrollment
+ENR0372,ChildA-1147,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,9/9/2009,8/10/2010,8/10/2012,Aged into new classroom; Schedule change
+ENR0373,ChildA-1148,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,7/21/2020,7/21/2020,7/21/2021,Initial enrollment
+ENR0374,ChildA-1148,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,7/21/2020,7/22/2021,5/31/2022,Aged into new classroom
+ENR0376,ChildA-1151,CL-JPPS2-01,C-JP,Full-Time,1997-2024,1/22/2018,1/22/2018,5/18/2019,Initial enrollment
+ENR0377,ChildA-1153,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,4/16/2017,4/16/2017,1/16/2018,Initial enrollment
+ENR0378,ChildA-1153,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,4/16/2017,1/17/2018,7/17/2019,Aged into new classroom; Schedule change
+ENR0379,ChildA-1153,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,4/16/2017,7/18/2019,7/13/2021,Aged into new classroom
+ENR0380,ChildA-1154,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,9/4/2009,9/4/2009,12/2/2009,Initial enrollment
+ENR0381,ChildA-1155,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,9/29/2008,9/29/2008,11/29/2008,Initial enrollment
+ENR0382,ChildA-1155,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,9/29/2008,11/30/2008,5/30/2010,Aged into new classroom; Schedule change
+ENR0383,ChildA-1155,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,9/29/2008,5/31/2010,5/21/2012,Aged into new classroom
+ENR0384,ChildA-1156,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,7/5/2021,7/5/2021,8/5/2021,Initial enrollment
+ENR0385,ChildA-1160,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,5/30/2019,5/30/2019,8/20/2019,Initial enrollment
+ENR0386,ChildA-1163,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,7/25/2020,7/25/2020,8/25/2020,Initial enrollment
+ENR0387,ChildA-1163,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,7/25/2020,8/26/2020,5/31/2022,Aged into new classroom
+ENR0388,ChildA-1165,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,1/24/2014,1/24/2014,9/1/2015,Initial enrollment
+ENR0389,ChildA-1171,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,7/11/2010,7/11/2010,11/5/2011,Initial enrollment
+ENR0390,ChildA-1173,CL-TDPS-01,C-TD,Part-Time-2Day,1997-2024,6/16/2024,6/16/2024,6/30/2024,Initial enrollment
+ENR0390,ChildA-1173,CL-TDPS-01,C-TD,Part-Time-2Day,24-25,6/16/2024,7/1/2024,9/10/2024,Rate policy change
+ENR0391,ChildA-1179,CL-TDTO-01,C-TD,Part-Time-3Day,1997-2024,12/15/2023,4/16/2024,4/15/2024,Aged into new classroom; Schedule change
+ENR0391,ChildA-1179,CL-TDTO-01,C-TD,Part-Time-3Day,1997-2024,4/16/2024,4/16/2024,6/15/2024,Continued enrollment
+ENR0392,ChildA-1179,CL-TDPS-01,C-TD,Part-Time-2Day,1997-2024,12/15/2023,12/15/2023,12/14/2023,Initial enrollment
+ENR0392,ChildA-1179,CL-TDPS-01,C-TD,Part-Time-2Day,1997-2024,4/16/2024,12/15/2023,4/15/2024,Continued enrollment
+ENR0393,ChildA-1180,CL-HPPS1-01,C-HP,Full-Time,1997-2024,7/2/2006,7/2/2006,7/1/2006,Initial enrollment
+ENR0393,ChildA-1180,CL-HPPS1-01,C-HP,Full-Time,1997-2024,1/13/2015,7/2/2006,3/2/2007,Continued enrollment
+ENR0394,ChildA-1180,CL-HPPS2-01,C-HP,Part-Time-3Day,1997-2024,7/2/2006,3/3/2007,3/2/2007,Aged into new classroom; Schedule change
+ENR0394,ChildA-1180,CL-HPPS2-01,C-HP,Part-Time-3Day,1997-2024,1/13/2015,3/3/2007,1/12/2015,Continued enrollment
+ENR0395,ChildA-1180,CL-JPTO-01,C-JP,Full-Time,1997-2024,7/2/2006,1/13/2015,1/12/2015,Aged into new classroom; Schedule change
+ENR0395,ChildA-1180,CL-JPTO-01,C-JP,Full-Time,1997-2024,1/13/2015,1/13/2015,11/13/2015,Continued enrollment
+ENR0396,ChildA-1180,CL-JPPS1-01,C-JP,Full-Time,1997-2024,7/2/2006,11/14/2015,11/13/2015,Aged into new classroom
+ENR0396,ChildA-1180,CL-JPPS1-01,C-JP,Full-Time,1997-2024,1/13/2015,11/14/2015,11/14/2016,Continued enrollment
+ENR0397,ChildA-1180,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,7/2/2006,11/15/2016,11/14/2016,Aged into new classroom; Schedule change
+ENR0397,ChildA-1180,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,1/13/2015,11/15/2016,11/4/2018,Continued enrollment
+ENR0398,ChildA-1182,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,6/25/2010,6/25/2010,1/21/2012,Initial enrollment
+ENR0399,ChildA-1183,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,5/3/2020,5/3/2020,6/3/2021,Initial enrollment
+ENR0400,ChildA-1185,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,3/19/2012,3/19/2012,12/19/2012,Initial enrollment
+ENR0401,ChildA-1185,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,3/19/2012,12/20/2012,12/2/2014,Aged into new classroom; Schedule change
+ENR0402,ChildA-1188,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,9/7/2006,9/7/2006,6/7/2008,Initial enrollment
+ENR0403,ChildA-1191,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,1/11/2017,1/11/2017,7/11/2017,Initial enrollment
+ENR0404,ChildA-1191,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,1/11/2017,7/12/2017,7/7/2019,Aged into new classroom; Schedule change
+ENR0405,ChildA-1193,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,9/9/2018,9/9/2018,11/9/2018,Initial enrollment
+ENR0406,ChildA-1194,CL-HPPS1-01,C-HP,Full-Time,1997-2024,5/27/2022,5/27/2022,1/27/2023,Initial enrollment
+ENR0407,ChildA-1194,CL-HPPS2-01,C-HP,Full-Time,1997-2024,5/27/2022,1/28/2023,6/30/2024,Aged into new classroom
+ENR0407,ChildA-1194,CL-HPPS2-01,C-HP,Full-Time,24-25,5/27/2022,7/1/2024,9/25/2024,Rate policy change
+ENR0408,ChildA-1195,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,3/16/2002,3/16/2002,7/1/2002,Initial enrollment
+ENR0409,ChildA-1197,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,8/17/2021,8/17/2021,5/31/2022,Initial enrollment
+ENR0410,ChildA-1199,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,6/12/2016,6/12/2016,11/5/2016,Initial enrollment
+ENR0411,ChildA-1200,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,12/25/2020,12/25/2020,1/25/2022,Initial enrollment
+ENR0412,ChildA-1200,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,12/25/2020,1/26/2022,5/31/2022,Aged into new classroom
+ENR0413,ChildA-1206,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,10/9/2020,10/9/2020,11/9/2020,Initial enrollment
+ENR0414,ChildA-1206,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,10/9/2020,11/10/2020,5/10/2022,Aged into new classroom; Schedule change
+ENR0415,ChildA-1206,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,10/9/2020,5/11/2022,5/31/2022,Aged into new classroom
+ENR0416,ChildA-1208,CL-JPPS2-01,C-JP,Full-Time,1997-2024,12/26/2013,12/26/2013,11/30/2014,Initial enrollment
+ENR0417,ChildA-1209,CL-JPPS2-01,C-JP,Full-Time,1997-2024,4/6/2017,4/6/2017,1/6/2018,Initial enrollment
+ENR0418,ChildA-1211,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,5/1/2015,5/1/2015,6/1/2016,Initial enrollment
+ENR0419,ChildA-1212,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,11/1/2019,11/1/2019,5/1/2021,Initial enrollment
+ENR0420,ChildA-1215,CL-HPTO-01,C-HP,Full-Time,1997-2024,12/6/2014,3/7/2020,3/6/2020,Aged into new classroom
+ENR0420,ChildA-1215,CL-HPTO-01,C-HP,Full-Time,1997-2024,3/7/2020,3/7/2020,7/7/2020,Continued enrollment
+ENR0421,ChildA-1215,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,12/6/2014,7/8/2020,7/7/2020,Aged into new classroom; Schedule change
+ENR0421,ChildA-1215,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,3/7/2020,7/8/2020,7/8/2021,Continued enrollment
+ENR0422,ChildA-1215,CL-HPPS2-01,C-HP,Part-Time-2Day,1997-2024,12/6/2014,7/9/2021,7/8/2021,Aged into new classroom; Schedule change
+ENR0422,ChildA-1215,CL-HPPS2-01,C-HP,Part-Time-2Day,1997-2024,3/7/2020,7/9/2021,5/31/2022,Continued enrollment
+ENR0423,ChildA-1215,CL-HPIN-01,C-HP,Full-Time,1997-2024,12/6/2014,12/6/2014,12/5/2014,Initial enrollment
+ENR0423,ChildA-1215,CL-HPIN-01,C-HP,Full-Time,1997-2024,3/7/2020,12/6/2014,2/6/2015,Continued enrollment
+ENR0424,ChildA-1215,CL-HPTO-01,C-HP,Part-Time-3Day,1997-2024,12/6/2014,2/7/2015,2/6/2015,Aged into new classroom; Schedule change
+ENR0424,ChildA-1215,CL-HPTO-01,C-HP,Part-Time-3Day,1997-2024,3/7/2020,2/7/2015,1/7/2016,Continued enrollment
+ENR0425,ChildA-1215,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,12/6/2014,1/8/2016,1/7/2016,Aged into new classroom
+ENR0425,ChildA-1215,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,3/7/2020,1/8/2016,1/8/2017,Continued enrollment
+ENR0426,ChildA-1215,CL-HPPS2-01,C-HP,Full-Time,1997-2024,12/6/2014,1/9/2017,1/8/2017,Aged into new classroom; Schedule change
+ENR0426,ChildA-1215,CL-HPPS2-01,C-HP,Full-Time,1997-2024,3/7/2020,1/9/2017,3/6/2020,Continued enrollment
+ENR0427,ChildA-1216,CL-HPPS2-01,C-HP,Part-Time-2Day,1997-2024,10/9/2004,10/9/2004,5/31/2006,Initial enrollment
+ENR0428,ChildA-1217,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,5/20/2013,5/20/2013,6/13/2013,Initial enrollment
+ENR0429,ChildA-1220,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,6/1/2010,6/1/2010,10/1/2010,Initial enrollment
+ENR0430,ChildA-1220,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,6/1/2010,10/2/2010,10/2/2012,Aged into new classroom; Schedule change
+ENR0431,ChildA-1221,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,4/13/2015,4/13/2015,11/13/2015,Initial enrollment
+ENR0432,ChildA-1221,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,4/13/2015,11/14/2015,5/14/2017,Aged into new classroom
+ENR0433,ChildA-1221,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,4/13/2015,5/15/2017,5/12/2019,Aged into new classroom
+ENR0434,ChildA-1227,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,1/11/2017,1/11/2017,1/11/2019,Initial enrollment
+ENR0435,ChildA-1230,CL-TDIN-01,C-TD,Full-Time,1997-2024,6/14/2024,6/14/2024,6/30/2024,Initial enrollment
+ENR0435,ChildA-1230,CL-TDIN-01,C-TD,Full-Time,24-25,6/14/2024,7/1/2024,7/14/2024,Rate policy change
+ENR0436,ChildA-1235,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,7/4/2002,7/4/2002,12/4/2003,Initial enrollment
+ENR0437,ChildA-1235,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,7/4/2002,12/5/2003,12/5/2005,Aged into new classroom
+ENR0438,ChildA-1236,CL-LCVIN-01,C-LCV,Part-Time-2Day,1997-2022,5/18/2007,5/18/2007,6/18/2008,Initial enrollment
+ENR0439,ChildA-1236,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,5/18/2007,6/19/2008,12/19/2009,Aged into new classroom; Schedule change
+ENR0440,ChildA-1236,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,5/18/2007,12/20/2009,12/6/2011,Aged into new classroom; Schedule change
+ENR0441,ChildA-1248,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,1/22/2000,9/6/2018,9/5/2018,Aged into new classroom; Schedule change
+ENR0441,ChildA-1248,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,9/6/2018,9/6/2018,3/6/2019,Continued enrollment
+ENR0442,ChildA-1248,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,1/22/2000,3/7/2019,3/6/2019,Aged into new classroom; Schedule change
+ENR0442,ChildA-1248,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,9/6/2018,3/7/2019,9/7/2020,Continued enrollment
+ENR0443,ChildA-1248,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,1/22/2000,9/8/2020,9/7/2020,Aged into new classroom; Schedule change
+ENR0443,ChildA-1248,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,9/6/2018,9/8/2020,5/31/2022,Continued enrollment
+ENR0444,ChildA-1248,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,1/22/2000,1/22/2000,1/21/2000,Initial enrollment
+ENR0444,ChildA-1248,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,9/6/2018,1/22/2000,4/22/2000,Continued enrollment
+ENR0445,ChildA-1248,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,1/22/2000,4/23/2000,4/22/2000,Aged into new classroom; Schedule change
+ENR0445,ChildA-1248,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,9/6/2018,4/23/2000,10/23/2001,Continued enrollment
+ENR0446,ChildA-1248,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,1/22/2000,10/24/2001,10/23/2001,Aged into new classroom
+ENR0446,ChildA-1248,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,9/6/2018,10/24/2001,9/5/2018,Continued enrollment
+ENR0447,ChildA-1254,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,6/7/1999,6/7/1999,12/7/2000,Initial enrollment
+ENR0448,ChildA-1258,CL-JPIN-01,C-JP,Full-Time,1997-2024,3/31/2014,3/31/2014,11/30/2014,Initial enrollment
+ENR0449,ChildA-1258,CL-JPTO-01,C-JP,Part-Time-2Day,1997-2024,3/31/2014,12/1/2014,11/1/2015,Aged into new classroom; Schedule change
+ENR0450,ChildA-1258,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,3/31/2014,11/2/2015,11/2/2016,Aged into new classroom; Schedule change
+ENR0451,ChildA-1258,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,3/31/2014,11/3/2016,9/23/2018,Aged into new classroom; Schedule change
+ENR0452,ChildA-1261,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,4/7/2008,4/7/2008,12/7/2009,Initial enrollment
+ENR0453,ChildA-1263,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,12/1/2012,12/1/2012,9/1/2013,Initial enrollment
+ENR0454,ChildA-1263,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,12/1/2012,9/2/2013,9/2/2015,Aged into new classroom
+ENR0455,ChildA-1266,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,8/9/1998,8/9/1998,4/9/1999,Initial enrollment
+ENR0456,ChildA-1266,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,8/9/1998,4/10/1999,4/7/2001,Aged into new classroom; Schedule change
+ENR0457,ChildA-1268,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,4/9/2013,4/9/2013,1/9/2014,Initial enrollment
+ENR0458,ChildA-1270,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,6/4/2018,6/4/2018,7/4/2019,Initial enrollment
+ENR0459,ChildA-1271,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,1/23/2009,1/23/2009,3/23/2010,Initial enrollment
+ENR0460,ChildA-1271,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,1/23/2009,3/24/2010,3/6/2012,Aged into new classroom; Schedule change
+ENR0461,ChildA-1279,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,12/8/2016,12/8/2016,7/8/2017,Initial enrollment
+ENR0462,ChildA-1279,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,12/8/2016,7/9/2017,7/6/2019,Aged into new classroom
+ENR0463,ChildA-1286,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,8/21/1999,8/21/1999,8/21/2000,Initial enrollment
+ENR0464,ChildA-1286,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,8/21/1999,8/22/2000,7/1/2002,Aged into new classroom
+ENR0465,ChildA-1292,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,3/7/2003,3/7/2003,9/7/2003,Initial enrollment
+ENR0466,ChildA-1293,CL-JPPS2-01,C-JP,Full-Time,1997-2024,1/23/2021,1/23/2021,8/17/2021,Initial enrollment
+ENR0467,ChildA-1294,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,3/31/2014,3/31/2014,4/30/2014,Initial enrollment
+ENR0468,ChildA-1294,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,3/31/2014,5/1/2014,11/1/2015,Aged into new classroom; Schedule change
+ENR0469,ChildA-1294,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,3/31/2014,11/2/2015,10/18/2017,Aged into new classroom; Schedule change
+ENR0470,ChildA-1300,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,5/7/2018,5/7/2018,5/6/2018,Initial enrollment
+ENR0470,ChildA-1300,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,5/19/2019,5/7/2018,5/18/2019,Continued enrollment
+ENR0471,ChildA-1300,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,5/7/2018,5/19/2019,5/18/2019,Schedule change
+ENR0471,ChildA-1300,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,5/19/2019,5/19/2019,6/5/2019,Continued enrollment
+ENR0472,ChildA-1301,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,3/25/2004,3/25/2004,6/25/2005,Initial enrollment
+ENR0473,ChildA-1301,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,3/25/2004,6/26/2005,5/31/2007,Aged into new classroom
+ENR0474,ChildA-1304,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,5/4/2016,5/4/2016,4/4/2017,Initial enrollment
+ENR0475,ChildA-1304,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,5/4/2016,4/5/2017,4/5/2019,Aged into new classroom; Schedule change
+ENR0476,ChildA-1308,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,3/12/2003,3/12/2003,8/12/2003,Initial enrollment
+ENR0477,ChildA-1308,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,3/12/2003,8/13/2003,2/13/2005,Aged into new classroom; Schedule change
+ENR0478,ChildA-1308,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,3/12/2003,2/14/2005,2/7/2007,Aged into new classroom; Schedule change
+ENR0479,ChildA-1309,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,7/12/2011,7/12/2011,11/12/2012,Initial enrollment
+ENR0480,ChildA-1309,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,7/12/2011,11/13/2012,11/13/2014,Aged into new classroom
+ENR0481,ChildA-1312,CL-JPTO-01,C-JP,Full-Time,1997-2024,1/19/2022,1/19/2022,3/19/2022,Initial enrollment
+ENR0482,ChildA-1312,CL-JPPS1-01,C-JP,Full-Time,1997-2024,1/19/2022,3/20/2022,3/20/2023,Aged into new classroom
+ENR0483,ChildA-1312,CL-JPPS2-01,C-JP,Full-Time,1997-2024,1/19/2022,3/21/2023,6/30/2024,Aged into new classroom
+ENR0483,ChildA-1312,CL-JPPS2-01,C-JP,Full-Time,24-25,1/19/2022,7/1/2024,3/13/2025,Rate policy change
+ENR0484,ChildA-1316,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,11/11/2017,11/11/2017,12/11/2018,Initial enrollment
+ENR0485,ChildA-1316,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,11/11/2017,12/12/2018,12/12/2020,Aged into new classroom; Schedule change
+ENR0486,ChildA-1318,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,7/17/1998,7/17/1998,8/17/1998,Initial enrollment
+ENR0487,ChildA-1318,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,7/17/1998,8/18/1998,8/9/2000,Aged into new classroom; Schedule change
+ENR0488,ChildA-1319,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,12/14/2012,12/14/2012,1/14/2013,Initial enrollment
+ENR0489,ChildA-1320,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,3/15/2004,3/15/2004,10/13/2004,Initial enrollment
+ENR0490,ChildA-1323,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,8/7/2009,8/7/2009,2/7/2010,Initial enrollment
+ENR0491,ChildA-1323,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,8/7/2009,2/8/2010,2/8/2012,Aged into new classroom; Schedule change
+ENR0492,ChildA-1327,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,7/8/2016,7/8/2016,12/8/2017,Initial enrollment
+ENR0493,ChildA-1328,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,7/27/2021,7/27/2021,5/31/2022,Initial enrollment
+ENR0495,ChildA-1329,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,7/31/2008,7/31/2008,9/30/2008,Initial enrollment
+ENR0496,ChildA-1329,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,7/31/2008,10/1/2008,9/3/2010,Aged into new classroom; Schedule change
+ENR0497,ChildA-1331,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,3/28/2012,3/28/2012,3/19/2013,Initial enrollment
+ENR0498,ChildA-1333,CL-JPPS2-01,C-JP,Full-Time,1997-2024,1/13/2015,1/13/2015,2/13/2015,Initial enrollment
+ENR0499,ChildA-1334,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,7/22/2021,7/22/2021,5/31/2022,Initial enrollment
+ENR0500,ChildA-1339,CL-JPPS1-01,C-JP,Full-Time,1997-2024,10/14/2010,10/14/2010,10/13/2010,Initial enrollment
+ENR0500,ChildA-1339,CL-JPPS1-01,C-JP,Full-Time,1997-2024,5/15/2015,10/14/2010,10/14/2011,Continued enrollment
+ENR0501,ChildA-1339,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,10/14/2010,10/15/2011,10/14/2011,Aged into new classroom; Schedule change
+ENR0501,ChildA-1339,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,5/15/2015,10/15/2011,5/14/2015,Continued enrollment
+ENR0502,ChildA-1339,CL-JPPS2-01,C-JP,Full-Time,1997-2024,10/14/2010,5/15/2015,5/14/2015,Schedule change
+ENR0502,ChildA-1339,CL-JPPS2-01,C-JP,Full-Time,1997-2024,5/15/2015,5/15/2015,3/15/2016,Continued enrollment
+ENR0503,ChildA-1340,CL-HPPS1-01,C-HP,Full-Time,1997-2024,12/6/2007,12/6/2007,7/6/2008,Initial enrollment
+ENR0504,ChildA-1340,CL-HPPS2-01,C-HP,Part-Time-3Day,1997-2024,12/6/2007,7/7/2008,7/7/2010,Aged into new classroom; Schedule change
+ENR0505,ChildA-1341,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,6/11/2018,6/11/2018,7/11/2019,Initial enrollment
+ENR0506,ChildA-1342,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,7/6/2010,7/6/2010,4/6/2011,Initial enrollment
+ENR0507,ChildA-1342,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,7/6/2010,4/7/2011,10/7/2012,Aged into new classroom; Schedule change
+ENR0508,ChildA-1342,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,7/6/2010,10/8/2012,10/8/2014,Aged into new classroom; Schedule change
+ENR0509,ChildA-1346,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,7/9/2018,7/9/2018,1/8/2019,Initial enrollment
+ENR0510,ChildA-1349,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,3/9/2015,3/9/2015,5/9/2015,Initial enrollment
+ENR0511,ChildA-1349,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,3/9/2015,5/10/2015,11/10/2016,Aged into new classroom
+ENR0512,ChildA-1349,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,3/9/2015,11/11/2016,11/11/2018,Aged into new classroom
+ENR0513,ChildA-1351,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,5/12/2016,5/12/2016,11/12/2017,Initial enrollment
+ENR0514,ChildA-1351,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,5/12/2016,11/13/2017,11/13/2019,Aged into new classroom; Schedule change
+ENR0515,ChildA-1355,CL-JPPS1-01,C-JP,Part-Time-2Day,1997-2024,4/24/2016,4/24/2016,4/24/2017,Initial enrollment
+ENR0516,ChildA-1355,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,4/24/2016,4/25/2017,4/2/2019,Aged into new classroom; Schedule change
+ENR0517,ChildA-1358,CL-JPPS1-01,C-JP,Full-Time,1997-2024,8/6/2015,8/6/2015,12/6/2015,Initial enrollment
+ENR0518,ChildA-1358,CL-JPPS2-01,C-JP,Full-Time,1997-2024,8/6/2015,12/7/2015,12/7/2017,Aged into new classroom
+ENR0519,ChildA-1360,CL-JPPS2-01,C-JP,Full-Time,1997-2024,8/31/2013,8/31/2013,3/5/2014,Initial enrollment
+ENR0520,ChildA-1366,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,8/25/1999,9/12/2002,9/11/2002,Schedule change
+ENR0520,ChildA-1366,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,9/12/2002,9/12/2002,4/7/2004,Continued enrollment
+ENR0521,ChildA-1366,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,8/25/1999,8/25/1999,8/24/1999,Initial enrollment
+ENR0521,ChildA-1366,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,9/12/2002,8/25/1999,9/11/2002,Continued enrollment
+ENR0522,ChildA-1368,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,6/24/2001,6/24/2001,6/24/2002,Initial enrollment
+ENR0523,ChildA-1368,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,6/24/2001,6/25/2002,12/25/2003,Aged into new classroom; Schedule change
+ENR0524,ChildA-1368,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,6/24/2001,12/26/2003,12/15/2005,Aged into new classroom; Schedule change
+ENR0525,ChildA-1369,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,8/12/2010,8/12/2010,12/12/2010,Initial enrollment
+ENR0526,ChildA-1369,CL-JPPS1-01,C-JP,Part-Time-2Day,1997-2024,8/12/2010,12/13/2010,12/13/2011,Aged into new classroom; Schedule change
+ENR0527,ChildA-1369,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,8/12/2010,12/14/2011,12/14/2013,Aged into new classroom; Schedule change
+ENR0528,ChildA-1370,CL-HPPS2-01,C-HP,Full-Time,1997-2024,5/31/2017,5/31/2017,8/4/2017,Initial enrollment
+ENR0529,ChildA-1373,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,2/14/2004,2/14/2004,12/2/2004,Initial enrollment
+ENR0530,ChildA-1380,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,4/26/2018,4/26/2018,12/26/2018,Initial enrollment
+ENR0531,ChildA-1380,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,4/26/2018,12/27/2018,12/5/2020,Aged into new classroom
+ENR0532,ChildA-1388,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,12/29/2005,12/29/2005,6/17/2007,Initial enrollment
+ENR0533,ChildA-1390,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,9/17/1999,9/17/1999,11/4/1999,Initial enrollment
+ENR0534,ChildA-1392,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,11/17/2013,11/17/2013,7/11/2015,Initial enrollment
+ENR0535,ChildA-1396,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,6/17/2011,6/17/2011,3/17/2013,Initial enrollment
+ENR0536,ChildA-1398,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,3/18/2002,3/18/2002,6/18/2002,Initial enrollment
+ENR0537,ChildA-1398,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,3/18/2002,6/19/2002,7/1/2002,Aged into new classroom; Schedule change
+ENR0538,ChildA-1399,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,12/15/2008,12/15/2008,5/15/2010,Initial enrollment
+ENR0539,ChildA-1399,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,12/15/2008,5/16/2010,5/16/2012,Aged into new classroom; Schedule change
+ENR0540,ChildA-1402,CL-JPTO-01,C-JP,Full-Time,1997-2024,12/2/2010,12/2/2010,7/2/2011,Initial enrollment
+ENR0541,ChildA-1402,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,12/2/2010,7/3/2011,7/3/2012,Aged into new classroom; Schedule change
+ENR0542,ChildA-1402,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,12/2/2010,7/4/2012,7/4/2014,Aged into new classroom
+ENR0543,ChildA-1403,CL-JPPS2-01,C-JP,Full-Time,1997-2024,11/29/2010,11/29/2010,9/10/2011,Initial enrollment
+ENR0544,ChildA-1404,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,12/25/2016,3/5/2019,3/4/2019,Aged into new classroom
+ENR0544,ChildA-1404,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,3/5/2019,3/5/2019,3/5/2020,Continued enrollment
+ENR0545,ChildA-1404,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,12/25/2016,3/6/2020,3/5/2020,Aged into new classroom
+ENR0545,ChildA-1404,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,3/5/2019,3/6/2020,9/6/2021,Continued enrollment
+ENR0546,ChildA-1404,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,12/25/2016,9/7/2021,9/6/2021,Aged into new classroom; Schedule change
+ENR0546,ChildA-1404,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,3/5/2019,9/7/2021,5/31/2022,Continued enrollment
+ENR0547,ChildA-1404,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,12/25/2016,12/25/2016,12/24/2016,Initial enrollment
+ENR0547,ChildA-1404,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,3/5/2019,12/25/2016,6/25/2018,Continued enrollment
+ENR0548,ChildA-1404,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,12/25/2016,6/26/2018,6/25/2018,Aged into new classroom; Schedule change
+ENR0548,ChildA-1404,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,3/5/2019,6/26/2018,3/4/2019,Continued enrollment
+ENR0549,ChildA-1406,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,4/1/2000,4/1/2000,3/1/2001,Initial enrollment
+ENR0550,ChildA-1406,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,4/1/2000,3/2/2001,7/1/2002,Aged into new classroom; Schedule change
+ENR0551,ChildA-1417,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,9/8/2011,9/8/2011,6/8/2012,Initial enrollment
+ENR0552,ChildA-1417,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,9/8/2011,6/9/2012,6/7/2014,Aged into new classroom; Schedule change
+ENR0553,ChildA-1420,CL-HPIN-01,C-HP,Full-Time,1997-2024,2/12/2004,2/12/2004,7/12/2004,Initial enrollment
+ENR0554,ChildA-1420,CL-HPTO-01,C-HP,Part-Time-3Day,1997-2024,2/12/2004,7/13/2004,6/13/2005,Aged into new classroom; Schedule change
+ENR0555,ChildA-1420,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,2/12/2004,6/14/2005,6/14/2006,Aged into new classroom; Schedule change
+ENR0556,ChildA-1420,CL-HPPS2-01,C-HP,Part-Time-2Day,1997-2024,2/12/2004,6/15/2006,6/15/2008,Aged into new classroom; Schedule change
+ENR0557,ChildA-1423,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,1/24/2013,1/24/2013,12/24/2013,Initial enrollment
+ENR0558,ChildA-1423,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,1/24/2013,12/25/2013,6/25/2015,Aged into new classroom; Schedule change
+ENR0559,ChildA-1423,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,1/24/2013,6/26/2015,6/25/2017,Aged into new classroom; Schedule change
+ENR0560,ChildA-1425,CL-JPPS2-01,C-JP,Full-Time,1997-2024,3/12/2023,3/12/2023,6/12/2023,Initial enrollment
+ENR0561,ChildA-1436,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,11/23/2002,11/23/2002,12/23/2003,Initial enrollment
+ENR0562,ChildA-1438,CL-HPIN-01,C-HP,Full-Time,1997-2024,1/24/2021,1/24/2021,6/24/2021,Initial enrollment
+ENR0563,ChildA-1438,CL-HPTO-01,C-HP,Part-Time-3Day,1997-2024,1/24/2021,6/25/2021,5/25/2022,Aged into new classroom; Schedule change
+ENR0564,ChildA-1438,CL-HPPS1-01,C-HP,Full-Time,1997-2024,1/24/2021,5/26/2022,5/26/2023,Aged into new classroom; Schedule change
+ENR0565,ChildA-1438,CL-HPPS2-01,C-HP,Part-Time-3Day,1997-2024,1/24/2021,5/27/2023,12/30/2023,Aged into new classroom; Schedule change
+ENR0566,ChildA-1439,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,8/9/2021,8/9/2021,5/31/2022,Initial enrollment
+ENR0567,ChildA-1440,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,7/25/2012,7/25/2012,12/25/2012,Initial enrollment
+ENR0568,ChildA-1440,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,7/25/2012,12/26/2012,6/26/2014,Aged into new classroom; Schedule change
+ENR0569,ChildA-1440,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,7/25/2012,6/27/2014,6/25/2016,Aged into new classroom; Schedule change
+ENR0570,ChildA-1443,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,8/2/2007,8/2/2007,1/2/2008,Initial enrollment
+ENR0571,ChildA-1443,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,8/2/2007,1/3/2008,1/3/2010,Aged into new classroom
+ENR0572,ChildA-1445,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,1/25/2015,1/25/2015,4/25/2016,Initial enrollment
+ENR0573,ChildA-1445,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,1/25/2015,4/26/2016,10/26/2017,Aged into new classroom; Schedule change
+ENR0574,ChildA-1445,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,1/25/2015,10/27/2017,10/1/2019,Aged into new classroom; Schedule change
+ENR0575,ChildA-1451,CL-JPPS2-01,C-JP,Full-Time,1997-2024,6/24/2011,6/24/2011,4/17/2013,Initial enrollment
+ENR0576,ChildA-1452,CL-LCVIN-01,C-LCV,Part-Time-2Day,1997-2022,5/17/2014,5/17/2014,6/17/2014,Initial enrollment
+ENR0577,ChildA-1452,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,5/17/2014,6/18/2014,12/18/2015,Aged into new classroom; Schedule change
+ENR0578,ChildA-1452,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,5/17/2014,12/19/2015,12/3/2017,Aged into new classroom
+ENR0579,ChildA-1454,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,12/30/2014,12/30/2014,12/29/2014,Initial enrollment
+ENR0579,ChildA-1454,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,9/12/2022,12/30/2014,7/30/2015,Continued enrollment
+ENR0580,ChildA-1454,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,12/30/2014,7/31/2015,7/30/2015,Aged into new classroom; Schedule change
+ENR0580,ChildA-1454,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,9/12/2022,7/31/2015,9/11/2022,Continued enrollment
+ENR0581,ChildA-1460,CL-JPPS1-01,C-JP,Full-Time,1997-2024,1/6/2016,1/6/2016,1/5/2016,Initial enrollment
+ENR0581,ChildA-1460,CL-JPPS1-01,C-JP,Full-Time,1997-2024,6/8/2019,1/6/2016,8/6/2016,Continued enrollment
+ENR0582,ChildA-1460,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,1/6/2016,8/7/2016,8/6/2016,Aged into new classroom; Schedule change
+ENR0582,ChildA-1460,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,6/8/2019,8/7/2016,6/7/2019,Continued enrollment
+ENR0583,ChildA-1460,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,1/6/2016,6/8/2019,6/7/2019,Aged into new classroom
+ENR0583,ChildA-1460,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,6/8/2019,6/8/2019,6/8/2020,Continued enrollment
+ENR0584,ChildA-1460,CL-JPPS2-01,C-JP,Full-Time,1997-2024,1/6/2016,6/9/2020,6/8/2020,Aged into new classroom; Schedule change
+ENR0584,ChildA-1460,CL-JPPS2-01,C-JP,Full-Time,1997-2024,6/8/2019,6/9/2020,5/31/2022,Continued enrollment
+ENR0585,ChildA-1461,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,5/5/2006,5/15/2014,5/14/2014,Initial enrollment
+ENR0585,ChildA-1461,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,5/15/2014,5/15/2014,7/15/2014,Continued enrollment
+ENR0586,ChildA-1461,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,5/5/2006,7/16/2014,7/15/2014,Aged into new classroom; Schedule change
+ENR0586,ChildA-1461,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,5/15/2014,7/16/2014,7/6/2016,Continued enrollment
+ENR0587,ChildA-1467,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,12/13/2014,12/13/2014,12/10/2016,Initial enrollment
+ENR0588,ChildA-1469,CL-TDPS-01,C-TD,Part-Time-2Day,1997-2024,2/20/2024,2/20/2024,2/19/2024,Initial enrollment
+ENR0588,ChildA-1469,CL-TDPS-01,C-TD,Part-Time-2Day,1997-2024,2/20/2024,6/30/2024,6/29/2024,Schedule change
+ENR0588,ChildA-1469,CL-TDPS-01,C-TD,Part-Time-2Day,24-25,2/20/2024,7/1/2024,6/30/2024,Rate policy change
+ENR0588,ChildA-1469,CL-TDPS-01,C-TD,Part-Time-2Day,1997-2024,5/25/2024,2/20/2024,5/24/2024,Continued enrollment
+ENR0588,ChildA-1469,CL-TDPS-01,C-TD,Part-Time-2Day,1997-2024,5/25/2024,6/30/2024,6/30/2024,Continued enrollment
+ENR0588,ChildA-1469,CL-TDPS-01,C-TD,Part-Time-2Day,24-25,5/25/2024,7/1/2024,3/18/2025,Continued enrollment
+ENR0589,ChildA-1469,CL-TDPS-01,C-TD,Full-Time,1997-2024,2/20/2024,5/25/2024,5/24/2024,Schedule change
+ENR0589,ChildA-1469,CL-TDPS-01,C-TD,Full-Time,1997-2024,5/25/2024,5/25/2024,6/29/2024,Continued enrollment
+ENR0590,ChildA-1472,CL-JPPS2-01,C-JP,Full-Time,1997-2024,10/4/2023,10/4/2023,3/20/2024,Initial enrollment
+ENR0591,ChildA-1473,CL-TDPS-01,C-TD,Part-Time-3Day,24-25,1/14/2025,1/14/2025,4/14/2025,Initial enrollment
+ENR0592,ChildA-1480,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,6/12/2020,6/12/2020,3/12/2021,Initial enrollment
+ENR0593,ChildA-1480,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,6/12/2020,3/13/2021,5/31/2022,Aged into new classroom
+ENR0595,ChildA-1482,CL-HPTO-01,C-HP,Full-Time,1997-2024,1/19/2007,1/19/2007,1/18/2007,Continued enrollment
+ENR0595,ChildA-1482,CL-HPTO-01,C-HP,Full-Time,1997-2024,1/11/2009,1/19/2007,4/19/2007,Continued enrollment
+ENR0595,ChildA-1482,CL-HPTO-01,C-HP,Full-Time,1997-2024,8/31/2017,1/19/2007,1/18/2007,Initial enrollment
+ENR0596,ChildA-1482,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,1/19/2007,4/20/2007,4/19/2007,Continued enrollment
+ENR0596,ChildA-1482,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,1/11/2009,4/20/2007,4/20/2008,Continued enrollment
+ENR0596,ChildA-1482,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,8/31/2017,4/20/2007,4/19/2007,Aged into new classroom; Schedule change
+ENR0597,ChildA-1482,CL-HPPS2-01,C-HP,Part-Time-2Day,1997-2024,1/19/2007,4/21/2008,4/20/2008,Continued enrollment
+ENR0597,ChildA-1482,CL-HPPS2-01,C-HP,Part-Time-2Day,1997-2024,1/11/2009,4/21/2008,1/10/2009,Continued enrollment
+ENR0597,ChildA-1482,CL-HPPS2-01,C-HP,Part-Time-2Day,1997-2024,8/31/2017,4/21/2008,4/20/2008,Aged into new classroom; Schedule change
+ENR0598,ChildA-1482,CL-HPPS2-01,C-HP,Full-Time,1997-2024,1/19/2007,1/11/2009,1/10/2009,Continued enrollment
+ENR0598,ChildA-1482,CL-HPPS2-01,C-HP,Full-Time,1997-2024,1/11/2009,1/11/2009,8/30/2017,Continued enrollment
+ENR0598,ChildA-1482,CL-HPPS2-01,C-HP,Full-Time,1997-2024,8/31/2017,1/11/2009,1/10/2009,Schedule change
+ENR0599,ChildA-1482,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,1/19/2007,8/31/2017,8/30/2017,Continued enrollment
+ENR0599,ChildA-1482,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,8/31/2017,8/31/2017,8/30/2017,Aged into new classroom
+ENR0599,ChildA-1482,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,1/11/2009,8/31/2017,11/30/2017,Continued enrollment
+ENR0600,ChildA-1482,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,1/19/2007,12/1/2017,11/30/2017,Continued enrollment
+ENR0600,ChildA-1482,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,8/31/2017,12/1/2017,11/30/2017,Aged into new classroom; Schedule change
+ENR0600,ChildA-1482,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,1/11/2009,12/1/2017,11/17/2019,Continued enrollment
+ENR0601,ChildA-1483,CL-JPPS1-01,C-JP,Full-Time,1997-2024,5/30/2012,5/30/2012,6/30/2012,Initial enrollment
+ENR0602,ChildA-1483,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,5/30/2012,7/1/2012,6/23/2014,Aged into new classroom; Schedule change
+ENR0603,ChildA-1485,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,11/9/2013,11/9/2013,6/9/2014,Initial enrollment
+ENR0604,ChildA-1485,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,11/9/2013,6/10/2014,6/9/2016,Aged into new classroom; Schedule change
+ENR0605,ChildA-1486,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,8/7/2000,8/7/2000,10/7/2001,Initial enrollment
+ENR0606,ChildA-1487,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,6/18/2019,6/18/2019,4/13/2020,Initial enrollment
+ENR0607,ChildA-1490,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,3/29/2007,3/29/2007,7/29/2007,Initial enrollment
+ENR0608,ChildA-1490,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,3/29/2007,7/30/2007,1/30/2009,Aged into new classroom; Schedule change
+ENR0609,ChildA-1490,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,3/29/2007,1/31/2009,1/13/2011,Aged into new classroom; Schedule change
+ENR0610,ChildA-1491,CL-JPPS1-01,C-JP,Full-Time,1997-2024,4/21/2017,4/21/2017,11/21/2017,Initial enrollment
+ENR0611,ChildA-1491,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,4/21/2017,11/22/2017,4/16/2019,Aged into new classroom; Schedule change
+ENR0612,ChildA-1492,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,7/19/2005,7/19/2005,9/19/2006,Initial enrollment
+ENR0613,ChildA-1492,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,7/19/2005,9/20/2006,3/20/2008,Aged into new classroom; Schedule change
+ENR0614,ChildA-1492,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,7/19/2005,3/21/2008,3/9/2010,Aged into new classroom
+ENR0615,ChildA-1494,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,6/3/1999,6/3/1999,7/3/2000,Initial enrollment
+ENR0616,ChildA-1495,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,11/27/2015,11/27/2015,11/26/2015,Initial enrollment
+ENR0616,ChildA-1495,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,3/21/2021,11/27/2015,3/20/2021,Continued enrollment
+ENR0617,ChildA-1495,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,11/27/2015,3/21/2021,3/20/2021,Aged into new classroom
+ENR0617,ChildA-1495,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,3/21/2021,3/21/2021,6/21/2021,Continued enrollment
+ENR0618,ChildA-1495,CL-JPPS1-01,C-JP,Full-Time,1997-2024,11/27/2015,6/22/2021,6/21/2021,Aged into new classroom; Schedule change
+ENR0618,ChildA-1495,CL-JPPS1-01,C-JP,Full-Time,1997-2024,3/21/2021,6/22/2021,6/22/2022,Continued enrollment
+ENR0619,ChildA-1495,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,11/27/2015,6/23/2022,6/22/2022,Aged into new classroom; Schedule change
+ENR0619,ChildA-1495,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,3/21/2021,6/23/2022,2/17/2023,Continued enrollment
+ENR0620,ChildA-1498,CL-JPPS1-01,C-JP,Full-Time,1997-2024,9/21/2017,9/21/2017,2/21/2018,Initial enrollment
+ENR0621,ChildA-1498,CL-JPPS2-01,C-JP,Full-Time,1997-2024,9/21/2017,2/22/2018,6/28/2018,Aged into new classroom
+ENR0622,ChildA-1501,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,12/15/2011,12/15/2011,8/15/2012,Initial enrollment
+ENR0623,ChildA-1501,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,12/15/2011,8/16/2012,8/11/2014,Aged into new classroom
+ENR0624,ChildA-1502,CL-JPTO-01,C-JP,Full-Time,1997-2024,7/8/2012,7/8/2012,3/8/2013,Initial enrollment
+ENR0625,ChildA-1502,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,7/8/2012,3/9/2013,3/9/2014,Aged into new classroom; Schedule change
+ENR0626,ChildA-1502,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,7/8/2012,3/10/2014,3/5/2016,Aged into new classroom; Schedule change
+ENR0627,ChildA-1513,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,11/12/2004,11/12/2004,7/12/2005,Initial enrollment
+ENR0628,ChildA-1513,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,11/12/2004,7/13/2005,7/7/2007,Aged into new classroom
+ENR0629,ChildA-1517,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,2/13/2005,2/13/2005,8/13/2005,Initial enrollment
+ENR0630,ChildA-1517,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,2/13/2005,8/14/2005,2/14/2007,Aged into new classroom; Schedule change
+ENR0631,ChildA-1517,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,2/13/2005,2/15/2007,2/10/2009,Aged into new classroom; Schedule change
+ENR0632,ChildA-1523,CL-TDPS-01,C-TD,Part-Time-3Day,24-25,8/19/2024,8/19/2024,11/26/2024,Initial enrollment
+ENR0633,ChildA-1529,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,2/4/2019,2/4/2019,2/28/2020,Initial enrollment
+ENR0634,ChildA-1531,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,6/9/2009,6/9/2009,4/9/2010,Initial enrollment
+ENR0635,ChildA-1531,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,6/9/2009,4/10/2010,10/10/2011,Aged into new classroom
+ENR0636,ChildA-1531,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,6/9/2009,10/11/2011,10/11/2013,Aged into new classroom
+ENR0637,ChildA-1537,CL-HPPS1-01,C-HP,Full-Time,1997-2024,10/27/2013,10/27/2013,9/27/2014,Initial enrollment
+ENR0638,ChildA-1537,CL-HPPS2-01,C-HP,Full-Time,1997-2024,10/27/2013,9/28/2014,9/22/2016,Aged into new classroom
+ENR0639,ChildA-1538,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,6/18/2017,6/18/2017,2/28/2018,Initial enrollment
+ENR0640,ChildA-1542,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,8/28/2019,8/28/2019,4/28/2020,Initial enrollment
+ENR0641,ChildA-1542,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,8/28/2019,4/29/2020,4/27/2022,Aged into new classroom; Schedule change
+ENR0642,ChildA-1550,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,5/4/2015,5/4/2015,4/4/2016,Initial enrollment
+ENR0643,ChildA-1550,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,5/4/2015,4/5/2016,4/5/2018,Aged into new classroom; Schedule change
+ENR0644,ChildA-1571,CL-JPIN-01,C-JP,Full-Time,1997-2024,7/22/2020,1/6/2023,1/5/2023,Aged into new classroom; Schedule change
+ENR0644,ChildA-1571,CL-JPIN-01,C-JP,Full-Time,1997-2024,1/6/2023,1/6/2023,4/6/2023,Continued enrollment
+ENR0645,ChildA-1571,CL-JPTO-01,C-JP,Part-Time-2Day,1997-2024,7/22/2020,4/7/2023,4/6/2023,Aged into new classroom; Schedule change
+ENR0645,ChildA-1571,CL-JPTO-01,C-JP,Part-Time-2Day,1997-2024,1/6/2023,4/7/2023,11/28/2023,Continued enrollment
+ENR0646,ChildA-1571,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,7/22/2020,7/22/2020,7/21/2020,Initial enrollment
+ENR0646,ChildA-1571,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,1/6/2023,7/22/2020,1/5/2023,Continued enrollment
+ENR0647,ChildA-1572,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,7/5/2014,7/5/2014,9/5/2015,Initial enrollment
+ENR0648,ChildA-1587,CL-JPIN-01,C-JP,Full-Time,1997-2024,8/26/2017,8/26/2017,12/26/2017,Initial enrollment
+ENR0649,ChildA-1587,CL-JPTO-01,C-JP,Full-Time,1997-2024,8/26/2017,12/27/2017,11/27/2018,Aged into new classroom
+ENR0650,ChildA-1587,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,8/26/2017,11/28/2018,11/28/2019,Aged into new classroom; Schedule change
+ENR0651,ChildA-1587,CL-JPPS2-01,C-JP,Full-Time,1997-2024,8/26/2017,11/29/2019,11/5/2021,Aged into new classroom; Schedule change
+ENR0652,ChildA-1591,CL-JPTO-01,C-JP,Full-Time,1997-2024,2/10/2015,2/10/2015,3/10/2015,Initial enrollment
+ENR0653,ChildA-1591,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,2/10/2015,3/11/2015,3/11/2016,Aged into new classroom; Schedule change
+ENR0654,ChildA-1591,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,2/10/2015,3/12/2016,3/12/2018,Aged into new classroom; Schedule change
+ENR0655,ChildA-1593,CL-JPTO-01,C-JP,Part-Time-2Day,1997-2024,11/3/2009,11/3/2009,3/3/2010,Initial enrollment
+ENR0656,ChildA-1593,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,11/3/2009,3/4/2010,3/4/2011,Aged into new classroom; Schedule change
+ENR0657,ChildA-1593,CL-JPPS2-01,C-JP,Full-Time,1997-2024,11/3/2009,3/5/2011,3/5/2013,Aged into new classroom; Schedule change
+ENR0658,ChildA-1598,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,12/19/2017,12/19/2017,9/19/2018,Initial enrollment
+ENR0659,ChildA-1598,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,12/19/2017,9/20/2018,3/20/2020,Aged into new classroom; Schedule change
+ENR0660,ChildA-1598,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,12/19/2017,3/21/2020,3/8/2022,Aged into new classroom
+ENR0661,ChildA-1599,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,1/7/2020,1/7/2020,8/7/2020,Initial enrollment
+ENR0662,ChildA-1599,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,1/7/2020,8/8/2020,5/31/2022,Aged into new classroom; Schedule change
+ENR0663,ChildA-1602,CL-HPPS2-01,C-HP,Part-Time-3Day,1997-2024,1/14/2004,1/14/2004,3/14/2005,Initial enrollment
+ENR0664,ChildA-1603,CL-JPPS2-01,C-JP,Full-Time,1997-2024,3/2/2021,3/2/2021,5/31/2022,Initial enrollment
+ENR0665,ChildA-1609,CL-JPPS1-01,C-JP,Part-Time-2Day,1997-2024,8/26/2018,8/26/2018,6/26/2019,Initial enrollment
+ENR0666,ChildA-1609,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,8/26/2018,6/27/2019,6/20/2021,Aged into new classroom
+ENR0667,ChildA-1620,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,6/26/2001,6/26/2001,7/1/2002,Initial enrollment
+ENR0668,ChildA-1624,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,11/10/2008,11/10/2008,4/10/2009,Initial enrollment
+ENR0669,ChildA-1624,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,11/10/2008,4/11/2009,4/5/2011,Aged into new classroom; Schedule change
+ENR0670,ChildA-1625,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,6/1/2000,6/1/2000,10/1/2000,Initial enrollment
+ENR0671,ChildA-1625,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,6/1/2000,10/2/2000,4/2/2002,Aged into new classroom
+ENR0672,ChildA-1625,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,6/1/2000,4/3/2002,7/1/2002,Aged into new classroom; Schedule change
+ENR0673,ChildA-1629,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,7/12/2020,8/22/2020,8/21/2020,Schedule change
+ENR0673,ChildA-1629,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,8/22/2020,8/22/2020,3/22/2021,Continued enrollment
+ENR0674,ChildA-1629,CL-JPPS2-01,C-JP,Full-Time,1997-2024,7/12/2020,7/12/2020,7/11/2020,Initial enrollment
+ENR0674,ChildA-1629,CL-JPPS2-01,C-JP,Full-Time,1997-2024,8/22/2020,7/12/2020,8/21/2020,Continued enrollment
+ENR0675,ChildA-1631,CL-HPPS2-01,C-HP,Part-Time-2Day,1997-2024,5/25/2007,5/25/2007,11/11/2008,Initial enrollment
+ENR0676,ChildA-1633,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,12/15/2008,12/15/2008,8/15/2010,Initial enrollment
+ENR0677,ChildA-1635,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,9/19/2006,9/19/2006,1/19/2007,Initial enrollment
+ENR0678,ChildA-1635,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,9/19/2006,1/20/2007,1/1/2009,Aged into new classroom; Schedule change
+ENR0679,ChildA-1637,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,7/5/2019,7/5/2019,10/5/2020,Initial enrollment
+ENR0680,ChildA-1637,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,7/5/2019,10/6/2020,5/31/2022,Aged into new classroom
+ENR0681,ChildA-1640,CL-JPIN-01,C-JP,Part-Time-3Day,1997-2024,4/6/2010,4/6/2010,9/6/2010,Initial enrollment
+ENR0682,ChildA-1640,CL-JPTO-01,C-JP,Full-Time,1997-2024,4/6/2010,9/7/2010,8/7/2011,Aged into new classroom; Schedule change
+ENR0683,ChildA-1640,CL-JPPS1-01,C-JP,Full-Time,1997-2024,4/6/2010,8/8/2011,8/8/2012,Aged into new classroom
+ENR0684,ChildA-1640,CL-JPPS2-01,C-JP,Full-Time,1997-2024,4/6/2010,8/9/2012,2/17/2013,Aged into new classroom
+ENR0685,ChildA-1642,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,10/14/2004,10/14/2004,10/6/2005,Initial enrollment
+ENR0686,ChildA-1645,CL-TDPS-01,C-TD,Part-Time-3Day,1997-2024,1/7/2024,1/7/2024,6/30/2024,Initial enrollment
+ENR0686,ChildA-1645,CL-TDPS-01,C-TD,Part-Time-3Day,24-25,1/7/2024,7/1/2024,8/25/2024,Rate policy change
+ENR0687,ChildA-1648,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,5/27/2013,5/27/2013,8/27/2014,Initial enrollment
+ENR0688,ChildA-1648,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,5/27/2013,8/28/2014,8/1/2016,Aged into new classroom; Schedule change
+ENR0689,ChildA-1649,CL-JPPS1-01,C-JP,Full-Time,1997-2024,10/21/2012,10/21/2012,10/20/2012,Initial enrollment
+ENR0689,ChildA-1649,CL-JPPS1-01,C-JP,Full-Time,1997-2024,10/14/2022,10/21/2012,2/21/2013,Continued enrollment
+ENR0690,ChildA-1649,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,10/21/2012,2/22/2013,2/21/2013,Aged into new classroom; Schedule change
+ENR0690,ChildA-1649,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,10/14/2022,2/22/2013,10/13/2022,Continued enrollment
+ENR0691,ChildA-1649,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,10/21/2012,10/14/2022,10/13/2022,Aged into new classroom; Schedule change
+ENR0691,ChildA-1649,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,10/14/2022,10/14/2022,12/14/2022,Continued enrollment
+ENR0692,ChildA-1649,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,10/21/2012,12/15/2022,12/14/2022,Aged into new classroom
+ENR0692,ChildA-1649,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,10/14/2022,12/15/2022,12/22/2022,Continued enrollment
+ENR0693,ChildA-1654,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,3/12/2017,3/12/2017,12/27/2017,Initial enrollment
+ENR0694,ChildA-1655,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,4/15/2017,4/15/2017,8/15/2017,Initial enrollment
+ENR0695,ChildA-1655,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,4/15/2017,8/16/2017,2/16/2019,Aged into new classroom; Schedule change
+ENR0696,ChildA-1655,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,4/15/2017,2/17/2019,2/4/2021,Aged into new classroom; Schedule change
+ENR0697,ChildA-1657,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,10/14/2010,10/14/2010,7/14/2011,Initial enrollment
+ENR0698,ChildA-1658,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,6/9/2002,6/9/2002,7/1/2002,Initial enrollment
+ENR0699,ChildA-1662,CL-HPTO-01,C-HP,Full-Time,1997-2024,4/21/2011,4/21/2011,4/20/2011,Initial enrollment
+ENR0699,ChildA-1662,CL-HPTO-01,C-HP,Full-Time,1997-2024,1/30/2014,4/21/2011,6/21/2011,Continued enrollment
+ENR0700,ChildA-1662,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,4/21/2011,6/22/2011,6/21/2011,Aged into new classroom; Schedule change
+ENR0700,ChildA-1662,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,1/30/2014,6/22/2011,6/22/2012,Continued enrollment
+ENR0701,ChildA-1662,CL-HPPS2-01,C-HP,Part-Time-2Day,1997-2024,4/21/2011,6/23/2012,6/22/2012,Aged into new classroom; Schedule change
+ENR0701,ChildA-1662,CL-HPPS2-01,C-HP,Part-Time-2Day,1997-2024,1/30/2014,6/23/2012,1/29/2014,Continued enrollment
+ENR0702,ChildA-1662,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,4/21/2011,1/30/2014,1/29/2014,Aged into new classroom; Schedule change
+ENR0702,ChildA-1662,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,1/30/2014,1/30/2014,4/30/2014,Continued enrollment
+ENR0703,ChildA-1662,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,4/21/2011,5/1/2014,4/30/2014,Aged into new classroom
+ENR0703,ChildA-1662,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,1/30/2014,5/1/2014,4/19/2016,Continued enrollment
+ENR0704,ChildA-1669,CL-JPTO-01,C-JP,Full-Time,1997-2024,1/9/2021,1/9/2021,7/9/2021,Initial enrollment
+ENR0705,ChildA-1669,CL-JPPS1-01,C-JP,Full-Time,1997-2024,1/9/2021,7/10/2021,7/10/2022,Aged into new classroom
+ENR0706,ChildA-1669,CL-JPPS2-01,C-JP,Full-Time,1997-2024,1/9/2021,7/11/2022,7/5/2023,Aged into new classroom
+ENR0707,ChildA-1677,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,12/4/2021,12/4/2021,2/4/2022,Initial enrollment
+ENR0708,ChildA-1683,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,11/25/2011,11/25/2011,12/19/2012,Initial enrollment
+ENR0709,ChildA-1687,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,2/2/2012,2/2/2012,7/2/2013,Initial enrollment
+ENR0710,ChildA-1687,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,2/2/2012,7/3/2013,7/3/2015,Aged into new classroom
+ENR0711,ChildA-1698,CL-HPPS1-01,C-HP,Part-Time-2Day,1997-2024,1/21/2014,1/21/2014,8/21/2014,Initial enrollment
+ENR0712,ChildA-1698,CL-HPPS2-01,C-HP,Part-Time-2Day,1997-2024,1/21/2014,8/22/2014,8/3/2016,Aged into new classroom
+ENR0713,ChildA-1700,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,8/17/2009,8/17/2009,9/17/2009,Continued enrollment
+ENR0713,ChildA-1700,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,11/22/2018,8/17/2009,8/16/2009,Initial enrollment
+ENR0714,ChildA-1700,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,8/17/2009,9/18/2009,11/21/2018,Continued enrollment
+ENR0714,ChildA-1700,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,11/22/2018,9/18/2009,9/17/2009,Aged into new classroom; Schedule change
+ENR0715,ChildA-1700,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,8/17/2009,11/22/2018,3/22/2019,Continued enrollment
+ENR0715,ChildA-1700,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,11/22/2018,11/22/2018,11/21/2018,Aged into new classroom
+ENR0716,ChildA-1700,CL-JPPS2-01,C-JP,Full-Time,1997-2024,8/17/2009,3/23/2019,3/9/2021,Continued enrollment
+ENR0716,ChildA-1700,CL-JPPS2-01,C-JP,Full-Time,1997-2024,11/22/2018,3/23/2019,3/22/2019,Aged into new classroom; Schedule change
+ENR0717,ChildA-1704,CL-JPPS1-01,C-JP,Full-Time,1997-2024,3/25/2018,3/25/2018,3/25/2019,Initial enrollment
+ENR0718,ChildA-1704,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,3/25/2018,3/26/2019,3/26/2021,Aged into new classroom; Schedule change
+ENR0719,ChildA-1706,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,10/30/2018,10/30/2018,3/7/2019,Initial enrollment
+ENR0720,ChildA-1707,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,11/2/2020,11/2/2020,1/2/2021,Initial enrollment
+ENR0721,ChildA-1709,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,5/15/2015,5/15/2015,5/14/2015,Initial enrollment
+ENR0721,ChildA-1709,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,11/29/2016,5/15/2015,11/28/2016,Continued enrollment
+ENR0722,ChildA-1709,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,5/15/2015,11/29/2016,11/28/2016,Aged into new classroom; Schedule change
+ENR0722,ChildA-1709,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,11/29/2016,11/29/2016,10/29/2017,Continued enrollment
+ENR0723,ChildA-1709,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,5/15/2015,10/30/2017,10/29/2017,Aged into new classroom
+ENR0723,ChildA-1709,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,11/29/2016,10/30/2017,10/21/2019,Continued enrollment
+ENR0724,ChildA-1711,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,7/22/1998,7/22/1998,5/11/1999,Initial enrollment
+ENR0725,ChildA-1717,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,4/28/2018,4/28/2018,6/28/2019,Initial enrollment
+ENR0726,ChildA-1717,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,4/28/2018,6/29/2019,12/29/2020,Aged into new classroom
+ENR0727,ChildA-1717,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,4/28/2018,12/30/2020,5/31/2022,Aged into new classroom; Schedule change
+ENR0728,ChildA-1718,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,3/13/2007,3/13/2007,3/12/2007,Initial enrollment
+ENR0728,ChildA-1718,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,10/8/2013,3/13/2007,12/13/2007,Continued enrollment
+ENR0729,ChildA-1718,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,3/13/2007,12/14/2007,12/13/2007,Aged into new classroom
+ENR0729,ChildA-1718,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,10/8/2013,12/14/2007,6/14/2009,Continued enrollment
+ENR0730,ChildA-1718,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,3/13/2007,6/15/2009,6/14/2009,Aged into new classroom; Schedule change
+ENR0730,ChildA-1718,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,10/8/2013,6/15/2009,10/7/2013,Continued enrollment
+ENR0731,ChildA-1718,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,3/13/2007,10/8/2013,10/7/2013,Aged into new classroom; Schedule change
+ENR0731,ChildA-1718,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,10/8/2013,10/8/2013,12/8/2014,Continued enrollment
+ENR0732,ChildA-1718,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,3/13/2007,12/9/2014,12/8/2014,Aged into new classroom; Schedule change
+ENR0732,ChildA-1718,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,10/8/2013,12/9/2014,6/9/2016,Continued enrollment
+ENR0733,ChildA-1718,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,3/13/2007,6/10/2016,6/9/2016,Aged into new classroom; Schedule change
+ENR0733,ChildA-1718,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,10/8/2013,6/10/2016,6/10/2018,Continued enrollment
+ENR0734,ChildA-1726,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,7/31/2005,7/31/2005,9/30/2005,Initial enrollment
+ENR0735,ChildA-1729,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,3/6/2021,3/6/2021,2/6/2022,Initial enrollment
+ENR0736,ChildA-1740,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,4/1/2004,4/1/2004,6/1/2004,Initial enrollment
+ENR0737,ChildA-1740,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,4/1/2004,6/2/2004,6/2/2006,Aged into new classroom
+ENR0738,ChildA-1744,CL-JPPS1-01,C-JP,Full-Time,1997-2024,7/14/2021,7/14/2021,2/14/2022,Initial enrollment
+ENR0739,ChildA-1744,CL-JPPS2-01,C-JP,Full-Time,1997-2024,7/14/2021,2/15/2022,5/31/2022,Aged into new classroom
+ENR0740,ChildA-1746,CL-JPIN-01,C-JP,Full-Time,1997-2024,11/16/2015,11/16/2015,7/16/2016,Initial enrollment
+ENR0741,ChildA-1746,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,11/16/2015,7/17/2016,6/17/2017,Aged into new classroom; Schedule change
+ENR0742,ChildA-1746,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,11/16/2015,6/18/2017,6/18/2018,Aged into new classroom; Schedule change
+ENR0743,ChildA-1746,CL-JPPS2-01,C-JP,Full-Time,1997-2024,11/16/2015,6/19/2018,6/11/2020,Aged into new classroom; Schedule change
+ENR0744,ChildA-1747,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,5/30/2020,5/30/2020,7/22/2021,Initial enrollment
+ENR0745,ChildA-1750,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,11/6/2004,11/6/2004,8/6/2005,Initial enrollment
+ENR0746,ChildA-1750,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,11/6/2004,8/7/2005,8/5/2007,Aged into new classroom; Schedule change
+ENR0747,ChildA-1751,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,3/26/2019,3/7/2022,3/6/2022,Schedule change
+ENR0747,ChildA-1751,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,3/7/2022,3/7/2022,5/31/2022,Continued enrollment
+ENR0748,ChildA-1751,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,3/26/2019,3/26/2019,3/25/2019,Initial enrollment
+ENR0748,ChildA-1751,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,3/7/2022,3/26/2019,3/6/2022,Continued enrollment
+ENR0749,ChildA-1752,CL-HPPS2-01,C-HP,Part-Time-3Day,1997-2024,8/18/2007,8/18/2007,8/17/2007,Initial enrollment
+ENR0749,ChildA-1752,CL-HPPS2-01,C-HP,Part-Time-3Day,1997-2024,1/8/2010,8/18/2007,1/7/2010,Continued enrollment
+ENR0750,ChildA-1752,CL-JPIN-01,C-JP,Full-Time,1997-2024,8/18/2007,1/8/2010,1/7/2010,Aged into new classroom; Schedule change
+ENR0750,ChildA-1752,CL-JPIN-01,C-JP,Full-Time,1997-2024,1/8/2010,1/8/2010,2/8/2010,Continued enrollment
+ENR0751,ChildA-1752,CL-JPTO-01,C-JP,Full-Time,1997-2024,8/18/2007,2/9/2010,2/8/2010,Aged into new classroom
+ENR0751,ChildA-1752,CL-JPTO-01,C-JP,Full-Time,1997-2024,1/8/2010,2/9/2010,1/9/2011,Continued enrollment
+ENR0752,ChildA-1752,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,8/18/2007,1/10/2011,1/9/2011,Aged into new classroom; Schedule change
+ENR0752,ChildA-1752,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,1/8/2010,1/10/2011,1/10/2012,Continued enrollment
+ENR0753,ChildA-1752,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,8/18/2007,1/11/2012,1/10/2012,Aged into new classroom; Schedule change
+ENR0753,ChildA-1752,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,1/8/2010,1/11/2012,1/8/2014,Continued enrollment
+ENR0754,ChildA-1753,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,7/12/2016,7/12/2016,7/12/2018,Initial enrollment
+ENR0755,ChildA-1754,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,1/16/1998,1/16/1998,9/16/1998,Initial enrollment
+ENR0756,ChildA-1754,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,1/16/1998,9/17/1998,9/17/2000,Aged into new classroom; Schedule change
+ENR0757,ChildA-1760,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,12/3/2014,12/3/2014,8/3/2016,Initial enrollment
+ENR0758,ChildA-1769,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,12/10/2009,12/10/2009,7/7/2010,Initial enrollment
+ENR0759,ChildA-1772,CL-TDTO-01,C-TD,Full-Time,24-25,7/13/2024,7/13/2024,9/7/2024,Initial enrollment
+ENR0760,ChildA-1776,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,6/26/2007,6/26/2007,3/26/2008,Initial enrollment
+ENR0761,ChildA-1776,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,6/26/2007,3/27/2008,9/27/2009,Aged into new classroom; Schedule change
+ENR0762,ChildA-1776,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,6/26/2007,9/28/2009,9/3/2011,Aged into new classroom; Schedule change
+ENR0763,ChildA-1781,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,6/21/2011,6/21/2011,6/20/2011,Initial enrollment
+ENR0763,ChildA-1781,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,10/27/2015,6/21/2011,10/26/2015,Continued enrollment
+ENR0764,ChildA-1781,CL-JPTO-01,C-JP,Full-Time,1997-2024,6/21/2011,10/27/2015,10/26/2015,Aged into new classroom; Schedule change
+ENR0764,ChildA-1781,CL-JPTO-01,C-JP,Full-Time,1997-2024,10/27/2015,10/27/2015,5/27/2016,Continued enrollment
+ENR0765,ChildA-1781,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,6/21/2011,5/28/2016,5/27/2016,Aged into new classroom; Schedule change
+ENR0765,ChildA-1781,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,10/27/2015,5/28/2016,5/28/2017,Continued enrollment
+ENR0766,ChildA-1781,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,6/21/2011,5/29/2017,5/28/2017,Aged into new classroom; Schedule change
+ENR0766,ChildA-1781,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,10/27/2015,5/29/2017,5/17/2019,Continued enrollment
+ENR0767,ChildA-1786,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,3/5/2017,3/5/2017,12/5/2017,Initial enrollment
+ENR0768,ChildA-1786,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,3/5/2017,12/6/2017,12/6/2019,Aged into new classroom; Schedule change
+ENR0769,ChildA-1789,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,6/29/2005,6/29/2005,11/29/2005,Initial enrollment
+ENR0770,ChildA-1789,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,6/29/2005,11/30/2005,11/8/2007,Aged into new classroom; Schedule change
+ENR0771,ChildA-1794,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,6/19/1998,6/19/1998,4/7/1999,Initial enrollment
+ENR0772,ChildA-1797,CL-HPPS2-01,C-HP,Full-Time,1997-2024,12/4/2005,12/4/2005,5/1/2007,Initial enrollment
+ENR0773,ChildA-1799,CL-HPTO-01,C-HP,Full-Time,1997-2024,11/30/2011,11/30/2011,9/30/2012,Initial enrollment
+ENR0774,ChildA-1799,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,11/30/2011,10/1/2012,10/1/2013,Aged into new classroom; Schedule change
+ENR0775,ChildA-1799,CL-HPPS2-01,C-HP,Part-Time-3Day,1997-2024,11/30/2011,10/2/2013,9/18/2015,Aged into new classroom
+ENR0776,ChildA-1802,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,6/10/1999,6/10/1999,12/10/2000,Initial enrollment
+ENR0777,ChildA-1802,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,6/10/1999,12/11/2000,7/1/2002,Aged into new classroom; Schedule change
+ENR0778,ChildA-1805,CL-HPPS2-01,C-HP,Part-Time-3Day,1997-2024,11/14/2007,11/14/2007,3/14/2009,Initial enrollment
+ENR0779,ChildA-1807,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,7/26/1998,7/26/1998,5/31/1999,Initial enrollment
+ENR0780,ChildA-1812,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,12/26/1999,12/26/1999,7/26/2000,Initial enrollment
+ENR0781,ChildA-1812,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,12/26/1999,7/27/2000,7/1/2002,Aged into new classroom; Schedule change
+ENR0782,ChildA-1820,CL-JPIN-01,C-JP,Full-Time,1997-2024,10/16/2016,10/16/2016,2/16/2017,Initial enrollment
+ENR0783,ChildA-1820,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,10/16/2016,2/17/2017,1/17/2018,Aged into new classroom; Schedule change
+ENR0784,ChildA-1820,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,10/16/2016,1/18/2018,1/18/2019,Aged into new classroom
+ENR0785,ChildA-1820,CL-JPPS2-01,C-JP,Full-Time,1997-2024,10/16/2016,1/19/2019,1/19/2021,Aged into new classroom; Schedule change
+ENR0786,ChildA-1821,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,10/31/2020,10/31/2020,4/6/2021,Initial enrollment
+ENR0787,ChildA-1822,CL-HPTO-01,C-HP,Part-Time-3Day,1997-2024,7/3/2011,7/3/2011,4/3/2012,Initial enrollment
+ENR0788,ChildA-1822,CL-HPPS1-01,C-HP,Full-Time,1997-2024,7/3/2011,4/4/2012,4/4/2013,Aged into new classroom; Schedule change
+ENR0789,ChildA-1822,CL-HPPS2-01,C-HP,Part-Time-3Day,1997-2024,7/3/2011,4/5/2013,4/5/2015,Aged into new classroom; Schedule change
+ENR0790,ChildA-1823,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,8/14/2020,8/14/2020,3/14/2021,Initial enrollment
+ENR0791,ChildA-1830,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,1/4/2010,9/7/2017,9/6/2017,Aged into new classroom; Schedule change
+ENR0791,ChildA-1830,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,9/7/2017,9/7/2017,7/7/2018,Continued enrollment
+ENR0792,ChildA-1830,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,1/4/2010,7/8/2018,7/7/2018,Aged into new classroom; Schedule change
+ENR0792,ChildA-1830,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,9/7/2017,7/8/2018,7/8/2019,Continued enrollment
+ENR0793,ChildA-1830,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,1/4/2010,7/9/2019,7/8/2019,Aged into new classroom; Schedule change
+ENR0793,ChildA-1830,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,9/7/2017,7/9/2019,7/9/2021,Continued enrollment
+ENR0794,ChildA-1830,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,1/4/2010,1/4/2010,1/3/2010,Initial enrollment
+ENR0794,ChildA-1830,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,9/7/2017,1/4/2010,5/4/2010,Continued enrollment
+ENR0795,ChildA-1830,CL-JPPS2-01,C-JP,Full-Time,1997-2024,1/4/2010,5/5/2010,5/4/2010,Aged into new classroom; Schedule change
+ENR0795,ChildA-1830,CL-JPPS2-01,C-JP,Full-Time,1997-2024,9/7/2017,5/5/2010,9/6/2017,Continued enrollment
+ENR0796,ChildA-1832,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,5/3/2014,5/3/2014,7/3/2014,Initial enrollment
+ENR0797,ChildA-1833,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,2/17/2018,2/17/2018,11/17/2019,Initial enrollment
+ENR0798,ChildA-1838,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,7/18/2002,7/18/2002,12/18/2002,Initial enrollment
+ENR0799,ChildA-1838,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,7/18/2002,12/19/2002,12/2/2004,Aged into new classroom; Schedule change
+ENR0800,ChildA-1839,CL-LCVIN-01,C-LCV,Part-Time-2Day,1997-2022,9/4/2013,9/4/2013,11/4/2013,Initial enrollment
+ENR0801,ChildA-1839,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,9/4/2013,11/5/2013,5/5/2015,Aged into new classroom; Schedule change
+ENR0802,ChildA-1839,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,9/4/2013,5/6/2015,5/6/2017,Aged into new classroom
+ENR0803,ChildA-1840,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,1/30/2015,1/30/2015,1/12/2017,Initial enrollment
+ENR0804,ChildA-1843,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,3/10/2020,3/10/2020,2/3/2021,Initial enrollment
+ENR0805,ChildA-1847,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,6/27/2011,6/27/2011,2/27/2012,Initial enrollment
+ENR0806,ChildA-1847,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,6/27/2011,2/28/2012,8/28/2013,Aged into new classroom
+ENR0807,ChildA-1847,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,6/27/2011,8/29/2013,8/26/2015,Aged into new classroom; Schedule change
+ENR0808,ChildA-1849,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,12/2/1999,12/2/1999,8/2/2000,Initial enrollment
+ENR0809,ChildA-1849,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,12/2/1999,8/3/2000,7/1/2002,Aged into new classroom; Schedule change
+ENR0810,ChildA-1851,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,6/21/2012,6/21/2012,9/15/2013,Initial enrollment
+ENR0811,ChildA-1853,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,11/13/2016,11/13/2016,3/13/2018,Initial enrollment
+ENR0812,ChildA-1853,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,11/13/2016,3/14/2018,3/14/2020,Aged into new classroom
+ENR0813,ChildA-1854,CL-JPPS2-01,C-JP,Full-Time,1997-2024,10/18/2022,10/18/2022,5/18/2023,Initial enrollment
+ENR0814,ChildA-1866,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,9/20/2000,9/20/2000,12/20/2000,Initial enrollment
+ENR0815,ChildA-1866,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,9/20/2000,12/21/2000,7/1/2002,Aged into new classroom
+ENR0816,ChildA-1870,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,2/7/2012,2/7/2012,3/7/2012,Initial enrollment
+ENR0817,ChildA-1877,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,4/15/2014,4/15/2014,3/15/2015,Initial enrollment
+ENR0818,ChildA-1877,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,4/15/2014,3/16/2015,9/16/2016,Aged into new classroom; Schedule change
+ENR0819,ChildA-1877,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,4/15/2014,9/17/2016,9/10/2018,Aged into new classroom; Schedule change
+ENR0820,ChildA-1883,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,12/26/2010,12/26/2010,5/26/2011,Initial enrollment
+ENR0821,ChildA-1883,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,12/26/2010,5/27/2011,11/27/2012,Aged into new classroom; Schedule change
+ENR0822,ChildA-1883,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,12/26/2010,11/28/2012,11/12/2014,Aged into new classroom; Schedule change
+ENR0823,ChildA-1885,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,7/11/2016,7/11/2016,7/10/2016,Initial enrollment
+ENR0823,ChildA-1885,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,3/22/2018,7/11/2016,3/21/2018,Continued enrollment
+ENR0824,ChildA-1885,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,7/11/2016,3/22/2018,3/21/2018,Aged into new classroom; Schedule change
+ENR0824,ChildA-1885,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,3/22/2018,3/22/2018,1/22/2019,Continued enrollment
+ENR0825,ChildA-1885,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,7/11/2016,1/23/2019,1/22/2019,Aged into new classroom
+ENR0825,ChildA-1885,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,3/22/2018,1/23/2019,1/18/2021,Continued enrollment
+ENR0826,ChildA-1899,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,7/12/2015,7/12/2015,11/12/2015,Initial enrollment
+ENR0827,ChildA-1899,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,7/12/2015,11/13/2015,11/13/2017,Aged into new classroom
+ENR0828,ChildA-1905,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,2/26/2020,2/26/2020,11/26/2020,Initial enrollment
+ENR0829,ChildA-1905,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,2/26/2020,11/27/2020,5/27/2022,Aged into new classroom; Schedule change
+ENR0830,ChildA-1905,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,2/26/2020,5/28/2022,5/31/2022,Aged into new classroom; Schedule change
+ENR0831,ChildA-1911,CL-LCVIN-01,C-LCV,Part-Time-2Day,1997-2022,2/14/2007,2/14/2007,11/14/2007,Initial enrollment
+ENR0832,ChildA-1911,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,2/14/2007,11/15/2007,5/15/2009,Aged into new classroom; Schedule change
+ENR0833,ChildA-1911,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,2/14/2007,5/16/2009,5/1/2011,Aged into new classroom; Schedule change
+ENR0834,ChildA-1912,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,10/8/1999,10/8/1999,6/8/2000,Initial enrollment
+ENR0835,ChildA-1915,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,10/10/2012,10/10/2012,10/10/2013,Initial enrollment
+ENR0836,ChildA-1915,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,10/10/2012,10/11/2013,10/11/2015,Aged into new classroom
+ENR0837,ChildA-1917,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,7/5/2015,7/5/2015,4/5/2016,Initial enrollment
+ENR0838,ChildA-1917,CL-JPPS1-01,C-JP,Full-Time,1997-2024,7/5/2015,4/6/2016,4/6/2017,Aged into new classroom; Schedule change
+ENR0839,ChildA-1917,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,7/5/2015,4/7/2017,6/27/2017,Aged into new classroom; Schedule change
+ENR0840,ChildA-1927,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,9/2/2017,9/2/2017,10/2/2018,Initial enrollment
+ENR0841,ChildA-1927,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,9/2/2017,10/3/2018,4/3/2020,Aged into new classroom; Schedule change
+ENR0842,ChildA-1927,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,9/2/2017,4/4/2020,4/4/2022,Aged into new classroom; Schedule change
+ENR0843,ChildA-1928,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,12/13/2014,12/13/2014,5/13/2015,Initial enrollment
+ENR0844,ChildA-1932,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,11/27/2003,8/3/2016,8/2/2016,Aged into new classroom; Schedule change
+ENR0844,ChildA-1932,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,8/3/2016,8/3/2016,1/3/2018,Continued enrollment
+ENR0845,ChildA-1932,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,11/27/2003,1/4/2018,1/3/2018,Aged into new classroom; Schedule change
+ENR0845,ChildA-1932,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,8/3/2016,1/4/2018,1/4/2020,Continued enrollment
+ENR0846,ChildA-1932,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,11/27/2003,11/27/2003,11/26/2003,Initial enrollment
+ENR0846,ChildA-1932,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,8/3/2016,11/27/2003,8/2/2016,Continued enrollment
+ENR0847,ChildA-1933,CL-JPPS2-01,C-JP,Full-Time,1997-2024,8/28/2009,3/3/2019,3/2/2019,Continued enrollment
+ENR0847,ChildA-1933,CL-JPPS2-01,C-JP,Full-Time,1997-2024,3/3/2019,3/3/2019,5/1/2020,Continued enrollment
+ENR0848,ChildA-1933,CL-JPPS2-01,C-JP,Full-Time,1997-2024,8/28/2009,8/28/2009,8/27/2009,Initial enrollment
+ENR0848,ChildA-1933,CL-JPPS2-01,C-JP,Full-Time,1997-2024,3/3/2019,8/28/2009,3/2/2019,Continued enrollment
+ENR0849,ChildA-1934,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,5/24/2018,5/24/2018,6/24/2019,Initial enrollment
+ENR0850,ChildA-1934,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,5/24/2018,6/25/2019,6/4/2021,Aged into new classroom; Schedule change
+ENR0851,ChildA-1936,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,7/19/2005,7/19/2005,3/16/2007,Initial enrollment
+ENR0852,ChildA-1938,CL-JPPS2-01,C-JP,Full-Time,1997-2024,2/20/2011,2/20/2011,8/20/2012,Initial enrollment
+ENR0853,ChildA-1939,CL-JPPS2-01,C-JP,Full-Time,1997-2024,1/21/2018,1/21/2018,4/21/2018,Initial enrollment
+ENR0854,ChildA-1943,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,5/30/2014,5/30/2014,12/15/2014,Initial enrollment
+ENR0855,ChildA-1957,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,4/10/2019,4/10/2019,4/6/2020,Initial enrollment
+ENR0856,ChildA-1962,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,11/18/2018,11/18/2018,2/18/2019,Initial enrollment
+ENR0857,ChildA-1968,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,12/27/2014,10/19/2019,10/18/2019,Schedule change
+ENR0857,ChildA-1968,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,10/19/2019,10/19/2019,11/11/2020,Continued enrollment
+ENR0858,ChildA-1968,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,12/27/2014,12/27/2014,12/26/2014,Initial enrollment
+ENR0858,ChildA-1968,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,10/19/2019,12/27/2014,10/18/2019,Continued enrollment
+ENR0859,ChildA-1970,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,6/1/2007,6/1/2007,2/1/2008,Initial enrollment
+ENR0860,ChildA-1976,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,2/12/2012,2/12/2012,6/5/2013,Initial enrollment
+ENR0861,ChildA-1981,CL-LCVIN-01,C-LCV,Part-Time-2Day,1997-2022,7/13/2019,7/13/2019,11/13/2019,Initial enrollment
+ENR0862,ChildA-1981,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,7/13/2019,11/14/2019,5/14/2021,Aged into new classroom; Schedule change
+ENR0863,ChildA-1981,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,7/13/2019,5/15/2021,5/31/2022,Aged into new classroom; Schedule change
+ENR0864,ChildA-1983,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,9/30/2009,9/30/2009,10/30/2010,Initial enrollment
+ENR0865,ChildA-1983,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,9/30/2009,10/31/2010,4/30/2012,Aged into new classroom; Schedule change
+ENR0866,ChildA-1983,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,9/30/2009,5/1/2012,4/29/2014,Aged into new classroom; Schedule change
+ENR0867,ChildA-1992,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,9/20/2017,9/20/2017,12/20/2018,Initial enrollment
+ENR0868,ChildA-1992,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,9/20/2017,12/21/2018,6/21/2020,Aged into new classroom
+ENR0869,ChildA-1992,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,9/20/2017,6/22/2020,5/31/2022,Aged into new classroom
+ENR0870,ChildA-1997,CL-JPIN-01,C-JP,Full-Time,1997-2024,10/30/2018,10/30/2018,12/30/2018,Initial enrollment
+ENR0871,ChildA-1997,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,10/30/2018,12/31/2018,11/30/2019,Aged into new classroom; Schedule change
+ENR0872,ChildA-1997,CL-JPPS1-01,C-JP,Part-Time-2Day,1997-2024,10/30/2018,12/1/2019,12/1/2020,Aged into new classroom; Schedule change
+ENR0873,ChildA-1997,CL-JPPS2-01,C-JP,Full-Time,1997-2024,10/30/2018,12/2/2020,5/31/2022,Aged into new classroom; Schedule change
+ENR0874,ChildA-1998,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,2/24/2015,2/24/2015,4/24/2016,Initial enrollment
+ENR0875,ChildA-1998,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,2/24/2015,4/25/2016,10/25/2017,Aged into new classroom; Schedule change
+ENR0876,ChildA-1998,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,2/24/2015,10/26/2017,10/17/2019,Aged into new classroom
+ENR0877,ChildA-2015,CL-JPPS1-01,C-JP,Full-Time,1997-2024,4/23/2020,1/1/2023,12/31/2022,Aged into new classroom
+ENR0877,ChildA-2015,CL-JPPS1-01,C-JP,Full-Time,1997-2024,1/1/2023,1/1/2023,8/1/2023,Continued enrollment
+ENR0878,ChildA-2015,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,4/23/2020,8/2/2023,8/1/2023,Aged into new classroom; Schedule change
+ENR0878,ChildA-2015,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,4/23/2020,7/1/2024,6/30/2024,Rate policy change
+ENR0878,ChildA-2015,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,1/1/2023,8/2/2023,6/30/2024,Continued enrollment
+ENR0878,ChildA-2015,CL-JPPS2-01,C-JP,Part-Time-3Day,24-25,1/1/2023,7/1/2024,8/18/2024,Continued enrollment
+ENR0879,ChildA-2015,CL-JPPS2-01,C-JP,Full-Time,1997-2024,4/23/2020,4/23/2020,4/22/2020,Initial enrollment
+ENR0879,ChildA-2015,CL-JPPS2-01,C-JP,Full-Time,1997-2024,1/1/2023,4/23/2020,12/31/2022,Continued enrollment
+ENR0880,ChildA-2018,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,11/22/2011,11/22/2011,4/22/2012,Initial enrollment
+ENR0881,ChildA-2018,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,11/22/2011,4/23/2012,10/23/2013,Aged into new classroom
+ENR0882,ChildA-2018,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,11/22/2011,10/24/2013,10/1/2015,Aged into new classroom
+ENR0883,ChildA-2021,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,5/27/2006,5/27/2006,2/29/2008,Initial enrollment
+ENR0884,ChildA-2022,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,10/21/2003,10/21/2003,2/21/2004,Initial enrollment
+ENR0885,ChildA-2022,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,10/21/2003,2/22/2004,2/12/2006,Aged into new classroom; Schedule change
+ENR0886,ChildA-2023,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,9/2/2020,9/2/2020,11/2/2020,Initial enrollment
+ENR0887,ChildA-2023,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,9/2/2020,11/3/2020,5/3/2022,Aged into new classroom; Schedule change
+ENR0888,ChildA-2023,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,9/2/2020,5/4/2022,5/31/2022,Aged into new classroom; Schedule change
+ENR0889,ChildA-2025,CL-JPPS2-01,C-JP,Full-Time,1997-2024,6/19/2021,6/19/2021,5/31/2022,Initial enrollment
+ENR0890,ChildA-2037,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,9/7/2012,9/7/2012,3/7/2013,Initial enrollment
+ENR0891,ChildA-2038,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,3/18/2014,3/18/2014,4/14/2015,Initial enrollment
+ENR0892,ChildA-2045,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,2/4/2018,2/4/2018,12/4/2019,Initial enrollment
+ENR0893,ChildA-2049,CL-JPPS2-01,C-JP,Full-Time,1997-2024,4/23/2015,4/23/2015,4/23/2017,Initial enrollment
+ENR0894,ChildA-2052,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,1/27/2020,1/27/2020,2/28/2020,Initial enrollment
+ENR0895,ChildA-2053,CL-JPPS2-01,C-JP,Full-Time,1997-2024,11/19/2022,11/19/2022,3/7/2024,Initial enrollment
+ENR0896,ChildA-2057,CL-JPPS2-01,C-JP,Full-Time,1997-2024,12/23/2016,12/23/2016,4/7/2017,Initial enrollment
+ENR0897,ChildA-2060,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,4/4/2017,4/4/2017,7/4/2018,Initial enrollment
+ENR0898,ChildA-2075,CL-JPPS2-01,C-JP,Full-Time,1997-2024,2/25/2013,2/25/2013,2/24/2013,Initial enrollment
+ENR0898,ChildA-2075,CL-JPPS2-01,C-JP,Full-Time,1997-2024,9/10/2019,2/25/2013,7/15/2014,Continued enrollment
+ENR0899,ChildA-2076,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,11/27/2015,11/27/2015,11/15/2017,Initial enrollment
+ENR0900,ChildA-2088,CL-HPTO-01,C-HP,Part-Time-3Day,1997-2024,5/13/2004,5/13/2004,8/13/2004,Initial enrollment
+ENR0901,ChildA-2088,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,5/13/2004,8/14/2004,8/14/2005,Aged into new classroom; Schedule change
+ENR0902,ChildA-2088,CL-HPPS2-01,C-HP,Full-Time,1997-2024,5/13/2004,8/15/2005,8/9/2007,Aged into new classroom; Schedule change
+ENR0903,ChildA-2090,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,7/22/2002,7/22/2002,9/22/2003,Initial enrollment
+ENR0904,ChildA-2090,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,7/22/2002,9/23/2003,3/23/2005,Aged into new classroom; Schedule change
+ENR0905,ChildA-2090,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,7/22/2002,3/24/2005,3/24/2007,Aged into new classroom; Schedule change
+ENR0906,ChildA-2091,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,8/5/2019,8/5/2019,12/5/2019,Initial enrollment
+ENR0907,ChildA-2091,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,8/5/2019,12/6/2019,6/6/2021,Aged into new classroom; Schedule change
+ENR0908,ChildA-2091,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,8/5/2019,6/7/2021,5/31/2022,Aged into new classroom; Schedule change
+ENR0909,ChildA-2092,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,8/31/2015,8/31/2015,2/28/2017,Initial enrollment
+ENR0910,ChildA-2092,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,8/31/2015,3/1/2017,1/31/2019,Aged into new classroom; Schedule change
+ENR0911,ChildA-2096,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,4/9/2014,4/9/2014,3/9/2015,Initial enrollment
+ENR0912,ChildA-2096,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,4/9/2014,3/10/2015,3/10/2017,Aged into new classroom; Schedule change
+ENR0913,ChildA-2103,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,12/5/2019,12/5/2019,12/5/2020,Initial enrollment
+ENR0914,ChildA-2111,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,7/14/2000,7/14/2000,8/1/2001,Initial enrollment
+ENR0915,ChildA-2116,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,4/30/2013,4/30/2013,1/30/2014,Initial enrollment
+ENR0916,ChildA-2116,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,4/30/2013,1/31/2014,1/22/2016,Aged into new classroom; Schedule change
+ENR0917,ChildA-2117,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,11/16/2017,4/19/2019,4/18/2019,Continued enrollment
+ENR0917,ChildA-2117,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,4/19/2019,4/19/2019,6/19/2020,Continued enrollment
+ENR0918,ChildA-2117,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,11/16/2017,11/16/2017,11/15/2017,Initial enrollment
+ENR0918,ChildA-2117,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,4/19/2019,11/16/2017,10/16/2018,Continued enrollment
+ENR0919,ChildA-2117,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,11/16/2017,10/17/2018,10/16/2018,Aged into new classroom; Schedule change
+ENR0919,ChildA-2117,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,4/19/2019,10/17/2018,4/18/2019,Continued enrollment
+ENR0920,ChildA-2118,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,1/26/2011,1/26/2011,4/26/2011,Initial enrollment
+ENR0921,ChildA-2118,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,1/26/2011,4/27/2011,4/6/2013,Aged into new classroom; Schedule change
+ENR0922,ChildA-2130,CL-JPIN-01,C-JP,Part-Time-2Day,1997-2024,12/26/2016,12/26/2016,4/26/2017,Initial enrollment
+ENR0923,ChildA-2130,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,12/26/2016,4/27/2017,3/27/2018,Aged into new classroom; Schedule change
+ENR0924,ChildA-2130,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,12/26/2016,3/28/2018,3/28/2019,Aged into new classroom; Schedule change
+ENR0925,ChildA-2130,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,12/26/2016,3/29/2019,3/9/2021,Aged into new classroom; Schedule change
+ENR0926,ChildA-2132,CL-JPTO-01,C-JP,Full-Time,1997-2024,8/9/2013,8/9/2013,8/8/2013,Initial enrollment
+ENR0926,ChildA-2132,CL-JPTO-01,C-JP,Full-Time,1997-2024,1/26/2023,8/9/2013,9/9/2013,Continued enrollment
+ENR0927,ChildA-2132,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,8/9/2013,9/10/2013,9/9/2013,Aged into new classroom; Schedule change
+ENR0927,ChildA-2132,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,1/26/2023,9/10/2013,9/10/2014,Continued enrollment
+ENR0928,ChildA-2132,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,8/9/2013,9/11/2014,9/10/2014,Aged into new classroom
+ENR0928,ChildA-2132,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,1/26/2023,9/11/2014,1/25/2023,Continued enrollment
+ENR0929,ChildA-2132,CL-JPPS1-01,C-JP,Part-Time-2Day,1997-2024,8/9/2013,1/26/2023,1/25/2023,Aged into new classroom; Schedule change
+ENR0929,ChildA-2132,CL-JPPS1-01,C-JP,Part-Time-2Day,1997-2024,1/26/2023,1/26/2023,11/26/2023,Continued enrollment
+ENR0930,ChildA-2132,CL-JPPS2-01,C-JP,Full-Time,1997-2024,8/9/2013,11/27/2023,11/26/2023,Aged into new classroom; Schedule change
+ENR0930,ChildA-2132,CL-JPPS2-01,C-JP,Full-Time,24-25,8/9/2013,7/1/2024,6/30/2024,Rate policy change
+ENR0930,ChildA-2132,CL-JPPS2-01,C-JP,Full-Time,1997-2024,1/26/2023,11/27/2023,6/30/2024,Continued enrollment
+ENR0930,ChildA-2132,CL-JPPS2-01,C-JP,Full-Time,24-25,1/26/2023,7/1/2024,8/31/2024,Continued enrollment
+ENR0931,ChildA-2134,CL-JPPS2-01,C-JP,Full-Time,1997-2024,11/3/2017,11/3/2017,8/3/2018,Initial enrollment
+ENR0932,ChildA-2136,CL-HPTO-01,C-HP,Part-Time-3Day,1997-2024,4/8/2006,4/8/2006,7/8/2006,Initial enrollment
+ENR0933,ChildA-2136,CL-HPPS1-01,C-HP,Full-Time,1997-2024,4/8/2006,7/9/2006,7/9/2007,Aged into new classroom; Schedule change
+ENR0934,ChildA-2136,CL-HPPS2-01,C-HP,Full-Time,1997-2024,4/8/2006,7/10/2007,7/6/2009,Aged into new classroom
+ENR0935,ChildA-2144,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,12/10/2004,12/10/2004,1/10/2005,Initial enrollment
+ENR0936,ChildA-2144,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,12/10/2004,1/11/2005,1/11/2007,Aged into new classroom; Schedule change
+ENR0937,ChildA-2163,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,2/11/2014,2/11/2014,2/10/2014,Initial enrollment
+ENR0937,ChildA-2163,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,11/29/2015,2/11/2014,6/11/2014,Continued enrollment
+ENR0938,ChildA-2163,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,2/11/2014,6/12/2014,6/11/2014,Aged into new classroom; Schedule change
+ENR0938,ChildA-2163,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,11/29/2015,6/12/2014,11/28/2015,Continued enrollment
+ENR0939,ChildA-2163,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,2/11/2014,11/29/2015,11/28/2015,Aged into new classroom
+ENR0939,ChildA-2163,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,11/29/2015,11/29/2015,5/29/2016,Continued enrollment
+ENR0940,ChildA-2163,CL-JPPS2-01,C-JP,Full-Time,1997-2024,2/11/2014,5/30/2016,5/29/2016,Aged into new classroom; Schedule change
+ENR0940,ChildA-2163,CL-JPPS2-01,C-JP,Full-Time,1997-2024,11/29/2015,5/30/2016,12/8/2016,Continued enrollment
+ENR0941,ChildA-2165,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,3/31/2015,3/31/2015,7/25/2015,Initial enrollment
+ENR0942,ChildA-2169,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,9/4/2009,9/4/2009,7/4/2011,Initial enrollment
+ENR0943,ChildA-2174,CL-JPTO-01,C-JP,Part-Time-2Day,1997-2024,12/26/2021,12/26/2021,1/26/2022,Initial enrollment
+ENR0944,ChildA-2174,CL-JPPS1-01,C-JP,Part-Time-2Day,1997-2024,12/26/2021,1/27/2022,1/27/2023,Aged into new classroom
+ENR0945,ChildA-2174,CL-JPPS2-01,C-JP,Full-Time,1997-2024,12/26/2021,1/28/2023,6/30/2024,Aged into new classroom; Schedule change
+ENR0945,ChildA-2174,CL-JPPS2-01,C-JP,Full-Time,24-25,12/26/2021,7/1/2024,1/28/2025,Rate policy change
+ENR0946,ChildA-2179,CL-JPPS1-01,C-JP,Full-Time,1997-2024,8/23/2010,12/27/2010,12/26/2010,Aged into new classroom; Schedule change
+ENR0946,ChildA-2179,CL-JPPS1-01,C-JP,Full-Time,1997-2024,12/27/2010,12/27/2010,8/24/2011,Continued enrollment
+ENR0947,ChildA-2179,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,8/23/2010,10/28/2011,10/27/2011,Aged into new classroom
+ENR0947,ChildA-2179,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,12/27/2010,10/28/2011,8/25/2012,Continued enrollment
+ENR0948,ChildA-2179,CL-JPIN-01,C-JP,Full-Time,1997-2024,8/23/2010,8/23/2010,8/22/2010,Initial enrollment
+ENR0948,ChildA-2179,CL-JPIN-01,C-JP,Full-Time,1997-2024,12/27/2010,8/23/2010,9/23/2010,Continued enrollment
+ENR0949,ChildA-2179,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,8/23/2010,9/24/2010,9/23/2010,Aged into new classroom; Schedule change
+ENR0949,ChildA-2179,CL-JPTO-01,C-JP,Part-Time-3Day,1997-2024,12/27/2010,9/24/2010,12/26/2010,Continued enrollment
+ENR0950,ChildA-2179,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,8/23/2010,8/25/2011,8/24/2011,Schedule change
+ENR0950,ChildA-2179,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,12/27/2010,8/25/2011,10/27/2011,Continued enrollment
+ENR0951,ChildA-2179,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,8/23/2010,8/26/2012,8/25/2012,Schedule change
+ENR0951,ChildA-2179,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,12/27/2010,8/26/2012,8/26/2014,Continued enrollment
+ENR0952,ChildA-2190,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,2/19/2021,2/19/2021,12/19/2021,Initial enrollment
+ENR0953,ChildA-2190,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,2/19/2021,12/20/2021,5/31/2022,Aged into new classroom
+ENR0954,ChildA-2211,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,12/21/2010,12/21/2010,4/21/2011,Initial enrollment
+ENR0955,ChildA-2211,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,12/21/2010,4/22/2011,4/13/2013,Aged into new classroom; Schedule change
+ENR0956,ChildA-2213,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,11/30/2009,11/30/2009,1/17/2010,Initial enrollment
+ENR0957,ChildA-2220,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,3/17/1998,3/17/1998,3/17/1999,Initial enrollment
+ENR0958,ChildA-2221,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,5/15/2018,5/15/2018,10/15/2018,Initial enrollment
+ENR0959,ChildA-2221,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,5/15/2018,10/16/2018,4/16/2020,Aged into new classroom
+ENR0960,ChildA-2221,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,5/15/2018,4/17/2020,4/13/2022,Aged into new classroom; Schedule change
+ENR0961,ChildA-2224,CL-HPPS2-01,C-HP,Part-Time-2Day,1997-2024,12/30/2009,12/30/2009,8/17/2010,Initial enrollment
+ENR0962,ChildA-2230,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,6/7/2021,6/7/2021,4/1/2022,Initial enrollment
+ENR0963,ChildA-2239,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,11/22/2012,11/22/2012,5/31/2014,Initial enrollment
+ENR0964,ChildA-2245,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,5/20/1998,5/20/1998,7/15/1998,Initial enrollment
+ENR0965,ChildA-2250,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,9/29/2008,9/29/2008,5/29/2009,Initial enrollment
+ENR0966,ChildA-2250,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,9/29/2008,5/30/2009,5/17/2011,Aged into new classroom
+ENR0967,ChildA-2253,CL-JPTO-01,C-JP,Full-Time,1997-2024,6/12/2019,6/12/2019,1/12/2020,Initial enrollment
+ENR0968,ChildA-2253,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,6/12/2019,1/13/2020,5/14/2020,Aged into new classroom; Schedule change
+ENR0969,ChildA-2255,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,10/6/2021,10/6/2021,5/31/2022,Initial enrollment
+ENR0970,ChildA-2262,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,5/17/2008,5/17/2008,9/9/2008,Initial enrollment
+ENR0971,ChildA-2282,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,8/6/2008,8/6/2008,3/6/2009,Initial enrollment
+ENR0972,ChildA-2282,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,8/6/2008,3/7/2009,9/7/2010,Aged into new classroom
+ENR0973,ChildA-2282,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,8/6/2008,9/8/2010,9/8/2012,Aged into new classroom; Schedule change
+ENR0974,ChildA-2283,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,3/9/2005,3/9/2005,9/9/2005,Initial enrollment
+ENR0975,ChildA-2288,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,5/27/2001,5/27/2001,2/27/2002,Initial enrollment
+ENR0976,ChildA-2288,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,5/27/2001,2/28/2002,7/1/2002,Aged into new classroom; Schedule change
+ENR0977,ChildA-2289,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,5/8/2002,5/8/2002,7/1/2002,Initial enrollment
+ENR0978,ChildA-2296,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,3/15/2010,3/15/2010,8/15/2010,Initial enrollment
+ENR0979,ChildA-2307,CL-JPPS2-01,C-JP,Full-Time,1997-2024,7/10/2009,7/10/2009,7/9/2009,Initial enrollment
+ENR0979,ChildA-2307,CL-JPPS2-01,C-JP,Full-Time,1997-2024,1/9/2019,7/10/2009,1/8/2019,Continued enrollment
+ENR0980,ChildA-2307,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,7/10/2009,1/9/2019,1/8/2019,Aged into new classroom; Schedule change
+ENR0980,ChildA-2307,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,1/9/2019,1/9/2019,4/9/2019,Continued enrollment
+ENR0981,ChildA-2307,CL-JPPS2-01,C-JP,Full-Time,1997-2024,7/10/2009,4/10/2019,4/9/2019,Aged into new classroom; Schedule change
+ENR0981,ChildA-2307,CL-JPPS2-01,C-JP,Full-Time,1997-2024,1/9/2019,4/10/2019,4/10/2021,Continued enrollment
+ENR0982,ChildA-2313,CL-LCVTO-01,C-LCV,Part-Time-2Day,1997-2022,8/17/2013,8/17/2013,3/17/2014,Initial enrollment
+ENR0983,ChildA-2313,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,8/17/2013,3/18/2014,3/5/2016,Aged into new classroom; Schedule change
+ENR0984,ChildA-2325,CL-TDTO-01,C-TD,Full-Time,1997-2024,11/7/2023,11/7/2023,6/7/2024,Initial enrollment
+ENR0985,ChildA-2325,CL-TDPS-01,C-TD,Part-Time-2Day,1997-2024,11/7/2023,6/8/2024,6/30/2024,Aged into new classroom; Schedule change
+ENR0985,ChildA-2325,CL-TDPS-01,C-TD,Part-Time-2Day,24-25,11/7/2023,7/1/2024,8/16/2024,Rate policy change
+ENR0986,ChildA-2330,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,11/24/2018,11/24/2018,12/24/2018,Initial enrollment
+ENR0987,ChildA-2330,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,11/24/2018,12/25/2018,12/25/2020,Aged into new classroom; Schedule change
+ENR0988,ChildA-2331,CL-JPTO-01,C-JP,Full-Time,1997-2024,1/26/2019,1/26/2019,5/26/2019,Initial enrollment
+ENR0989,ChildA-2331,CL-JPPS1-01,C-JP,Part-Time-2Day,1997-2024,1/26/2019,5/27/2019,5/27/2020,Aged into new classroom; Schedule change
+ENR0990,ChildA-2331,CL-JPPS2-01,C-JP,Full-Time,1997-2024,1/26/2019,5/28/2020,8/9/2020,Aged into new classroom; Schedule change
+ENR0991,ChildA-2332,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,7/23/2013,7/23/2013,12/2/2013,Initial enrollment
+ENR0992,ChildA-2339,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,9/11/2007,9/11/2007,3/11/2009,Initial enrollment
+ENR0993,ChildA-2354,CL-JPTO-01,C-JP,Full-Time,1997-2024,7/28/2022,7/28/2022,11/28/2022,Initial enrollment
+ENR0994,ChildA-2354,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,7/28/2022,11/29/2022,11/29/2023,Aged into new classroom; Schedule change
+ENR0995,ChildA-2354,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,7/28/2022,11/30/2023,3/9/2024,Aged into new classroom; Schedule change
+ENR0996,ChildA-2358,CL-JPIN-01,C-JP,Full-Time,1997-2024,8/14/2013,8/14/2013,5/14/2014,Initial enrollment
+ENR0997,ChildA-2358,CL-JPTO-01,C-JP,Full-Time,1997-2024,8/14/2013,5/15/2014,4/15/2015,Aged into new classroom
+ENR0998,ChildA-2358,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,8/14/2013,4/16/2015,4/16/2016,Aged into new classroom; Schedule change
+ENR0999,ChildA-2358,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,8/14/2013,4/17/2016,4/17/2018,Aged into new classroom; Schedule change
+ENR1000,ChildA-2362,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,12/30/2019,12/30/2019,2/21/2020,Initial enrollment
+ENR1001,ChildA-2365,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,8/18/2020,8/18/2020,11/18/2020,Initial enrollment
+ENR1002,ChildA-2365,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,8/18/2020,11/19/2020,5/19/2022,Aged into new classroom; Schedule change
+ENR1003,ChildA-2365,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,8/18/2020,5/20/2022,5/31/2022,Aged into new classroom
+ENR1004,ChildA-2368,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,12/16/2021,12/16/2021,5/31/2022,Initial enrollment
+ENR1006,ChildA-2397,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,7/29/2018,7/29/2018,5/24/2020,Initial enrollment
+ENR1007,ChildA-2400,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,1/19/2012,1/19/2012,8/18/2013,Initial enrollment
+ENR1008,ChildA-2401,CL-HPTO-01,C-HP,Full-Time,1997-2024,10/15/2017,10/15/2017,6/15/2018,Initial enrollment
+ENR1009,ChildA-2401,CL-HPPS1-01,C-HP,Part-Time-3Day,1997-2024,10/15/2017,6/16/2018,6/16/2019,Aged into new classroom; Schedule change
+ENR1010,ChildA-2401,CL-HPPS2-01,C-HP,Part-Time-3Day,1997-2024,10/15/2017,6/17/2019,6/17/2021,Aged into new classroom; Schedule change
+ENR1011,ChildA-2402,CL-JPPS2-01,C-JP,Part-Time-2Day,1997-2024,7/9/2016,7/9/2016,9/9/2017,Initial enrollment
+ENR1012,ChildA-2408,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,2/24/2007,2/24/2007,12/5/2007,Initial enrollment
+ENR1013,ChildA-2412,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,10/27/1998,10/27/1998,9/27/1999,Initial enrollment
+ENR1014,ChildA-2412,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,10/27/1998,9/28/1999,3/28/2001,Aged into new classroom
+ENR1015,ChildA-2412,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,10/27/1998,3/29/2001,7/1/2002,Aged into new classroom; Schedule change
+ENR1016,ChildA-2422,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,3/14/2007,3/14/2007,2/14/2008,Initial enrollment
+ENR1017,ChildA-2422,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,3/14/2007,2/15/2008,8/15/2009,Aged into new classroom
+ENR1018,ChildA-2422,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,3/14/2007,8/16/2009,8/16/2011,Aged into new classroom; Schedule change
+ENR1019,ChildA-2423,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,1/13/2020,1/13/2020,4/13/2020,Initial enrollment
+ENR1020,ChildA-2423,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,1/13/2020,4/14/2020,10/14/2021,Aged into new classroom; Schedule change
+ENR1021,ChildA-2423,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,1/13/2020,10/15/2021,5/31/2022,Aged into new classroom; Schedule change
+ENR1022,ChildA-2432,CL-JPIN-01,C-JP,Full-Time,1997-2024,8/31/2010,8/31/2010,6/30/2011,Initial enrollment
+ENR1023,ChildA-2432,CL-JPTO-01,C-JP,Part-Time-2Day,1997-2024,8/31/2010,7/1/2011,6/1/2012,Aged into new classroom; Schedule change
+ENR1024,ChildA-2432,CL-JPPS1-01,C-JP,Full-Time,1997-2024,8/31/2010,6/2/2012,6/2/2013,Aged into new classroom; Schedule change
+ENR1025,ChildA-2432,CL-JPPS2-01,C-JP,Full-Time,1997-2024,8/31/2010,6/3/2013,5/7/2015,Aged into new classroom
+ENR1026,ChildA-2435,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,3/22/2017,3/22/2017,1/22/2018,Initial enrollment
+ENR1027,ChildA-2438,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,9/29/2007,9/29/2007,12/5/2008,Initial enrollment
+ENR1028,ChildA-2445,CL-LCVIN-01,C-LCV,Part-Time-2Day,1997-2022,6/24/2015,6/24/2015,8/24/2016,Initial enrollment
+ENR1029,ChildA-2445,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,6/24/2015,8/25/2016,2/25/2018,Aged into new classroom; Schedule change
+ENR1030,ChildA-2445,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,6/24/2015,2/26/2018,2/12/2020,Aged into new classroom
+ENR1031,ChildA-2448,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,7/11/2004,7/11/2004,1/11/2006,Initial enrollment
+ENR1032,ChildA-2448,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,7/11/2004,1/12/2006,1/1/2008,Aged into new classroom
+ENR1033,ChildA-2449,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,11/20/2005,11/20/2005,11/20/2007,Initial enrollment
+ENR1034,ChildA-2451,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,8/16/2020,8/16/2020,11/16/2020,Initial enrollment
+ENR1035,ChildA-2451,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,8/16/2020,11/17/2020,5/17/2022,Aged into new classroom
+ENR1036,ChildA-2451,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,8/16/2020,5/18/2022,5/31/2022,Aged into new classroom; Schedule change
+ENR1037,ChildA-2454,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,3/7/2006,3/7/2006,7/7/2006,Initial enrollment
+ENR1038,ChildA-2456,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,9/26/2011,9/26/2011,12/26/2012,Initial enrollment
+ENR1039,ChildA-2456,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,9/26/2011,12/27/2012,11/30/2014,Aged into new classroom
+ENR1040,ChildA-2463,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,8/19/2009,8/19/2009,11/19/2009,Initial enrollment
+ENR1041,ChildA-2463,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,8/19/2009,11/20/2009,11/8/2011,Aged into new classroom; Schedule change
+ENR1042,ChildA-2464,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,11/24/2009,11/24/2009,3/24/2010,Initial enrollment
+ENR1043,ChildA-2464,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,11/24/2009,3/25/2010,3/11/2012,Aged into new classroom; Schedule change
+ENR1044,ChildA-2467,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,4/29/2017,4/29/2017,11/29/2017,Initial enrollment
+ENR1045,ChildA-2467,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,4/29/2017,11/30/2017,5/30/2019,Aged into new classroom; Schedule change
+ENR1046,ChildA-2467,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,4/29/2017,5/31/2019,5/3/2021,Aged into new classroom
+ENR1047,ChildA-2472,CL-HPPS2-01,C-HP,Full-Time,1997-2024,6/19/2020,6/19/2020,4/10/2021,Initial enrollment
+ENR1048,ChildA-2480,CL-LCVTO-01,C-LCV,Part-Time-3Day,1997-2022,4/17/2016,4/17/2016,7/17/2017,Initial enrollment
+ENR1049,ChildA-2480,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,4/17/2016,7/18/2017,7/1/2019,Aged into new classroom; Schedule change
+ENR1050,ChildA-2482,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,1/29/2003,1/29/2003,5/29/2003,Initial enrollment
+ENR1051,ChildA-2482,CL-LCVPS-01,C-LCV,Part-Time-2Day,1997-2022,1/29/2003,5/30/2003,5/24/2005,Aged into new classroom; Schedule change
+ENR1052,ChildA-2487,CL-JPPS1-01,C-JP,Part-Time-3Day,1997-2024,11/11/2009,11/11/2009,3/11/2010,Initial enrollment
+ENR1053,ChildA-2487,CL-JPPS2-01,C-JP,Part-Time-3Day,1997-2024,11/11/2009,3/12/2010,2/29/2012,Aged into new classroom; Schedule change
+ENR1054,ChildA-2488,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,7/17/2000,7/17/2000,5/17/2001,Initial enrollment
+ENR1055,ChildA-2488,CL-LCVPS-01,C-LCV,Part-Time-3Day,1997-2022,7/17/2000,5/18/2001,7/1/2002,Aged into new classroom; Schedule change
+ENR1056,ChildA-2496,CL-LCVPS-01,C-LCV,Full-Time,1997-2022,3/25/2000,3/25/2000,11/16/2000,Initial enrollment
+ENR1057,ChildA-1002,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,11/27/2020,11/27/2020,1/27/2022,Initial enrollment
+ENR1058,ChildA-1002,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,11/27/2020,1/28/2022,5/31/2022,Aged into new classroom
+ENR1059,ChildA-1296,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,11/28/2021,11/28/2021,3/28/2022,Initial enrollment
+ENR1060,ChildA-1296,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,11/28/2021,3/29/2022,5/31/2022,Aged into new classroom; Schedule change
+ENR1061,ChildA-1554,CL-LCVIN-01,C-LCV,Part-Time-3Day,1997-2022,1/26/2022,1/26/2022,5/31/2022,Initial enrollment
+ENR1062,ChildA-1884,CL-LCVIN-01,C-LCV,Full-Time,1997-2022,12/28/2021,12/28/2021,4/28/2022,Initial enrollment
+ENR1063,ChildA-1884,CL-LCVTO-01,C-LCV,Full-Time,1997-2022,12/28/2021,4/29/2022,5/31/2022,Aged into new classroom
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

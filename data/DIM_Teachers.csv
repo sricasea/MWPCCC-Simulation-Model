@@ -1,0 +1,309 @@
+﻿TeacherID,FirstName,LastName,OriginalHireDate,DepartureDate,HomeCenterID,OriginalPosition,CurrentPosition,CurrentStatus,CurrentClassroomID
+T-0001,Maria,Gonzalez,1/8/1998,,C-JP,Teacher,Teacher,Active,CL-LCVTO-01
+T-0002,Jose,Torres,2/3/1998,5/31/2022,C-LCV,Lead Teacher,Lead Teacher,Terminated,CL-LCVIN-01
+T-0003,Maria,Rodriguez,3/7/1998,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVPS-01
+T-0004,Maria,Torres,7/7/1998,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPPS2-01
+T-0005,Miguel,Flores,7/9/1998,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPPS2-01
+T-0006,Juan,Lopez,6/22/1999,,C-HP,Teacher,Teacher,Active,CL-HPPS1-01
+T-0007,James,Thomas,6/21/1999,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0008,Ethan,Miller,8/7/1999,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVIN-01
+T-0009,Emma,Miller,9/8/1999,,C-TD,Teacher,Teacher,Active,CL-TDPS-01
+T-0010,Jose,Gonzalez,11/14/1999,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0014,Luis,Garcia,1/19/2000,,C-HP,Lead Teacher,Lead Teacher,Active,CL-LCVIN-01
+T-0015,Lucia,Lopez,4/17/2000,,C-HP,Teacher,Teacher,Active,CL-LCVPS-01
+T-0016,Ana,Torres,6/16/2000,,C-JP,Site Supervisor,Site Supervisor,Active,
+T-0017,Emma,Smith,10/28/2000,,C-JP,Teacher,Teacher,Active,CL-LCVTO-01
+T-0018,Lucia,Rodriguez,12/13/2000,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPIN-01
+T-0019,Ethan,Smith,1/12/2002,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPPS1-01
+T-0020,Miguel,Ramirez,7/15/2002,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0021,Ana,Martinez,1/19/2003,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0022,Miguel,Rodriguez,1/16/2003,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVTO-01
+T-0023,Ana,Sanchez,4/27/2003,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVIN-01
+T-0024,Emma,Johnson,9/25/2003,,C-TD,Assistant Teacher,Assistant Teacher,Active,CL-TDPS-01
+T-0025,Luis,Sanchez,3/2/2004,,C-TD,Lead Teacher,Lead Teacher,Active,CL-TDTO-01
+T-0026,Isabel,Garcia,2/9/2004,,C-TD,Lead Teacher,Lead Teacher,Active,CL-TDTO-01
+T-0027,Fernando,Ramirez,1/27/2005,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVPS-01
+T-0028,Juan,Rodriguez,4/17/2005,,C-HP,Teacher,Teacher,Active,CL-HPPS1-01
+T-0029,Jose,Torres,11/12/2005,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPTO-01
+T-0030,Alexander,Anderson,7/14/2006,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVTO-01
+T-0031,Juan,Lopez,8/12/2006,,C-JP,Lead Teacher,Lead Teacher,Active,CL-LCVPS-01
+T-0032,William,Thomas,12/12/2006,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPTO-01
+T-0033,Emma,Wilson,6/6/2007,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0034,Jose,Sanchez,7/22/2007,5/31/2022,C-LCV,Assistant Teacher,Assistant Teacher,Terminated,CL-LCVPS-01
+T-0035,Carmen,Sanchez,10/12/2007,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0036,William,Jones,12/29/2007,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVPS-01
+T-0037,Lucia,Garcia,4/17/2008,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPIN-01
+T-0038,Emma,Williams,5/4/2008,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPPS2-01
+T-0039,Luis,Lopez,5/20/2008,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPTO-01
+T-0040,James,Anderson,6/30/2008,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPPS2-01
+T-0041,Isabel,Martinez,7/26/2008,8/31/2022,C-JP,Assistant Teacher,Assistant Teacher,Terminated,CL-LCVTO-01
+T-0042,Isabel,Rodriguez,9/24/2008,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPPS1-01
+T-0043,William,Thomas,9/17/2008,,C-HP,Teacher,Teacher,Active,CL-LCVPS-01
+T-0044,Fernando,Martinez,10/10/2008,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVTO-01
+T-0045,Ana,Rodriguez,11/27/2008,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0046,Sophia,Thomas,12/2/2008,,C-HP,Lead Teacher,Lead Teacher,Active,CL-LCVIN-01
+T-0047,Emma,Miller,12/31/2008,8/31/2022,C-JP,Teacher,Teacher,Terminated,CL-LCVIN-01
+T-0048,Jose,Ramirez,1/24/2009,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0049,Benjamin,Anderson,5/27/2009,5/31/2022,C-LCV,Assistant Teacher,Assistant Teacher,Terminated,CL-LCVIN-01
+T-0050,William,Smith,6/19/2009,,C-JP,Teacher,Teacher,Active,CL-LCVTO-01
+T-0051,Sophia,Jones,9/6/2009,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0052,Juan,Gonzalez,9/3/2009,,C-JP,Teacher,Teacher,Active,CL-LCVTO-01
+T-0053,Sophia,Smith,9/13/2009,,C-TD,Teacher,Teacher,Active,CL-TDTO-01
+T-0054,Sophia,Johnson,10/17/2009,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPTO-01
+T-0055,Olivia,Brown,11/17/2009,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPIN-01
+T-0056,Isabel,Gonzalez,11/21/2009,5/31/2022,C-LCV,Assistant Teacher,Assistant Teacher,Terminated,CL-LCVPS-01
+T-0057,Lucia,Sanchez,12/14/2009,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVPS-01
+T-0058,James,Smith,1/23/2010,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0059,Sophia,Wilson,1/31/2010,,C-HP,Teacher,Teacher,Active,CL-LCVTO-01
+T-0060,Maria,Garcia,2/8/2010,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPTO-01
+T-0061,Maria,Perez,3/7/2010,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0062,Olivia,Johnson,4/2/2010,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVPS-01
+T-0063,Charlotte,Davis,4/23/2010,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVTO-01
+T-0064,Carmen,Gonzalez,7/9/2010,,C-HP,Teacher,Teacher,Active,CL-HPPS2-01
+T-0065,James,Miller,10/23/2010,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVTO-01
+T-0066,Miguel,Sanchez,12/6/2010,,C-HP,Teacher,Teacher,Active,CL-LCVPS-01
+T-0067,Isabel,Perez,12/18/2010,,C-HP,Teacher,Teacher,Active,CL-LCVTO-01
+T-0068,Emily,Anderson,6/26/2007,,C-HP,Teacher,Teacher,Active,CL-LCVPS-01
+T-0069,Ana,Rodriguez,7/10/2007,8/31/2022,C-JP,Assistant Teacher,Assistant Teacher,Terminated,CL-LCVPS-01
+T-0070,Benjamin,Anderson,10/10/2007,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0071,Luis,Lopez,1/23/2008,,C-HP,Teacher,Teacher,Active,CL-LCVPS-01
+T-0072,Carmen,Lopez,2/24/2008,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-LCVPS-01
+T-0073,Olivia,Williams,4/2/2008,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPIN-01
+T-0074,Sophia,Johnson,6/13/2008,,C-HP,Teacher,Teacher,Active,CL-HPPS2-01
+T-0075,Olivia,Davis,6/23/2008,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0076,Miguel,Rodriguez,7/29/2008,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVIN-01
+T-0077,Jose,Gonzalez,7/21/2008,,C-HP,Teacher,Teacher,Active,CL-LCVTO-01
+T-0078,Carmen,Torres,8/28/2008,8/31/2022,C-JP,Teacher,Teacher,Terminated,CL-LCVIN-01
+T-0079,Sophia,Johnson,8/25/2008,,C-HP,Teacher,Teacher,Active,CL-LCVTO-01
+T-0080,Olivia,Anderson,9/18/2008,,C-HP,Teacher,Teacher,Active,CL-HPPS2-01
+T-0081,Alexander,Miller,9/12/2008,8/31/2022,C-JP,Assistant Teacher,Assistant Teacher,Terminated,CL-LCVIN-01
+T-0082,Ana,Flores,10/7/2008,8/31/2022,C-JP,Teacher,Teacher,Terminated,CL-LCVTO-01
+T-0083,Lucia,Gonzalez,12/27/2008,8/31/2022,C-JP,Lead Teacher,Lead Teacher,Terminated,CL-LCVIN-01
+T-0084,Charlotte,Brown,12/7/2008,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVIN-01
+T-0085,Ana,Perez,12/30/2008,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVIN-01
+T-0086,Ana,Gonzalez,1/5/2009,5/31/2022,C-LCV,Assistant Teacher,Assistant Teacher,Terminated,CL-LCVIN-01
+T-0087,Fernando,Ramirez,2/27/2009,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0088,Benjamin,Thomas,2/18/2009,5/31/2022,C-LCV,Lead Teacher,Lead Teacher,Terminated,CL-LCVIN-01
+T-0089,Luis,Perez,5/17/2009,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPPS2-01
+T-0090,Sophia,Anderson,5/18/2009,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPTO-01
+T-0091,Olivia,Davis,6/13/2009,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVIN-01
+T-0092,Isabel,Perez,6/1/2009,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVIN-01
+T-0093,Charlotte,Smith,6/21/2009,5/31/2022,C-LCV,Lead Teacher,Lead Teacher,Terminated,CL-LCVTO-01
+T-0094,Benjamin,Smith,7/18/2009,,C-HP,Lead Teacher,Lead Teacher,Active,CL-LCVTO-01
+T-0095,Juan,Lopez,9/26/2009,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVTO-01
+T-0096,Emma,Jones,9/27/2009,,C-TD,Teacher,Teacher,Active,CL-TDTO-01
+T-0097,Lucia,Torres,10/16/2009,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0098,Luis,Flores,10/24/2009,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVIN-01
+T-0099,Juan,Sanchez,11/16/2009,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVPS-01
+T-0100,Emily,Miller,11/4/2009,5/31/2022,C-LCV,Lead Teacher,Lead Teacher,Terminated,CL-LCVTO-01
+T-0101,Ana,Rodriguez,1/7/2010,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0102,Miguel,Ramirez,1/6/2010,,C-HP,Teacher,Teacher,Active,CL-LCVTO-01
+T-0103,Carmen,Flores,2/18/2010,8/31/2022,C-JP,Assistant Teacher,Assistant Teacher,Terminated,CL-LCVPS-01
+T-0104,Jose,Torres,3/1/2010,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0105,Sophia,Johnson,4/7/2010,,C-HP,Lead Teacher,Lead Teacher,Active,CL-LCVTO-01
+T-0106,Olivia,Brown,5/2/2010,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPPS1-01
+T-0107,Luis,Flores,5/6/2010,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPPS2-01
+T-0108,Lucia,Gonzalez,6/29/2010,5/31/2022,C-LCV,Lead Teacher,Lead Teacher,Terminated,CL-LCVTO-01
+T-0109,Carmen,Ramirez,7/11/2010,,C-HP,Teacher,Teacher,Active,CL-HPPS2-01
+T-0110,Fernando,Gonzalez,7/6/2010,8/31/2022,C-JP,Teacher,Teacher,Terminated,CL-LCVPS-01
+T-0111,Luis,Lopez,7/24/2010,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVPS-01
+T-0112,Fernando,Flores,11/13/2010,5/31/2022,C-LCV,Assistant Teacher,Assistant Teacher,Terminated,CL-LCVPS-01
+T-0113,Emily,Anderson,11/27/2011,,C-TD,Teacher,Teacher,Active,CL-TDIN-01
+T-0114,Ethan,Jones,5/14/2012,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0115,Miguel,Ramirez,8/25/2012,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0116,Luis,Rodriguez,11/2/2012,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0117,Luis,Ramirez,12/12/2012,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPPS1-01
+T-0118,Jose,Flores,3/25/2013,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0119,James,Johnson,5/30/2013,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPIN-01
+T-0120,Sophia,Miller,6/13/2013,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0121,James,Johnson,8/9/2013,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0122,Carmen,Garcia,8/4/2013,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPTO-01
+T-0123,Sophia,Wilson,9/14/2013,,C-TD,Teacher,Teacher,Active,CL-TDPS-01
+T-0124,Isabel,Lopez,11/16/2013,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-LCVIN-01
+T-0125,Maria,Torres,12/28/2013,,C-HP,Teacher,Teacher,Active,CL-LCVTO-01
+T-0126,Isabel,Lopez,1/4/2014,8/31/2022,C-JP,Teacher,Teacher,Terminated,CL-LCVTO-01
+T-0127,Sophia,Brown,2/4/2014,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPPS2-01
+T-0128,Ana,Gonzalez,4/3/2014,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0129,Carmen,Ramirez,5/26/2014,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0130,Fernando,Lopez,6/30/2014,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPPS2-01
+T-0131,Ethan,Thomas,8/23/2014,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPPS2-01
+T-0132,Olivia,Anderson,9/11/2014,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0133,Ana,Martinez,10/27/2014,,C-HP,Teacher,Teacher,Active,CL-HPPS1-01
+T-0134,Olivia,Thomas,10/29/2014,,C-TD,Lead Teacher,Lead Teacher,Active,CL-TDPS-01
+T-0135,Carmen,Rodriguez,12/10/2014,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0136,Carmen,Ramirez,1/17/2015,,C-HP,Lead Teacher,Lead Teacher,Active,CL-LCVPS-01
+T-0137,Alexander,Williams,2/26/2015,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0138,Emily,Johnson,2/14/2015,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0139,Miguel,Ramirez,2/20/2015,,C-HP,Teacher,Teacher,Active,CL-LCVPS-01
+T-0140,Carmen,Garcia,3/7/2015,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPPS1-01
+T-0141,William,Smith,3/7/2015,8/31/2022,C-JP,Teacher,Teacher,Terminated,CL-LCVPS-01
+T-0142,Luis,Sanchez,3/27/2015,5/31/2022,C-LCV,Lead Teacher,Lead Teacher,Terminated,CL-LCVTO-01
+T-0143,Fernando,Flores,4/30/2015,,C-HP,Teacher,Teacher,Active,CL-HPPS2-01
+T-0144,Maria,Torres,4/1/2015,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0145,Benjamin,Wilson,5/26/2015,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0146,Ana,Rodriguez,5/22/2015,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVPS-01
+T-0147,Charlotte,Thomas,6/22/2015,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPPS2-01
+T-0148,Alexander,Wilson,7/1/2015,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPTO-01
+T-0149,Carmen,Rodriguez,7/9/2015,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVPS-01
+T-0150,Benjamin,Jones,10/21/2015,5/31/2022,C-LCV,Lead Teacher,Lead Teacher,Terminated,CL-LCVPS-01
+T-0151,Benjamin,Wilson,11/4/2015,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVPS-01
+T-0152,Ethan,Anderson,12/7/2016,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPIN-01
+T-0153,Carmen,Flores,12/14/2016,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPIN-01
+T-0154,Miguel,Perez,2/10/2017,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0155,Emma,Brown,3/16/2017,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPIN-01
+T-0156,Carmen,Gonzalez,10/3/2017,,C-HP,Lead Teacher,Lead Teacher,Active,CL-LCVPS-01
+T-0157,Ana,Garcia,11/12/2017,,C-HP,Teacher,Teacher,Active,CL-LCVPS-01
+T-0158,Fernando,Sanchez,12/2/2017,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0159,Carmen,Ramirez,1/12/2018,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPPS2-01
+T-0160,Isabel,Perez,5/12/2018,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPPS2-01
+T-0161,Juan,Rodriguez,5/30/2018,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0162,Charlotte,Davis,6/4/2018,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0163,Isabel,Lopez,7/18/2018,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0164,Isabel,Garcia,7/26/2018,,C-TD,Lead Teacher,Lead Teacher,Active,CL-TDPS-01
+T-0165,Carmen,Ramirez,8/21/2018,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0166,Emma,Johnson,9/16/2018,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPPS2-01
+T-0167,James,Thomas,1/29/2019,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0168,Juan,Garcia,2/3/2019,,C-HP,Teacher,Teacher,Active,CL-HPPS2-01
+T-0169,Isabel,Gonzalez,2/9/2019,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0170,Emma,Johnson,2/18/2019,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0171,Charlotte,Smith,3/30/2019,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPPS2-01
+T-0172,Maria,Rodriguez,3/2/2019,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0173,Juan,Flores,3/26/2019,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0174,William,Miller,5/13/2019,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0175,Jose,Torres,7/4/2019,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0176,Fernando,Sanchez,7/13/2019,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0177,Carmen,Martinez,9/25/2019,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPPS1-01
+T-0178,Juan,Ramirez,9/16/2019,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0179,Sophia,Johnson,1/23/2020,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0180,Luis,Sanchez,1/19/2020,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPTO-01
+T-0181,Maria,Ramirez,1/30/2020,,C-TD,Teacher,Teacher,Active,CL-TDPS-01
+T-0182,Emily,Davis,3/3/2020,,C-HP,Teacher,Teacher,Active,CL-HPPS2-01
+T-0183,Juan,Flores,4/4/2020,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0184,Juan,Garcia,4/4/2020,,C-TD,Lead Teacher,Lead Teacher,Active,CL-TDPS-01
+T-0185,Fernando,Rodriguez,5/17/2020,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPPS2-01
+T-0186,Maria,Martinez,6/5/2020,,C-HP,Teacher,Teacher,Active,CL-HPPS1-01
+T-0187,Maria,Flores,7/10/2020,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPPS1-01
+T-0188,Fernando,Ramirez,7/2/2020,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0189,Olivia,Jones,8/30/2020,,C-HP,Teacher,Teacher,Active,CL-HPPS1-01
+T-0190,Jose,Ramirez,9/30/2020,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0191,Luis,Lopez,9/4/2020,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0192,Ana,Lopez,10/7/2020,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0193,Lucia,Lopez,10/3/2020,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPPS2-01
+T-0194,Sophia,Johnson,11/15/2020,,C-HP,Teacher,Teacher,Active,CL-HPPS2-01
+T-0195,Jose,Flores,11/3/2020,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0196,Olivia,Johnson,11/4/2020,,C-TD,Teacher,Teacher,Active,CL-TDTO-01
+T-0197,Fernando,Rodriguez,5/2/2022,5/31/2022,C-LCV,Lead Teacher,Lead Teacher,Terminated,CL-LCVPS-01
+T-0198,Lucia,Torres,9/30/2022,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-LCVPS-01
+T-0199,Isabel,Gonzalez,10/21/2022,5/31/2022,C-LCV,Lead Teacher,Lead Teacher,Terminated,CL-LCVPS-01
+T-0200,Maria,Ramirez,11/26/2022,,C-HP,Lead Teacher,Lead Teacher,Active,CL-LCVPS-01
+T-0201,Jose,Garcia,1/9/2023,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPPS1-01
+T-0202,Emma,Johnson,1/9/2023,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPPS1-01
+T-0203,William,Johnson,1/11/2023,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVPS-01
+T-0204,Jose,Gonzalez,1/26/2023,5/31/2022,C-LCV,Lead Teacher,Lead Teacher,Terminated,CL-LCVPS-01
+T-0205,Luis,Garcia,1/16/2023,,C-TD,Teacher,Teacher,Active,CL-TDIN-01
+T-0206,Carmen,Garcia,2/4/2023,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0207,Fernando,Torres,3/22/2023,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPPS2-01
+T-0208,Maria,Garcia,5/25/2023,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPIN-01
+T-0209,Emily,Johnson,5/11/2023,,C-HP,Teacher,Teacher,Active,CL-HPIN-01
+T-0210,Ethan,Johnson,5/3/2023,,C-HP,Teacher,Teacher,Active,CL-HPIN-01
+T-0211,Jose,Ramirez,5/26/2023,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPIN-01
+T-0212,Juan,Rodriguez,6/12/2023,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPIN-01
+T-0213,Carmen,Sanchez,6/13/2023,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPIN-01
+T-0214,Sophia,Miller,8/24/2023,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPIN-01
+T-0215,Jose,Gonzalez,8/31/2023,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0216,Emily,Smith,11/30/2023,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVIN-01
+T-0217,Ethan,Jones,12/4/2023,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPTO-01
+T-0218,Isabel,Sanchez,1/14/2024,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPIN-01
+T-0219,Jose,Rodriguez,1/24/2024,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0220,Maria,Garcia,1/31/2024,,C-JP,Teacher,Teacher,Active,CL-LCVIN-01
+T-0221,Emily,Anderson,1/29/2024,,C-TD,Teacher,Teacher,Active,CL-TDIN-01
+T-0222,Luis,Gonzalez,2/29/2024,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPTO-01
+T-0223,Lucia,Ramirez,2/25/2024,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0224,Luis,Ramirez,2/28/2024,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPTO-01
+T-0225,Charlotte,Thomas,3/25/2024,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPPS2-01
+T-0226,Maria,Torres,4/16/2024,5/31/2022,C-LCV,Teacher,Teacher,Terminated,CL-LCVTO-01
+T-0227,Sophia,Davis,5/19/2024,8/31/2022,C-JP,Teacher,Teacher,Terminated,CL-LCVTO-01
+T-0228,Miguel,Sanchez,7/21/2024,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0229,Juan,Lopez,7/21/2024,8/31/2022,C-JP,Teacher,Teacher,Terminated,CL-LCVTO-01
+T-0230,Carmen,Perez,8/12/2024,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0231,Isabel,Rodriguez,8/15/2024,5/31/2022,C-LCV,Lead Teacher,Lead Teacher,Terminated,CL-LCVPS-01
+T-0232,Alexander,Smith,8/7/2024,,C-TD,Teacher,Teacher,Active,CL-TDTO-01
+T-0233,Lucia,Rodriguez,9/30/2024,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0234,Juan,Torres,11/15/2024,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPIN-01
+T-0235,Emma,Thomas,11/5/2024,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPPS1-01
+T-0236,Carmen,Rodriguez,11/19/2024,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0237,Isabel,Ramirez,11/25/2024,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPIN-01
+T-0238,Charlotte,Thomas,11/18/2024,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0239,Fernando,Flores,11/18/2024,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0240,Emily,Williams,11/5/2024,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPPS2-01
+T-0241,Emily,Thomas,11/23/2024,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0242,Charlotte,Davis,11/24/2024,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPTO-01
+T-0243,Olivia,Anderson,11/10/2024,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0244,Fernando,Perez,11/28/2024,,C-TD,Lead Teacher,Lead Teacher,Active,CL-TDIN-01
+T-0245,Charlotte,Miller,12/22/2024,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPPS1-01
+T-0246,Carmen,Lopez,12/12/2024,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPPS1-01
+T-0247,Emily,Miller,12/25/2024,,C-HP,Teacher,Teacher,Active,CL-HPPS2-01
+T-0248,Fernando,Perez,12/22/2024,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0249,Maria,Rodriguez,12/6/2024,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0250,Sophia,Miller,12/28/2024,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0251,Carmen,Torres,12/13/2024,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0252,Luis,Martinez,12/12/2024,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPPS1-01
+T-0253,Luis,Martinez,12/22/2024,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPPS1-01
+T-0254,Olivia,Davis,12/27/2024,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0255,William,Anderson,12/31/2024,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPTO-01
+T-0256,Benjamin,Davis,12/6/2024,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0257,Juan,Lopez,1/13/2025,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0258,Ana,Ramirez,1/4/2025,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0259,William,Johnson,1/7/2025,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0260,Luis,Sanchez,1/16/2025,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPTO-01
+T-0261,Isabel,Ramirez,1/28/2025,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0262,Fernando,Gonzalez,1/31/2025,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0263,James,Jones,1/31/2025,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPTO-01
+T-0264,Ana,Perez,2/21/2025,,C-HP,Teacher,Teacher,Active,CL-HPPS1-01
+T-0265,Luis,Rodriguez,3/3/2025,,C-HP,Teacher,Teacher,Active,CL-HPPS1-01
+T-0266,Jose,Perez,2/28/2025,,C-HP,Teacher,Teacher,Active,CL-HPPS1-01
+T-0267,Maria,Perez,2/11/2025,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0268,Luis,Sanchez,2/18/2025,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0269,Olivia,Jones,2/10/2025,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPTO-01
+T-0270,Isabel,Sanchez,2/19/2025,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPIN-01
+T-0271,Alexander,Williams,2/16/2025,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0272,Miguel,Gonzalez,2/21/2025,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0273,Maria,Martinez,2/12/2025,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPTO-01
+T-0274,Sophia,Miller,2/10/2025,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0275,James,Anderson,2/7/2025,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0276,Jose,Sanchez,3/26/2025,,C-HP,Teacher,Teacher,Active,CL-HPIN-01
+T-0277,Ethan,Johnson,3/21/2025,,C-HP,Teacher,Teacher,Active,CL-HPIN-01
+T-0278,Lucia,Martinez,3/8/2025,,C-HP,Teacher,Teacher,Active,CL-HPPS1-01
+T-0279,Juan,Lopez,3/26/2025,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPPS1-01
+T-0280,Charlotte,Brown,3/11/2025,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPPS1-01
+T-0281,Olivia,Davis,3/4/2025,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0282,Alexander,Wilson,3/8/2025,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0283,Olivia,Brown,3/31/2025,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPIN-01
+T-0284,Ana,Gonzalez,3/19/2025,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0285,Jose,Martinez,3/29/2025,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0286,Fernando,Ramirez,3/1/2025,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0287,Miguel,Rodriguez,3/6/2025,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPIN-01
+T-0288,Fernando,Ramirez,3/25/2025,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPPS1-01
+T-0289,James,Brown,3/16/2025,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0290,Lucia,Torres,3/8/2025,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0291,Jose,Martinez,3/26/2025,,C-JP,Teacher,Teacher,Active,CL-JPPS2-01
+T-0292,Maria,Torres,3/7/2025,,C-TD,Teacher,Teacher,Active,CL-TDIN-01
+T-0293,Juan,Torres,4/25/2025,,C-HP,Teacher,Teacher,Active,CL-HPPS1-01
+T-0294,William,Thomas,4/24/2025,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0295,Fernando,Lopez,4/14/2025,,C-JP,Teacher,Teacher,Active,CL-JPIN-01
+T-0296,Lucia,Garcia,4/22/2025,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0297,Ana,Torres,4/4/2025,,C-JP,Teacher,Teacher,Active,CL-JPPS1-01
+T-0298,Olivia,Williams,4/4/2025,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPPS2-01
+T-0299,Lucia,Sanchez,4/21/2025,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPTO-01
+T-0300,Juan,Garcia,4/19/2025,,C-TD,Teacher,Teacher,Active,CL-TDIN-01
+T-0301,Miguel,Rodriguez,5/5/2025,,C-HP,Teacher,Teacher,Active,CL-HPPS1-01
+T-0302,Maria,Rodriguez,5/2/2025,,C-HP,Lead Teacher,Lead Teacher,Active,CL-HPPS1-01
+T-0303,Jose,Torres,5/4/2025,,C-HP,Assistant Teacher,Assistant Teacher,Active,CL-HPPS2-01
+T-0304,Isabel,Torres,5/8/2025,,C-JP,Assistant Teacher,Assistant Teacher,Active,CL-JPPS2-01
+T-0305,Ana,Rodriguez,5/16/2025,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0306,Benjamin,Williams,6/2/2025,,C-HP,Teacher,Teacher,Active,CL-HPTO-01
+T-0307,Lucia,Garcia,6/26/2025,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPPS2-01
+T-0308,Fernando,Ramirez,6/30/2025,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0309,Charlotte,Wilson,6/21/2025,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0310,Luis,Ramirez,6/19/2025,,C-JP,Teacher,Teacher,Active,CL-JPTO-01
+T-0311,Emma,Davis,6/20/2025,,C-JP,Lead Teacher,Lead Teacher,Active,CL-JPTO-01

@@ -1,0 +1,13 @@
+﻿FeeID,CenterID,FeeType,Amount,Frequency,EffectiveDate,EndDate,Notes
+CH-004,C-HP,Waitlist Application Fee, $150.00 ,once,7/1/2024,6/30/2025,
+CH-005,C-HP,Facility  Fee, $250.00 ,yearly,7/1/2024,6/30/2025,
+CH-006,C-HP,Materials Fee, $250.00 ,yearly,7/1/2024,6/30/2025,
+CH-007,C-JP,Waitlist Application Fee, $150.00 ,once,7/1/2024,6/30/2025,
+CH-008,C-JP,Facility  Fee, $250.00 ,yearly,7/1/2024,6/30/2025,
+CH-009,C-JP,Materials Fee, $250.00 ,yearly,7/1/2024,6/30/2025,
+CH-010,C-TD,Waitlist Application Fee, $150.00 ,once,7/1/2024,6/30/2025,
+CH-011,C-TD,Facility  Fee, $250.00 ,yearly,7/1/2024,6/30/2025,
+CH-012,C-TD,Materials Fee, $250.00 ,yearly,7/1/2024,6/30/2025,
+CH-001,C-LCV,Waitlist Application Fee, $75.00 ,once,7/1/2021,5/31/2022,
+CH-002,C-LCV,Facility  Fee, $100.00 ,yearly,7/1/2021,5/31/2022,
+CH-003,C-LCV,Materials Fee, $100.00 ,yearly,7/1/2021,5/31/2022,

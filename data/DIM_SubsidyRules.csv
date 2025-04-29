@@ -1,0 +1,9 @@
+﻿SubsidyID,GivingEntityID,SubsidyName,ProviderType,RateTypeCovered,AgeRangeCovered,MaxWeeklyHours,FullCoverage,CoveragePercent,MonthlyCap,MaxDaysPerMonth,ExcusedAbsenceCap,UnexcusedAbsenceCap,EffectiveDate,EndDate,Notes
+SUB001,UNK1581,Pathways LA,Government,Community,0-60 months,40,TRUE,100,,22,3,2,7/1/1997,6/30/2030,Must report absences over 5 days
+SUB002,UNK1582,Crystal Stairs,Government,Community,0-60 months,40,FALSE,85,1250,20,5,3,7/1/1997,6/30/2030,Pays up to regional market rate
+SUB003,UNK1583,Child Care Alliance LA,Nonprofit,Community,24-60 months,30,FALSE,75,1000,21,4,2,7/1/1997,6/30/2030,Preschool age only
+SUB004,UNK1584,ChildCare Aware of America,Military,Community,0-60 months,50,TRUE,100,,20,2,1,7/1/1997,6/30/2030,For eligible military families
+SUB006,UNK1585,City of LA Child Care Grant,Government,City,0-60 months,40,TRUE,100,,20,5,3,7/1/1997,6/30/2030,Only for City-affiliated employees
+SUB007,UNK1586,LA Early Start Initiative,Private,Community,0-24 months,30,FALSE,80,900,21,4,2,7/1/1997,6/30/2030,Infant/toddler program only
+SUB008,UNK1587,Working Families Child Fund,Private/Nonprofit,Community,12-60 months,40,FALSE,70,1100,20,2,1,7/1/1997,6/30/2030,Parents must work 30+ hours/week
+,,,,,,,,,,,,,,,

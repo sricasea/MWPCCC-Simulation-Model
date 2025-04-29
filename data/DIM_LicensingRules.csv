@@ -1,0 +1,15 @@
+﻿RuleID,CenterID,MinAge,MaxAge,Name,EligibleClassroomID,StartDateEndDate,,InUse,Licensor,Capacity,Facility Number,Notes
+L-198015240-01,C-JP,0 months,24 months,Infant Center,CL-JPIN-01,7/8/2009,,Yes,CCLD,26,198015240,
+L-198015240-02,C-JP,0 months,24 months,Infant Center,CL-JPTO-01,7/8/2009,,Yes,CCLD,26,198015240,
+L-198015239-01,C-JP,24 months,60 months,Child Care Center Preschool,CL-JPPS1-01,7/8/2009,,Yes,CCLD,60,198015239,
+L-198015239-02,C-JP,24 months,60 months,Child Care Center Preschool,CL-JPPS2-01,7/8/2009,,Yes,CCLD,60,198015239,
+L-198008723-01,C-HP,0 months,24 months,Infant Center,CL-HPIN-01,3/18/2003,,Yes,CCLD,21,198008723,
+L-198008723-02,C-HP,0 months,24 months,Infant Center,CL-HPTO-01,3/18/2003,,Yes,CCLD,21,198008723,
+L-198008722-01,C-HP,24 months,60 months,Child Care Center Preschool,CL-HPPS1-01,3/18/2003,,Yes,CCLD,31,198008722,
+L-198008722-02,C-HP,24 months,60 months,Child Care Center Preschool,CL-HPPS2-01,3/18/2003,,Yes,CCLD,31,198008722,
+L-198021317-01,C-TD,0 months,60 months,Single License Child Care Center,CL-TDIN-01,9/1/2023,,Yes,CCLD,67,198021317,"0-18 ""Infant License"", 18-36 ""Toddler Option"", 36-60 ""Preschool"""
+L-198021317-02,C-TD,0 months,60 months,Single License Child Care Center,CL-TDTO-01,9/1/2023,,Yes,CCLD,67,198021317,
+L-198021317-03,C-TD,0 months,60 months,Single License Child Care Center,CL-TDPS-01,9/1/2023,,Yes,CCLD,67,198021317,
+L-192006521-01,C-LCV,0 months,24 months,Infant Center,CL-LCVIN-01,,5/31/2022,No,CCLD,19,192006521,
+L-192006521-02,C-LCV,0 months,24 months,Infant Center,CL-LCVTO-01,,5/31/2022,No,CCLD,19,192006521,
+L-198012751-01,C-LCV,24 months,60 months,Child Care Center Preschool,CL-LCVPS-01,,5/31/2022,No,CCLD,28,198012751,

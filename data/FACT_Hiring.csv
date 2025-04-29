@@ -1,0 +1,1540 @@
+﻿TeacherID,EventDate,EventType,CenterID,ClassroomID,Position,Notes
+T-0001,1/8/1998,Hire,C-LCV,CL-LCVTO-01,Teacher,Initial staff hire Jan 1998
+T-0002,2/3/1998,Hire,C-LCV,CL-LCVIN-01,Lead Teacher,Hire to meet staffing need February 1998
+T-0003,3/7/1998,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need March 1998
+T-0004,7/7/1998,Hire,C-HP,CL-HPPS2-01,Lead Teacher,Hire to meet staffing need July 1998
+T-0005,7/9/1998,Hire,C-JP,CL-JPPS2-01,Assistant Teacher,Hire to meet staffing need July 1998
+T-0006,6/22/1999,Hire,C-HP,CL-HPPS1-01,Teacher,Hire to meet staffing need June 1999
+T-0007,6/21/1999,Hire,C-HP,CL-HPTO-01,Teacher,Hire to meet staffing need June 1999
+T-0005,8/1/1999,Promotion,C-JP,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0008,8/7/1999,Hire,C-LCV,CL-LCVIN-01,Teacher,Hire to meet staffing need August 1999
+T-0009,9/8/1999,Hire,C-TD,CL-TDPS-01,Teacher,Hire to meet staffing need September 1999
+T-0005,11/1/1999,Termination,C-JP,CL-JPPS2-01,Teacher,Staff voluntarily left
+T-0010,11/14/1999,Hire,C-JP,CL-JPPS2-01,Teacher,Hire to meet staffing need November 1999
+T-0001,1/1/2000,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0005,1/1/2000,Promotion,C-JP,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0004,1/1/2000,Promotion,C-HP,,Site Supervisor,Promoted to Site Supervisor for center growth
+T-0001,1/1/2000,Promotion,C-LCV,,Site Supervisor,Promoted to Site Supervisor for center growth
+T-0014,1/19/2000,Hire,C-LCV,CL-LCVIN-01,Lead Teacher,Hire to meet staffing need January 2000
+T-0003,3/1/2000,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0009,4/1/2000,Termination,C-TD,CL-TDPS-01,Teacher,Staff voluntarily left
+T-0015,4/17/2000,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need April 2000
+T-0016,6/16/2000,Hire,C-JP,,Site Supervisor,New hire Site Supervisor for center growth
+T-0005,7/1/2000,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0017,10/28/2000,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need October 2000
+T-0018,12/13/2000,Hire,C-HP,CL-HPIN-01,Lead Teacher,Hire to meet staffing need December 2000
+T-0001,1/1/2001,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0003,1/1/2001,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0005,1/1/2001,Promotion,C-JP,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0005,2/1/2001,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0006,7/1/2001,Promotion,C-HP,CL-HPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0007,7/1/2001,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0008,8/1/2001,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0008,8/1/2001,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left
+T-0009,9/1/2001,Promotion,C-TD,CL-TDPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0010,12/1/2001,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0019,1/12/2002,Hire,C-JP,CL-JPPS1-01,Lead Teacher,Hire to meet staffing need January 2002
+T-0010,4/1/2002,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left
+T-0015,5/1/2002,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0005,7/1/2002,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left
+T-0020,7/15/2002,Hire,C-JP,CL-JPPS2-01,Teacher,Hire to meet staffing need July 2002
+T-0009,10/1/2002,Termination,C-TD,CL-TDPS-01,Lead Teacher,Staff voluntarily left
+T-0017,11/1/2002,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0016,11/1/2002,Promotion,,,Executive Director,Promotion to Executive Director to oversee all centers
+T-0021,1/19/2003,Hire,C-JP,CL-JPPS2-01,Teacher,Hire to meet staffing need January 2003
+T-0022,1/16/2003,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need January 2003
+T-0002,3/1/2003,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left
+T-0014,4/1/2003,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left
+T-0023,4/27/2003,Hire,C-LCV,CL-LCVIN-01,Teacher,Hire to meet staffing need April 2003
+T-0024,9/25/2003,Hire,C-TD,CL-TDPS-01,Assistant Teacher,Hire to meet staffing need September 2003
+T-0016,11/1/2003,Termination,C-JP,,Executive Director,Staff voluntarily left
+T-0001,1/1/2004,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0003,1/1/2004,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0005,1/1/2004,Promotion,C-JP,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0006,1/1/2004,Promotion,C-HP,CL-HPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0007,1/1/2004,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0008,1/1/2004,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0009,1/1/2004,Promotion,C-TD,CL-TDPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0010,1/1/2004,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0015,1/1/2004,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0017,1/1/2004,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0005,2/1/2004,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0025,3/2/2004,Hire,C-TD,CL-TDTO-01,Lead Teacher,Hire to meet staffing need February 2004
+T-0026,2/9/2004,Hire,C-TD,CL-TDTO-01,Lead Teacher,Hire to meet staffing need February 2004
+T-0015,6/1/2004,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left
+T-0006,7/1/2004,Termination,C-HP,CL-HPPS1-01,Lead Teacher,Staff voluntarily left
+T-0020,8/1/2004,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0024,10/1/2004,Promotion,C-TD,CL-TDPS-01,Teacher,Promotion to Teacher
+T-0021,10/1/2004,Termination,C-JP,CL-JPPS2-01,Teacher,Staff voluntarily left
+T-0027,1/27/2005,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need January 2005
+T-0022,2/1/2005,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0028,4/17/2005,Hire,C-HP,CL-HPPS1-01,Teacher,Hire to meet staffing need April 2005
+T-0023,5/1/2005,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0026,6/1/2005,Termination,,CL-TDTO-01,Lead Teacher,Staff voluntarily left
+T-0024,10/1/2005,Promotion,C-TD,CL-TDPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0025,10/1/2005,Termination,,CL-TDTO-01,Lead Teacher,Staff voluntarily left
+T-0024,11/1/2005,Termination,C-TD,CL-TDPS-01,Lead Teacher,Staff voluntarily left
+T-0029,11/12/2005,Hire,C-JP,CL-JPTO-01,Assistant Teacher,Hire to meet staffing need November 2005
+T-0005,12/1/2005,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left
+T-0008,4/1/2006,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left
+T-0022,4/1/2006,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left
+T-0010,5/1/2006,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left
+T-0030,7/14/2006,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need July 2006
+T-0031,8/12/2006,Hire,C-LCV,CL-LCVPS-01,Lead Teacher,Hire to meet staffing need August 2006
+T-0001,10/1/2006,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left
+T-0029,12/1/2006,Promotion,,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0029,12/1/2006,Termination,,CL-JPTO-01,Teacher,Staff voluntarily left
+T-0032,12/12/2006,Hire,C-JP,CL-JPTO-01,Assistant Teacher,Hire to meet staffing need December 2006
+T-0001,1/1/2007,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0003,1/1/2007,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0005,1/1/2007,Promotion,C-JP,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0006,1/1/2007,Promotion,C-HP,CL-HPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0007,1/1/2007,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0008,1/1/2007,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0009,1/1/2007,Promotion,C-TD,CL-TDPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0010,1/1/2007,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0015,1/1/2007,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0017,1/1/2007,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0020,1/1/2007,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0021,1/1/2007,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0022,1/1/2007,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0023,1/1/2007,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0024,1/1/2007,Promotion,C-TD,CL-TDPS-01,Teacher,Promotion to Teacher
+T-0029,1/1/2007,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0005,2/1/2007,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0024,2/1/2007,Promotion,C-TD,CL-TDPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0027,2/1/2007,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0001,3/1/2007,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left
+T-0018,3/1/2007,Termination,C-HP,CL-HPIN-01,Lead Teacher,Staff voluntarily left
+T-0021,3/1/2007,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left
+T-0028,5/1/2007,Promotion,C-HP,CL-HPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0007,6/1/2007,Termination,C-HP,CL-HPTO-01,Lead Teacher,Staff voluntarily left
+T-0033,6/6/2007,Hire,C-HP,CL-HPTO-01,Teacher,Hire to meet staffing need June 2007
+T-0003,7/1/2007,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left
+T-0034,7/22/2007,Hire,C-LCV,CL-LCVPS-01,Assistant Teacher,Hire to meet staffing need July 2007
+T-0017,8/1/2007,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left
+T-0034,10/1/2007,Termination,,CL-LCVPS-01,Assistant Teacher,Staff voluntarily left
+T-0035,10/12/2007,Hire,C-JP,CL-JPIN-01,Teacher,Hire to meet staffing need October 2007
+T-0029,12/1/2007,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0004,12/1/2007,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Staff voluntarily left
+T-0036,12/29/2007,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need December 2007
+T-0032,1/1/2008,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0026,2/1/2008,Termination,C-TD,CL-TDTO-01,Lead Teacher,Staff voluntarily left
+T-0008,4/1/2008,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left
+T-0037,4/17/2008,Hire,C-HP,CL-HPIN-01,Assistant Teacher,Hire to meet staffing need April 2008
+T-0010,5/1/2008,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left
+T-0029,5/1/2008,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff voluntarily left
+T-0032,5/1/2008,Termination,C-JP,CL-JPTO-01,Teacher,Staff voluntarily left
+T-0038,5/4/2008,Hire,C-JP,CL-JPPS2-01,Assistant Teacher,Hire to meet staffing need May 2008
+T-0039,5/20/2008,Hire,C-JP,CL-JPTO-01,Lead Teacher,Hire to meet staffing need May 2008
+T-0027,6/1/2008,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left
+T-0040,6/30/2008,Hire,C-HP,CL-HPPS2-01,Assistant Teacher,Hire to meet staffing need June 2008
+T-0025,7/1/2008,Termination,C-TD,CL-TDTO-01,Lead Teacher,Staff voluntarily left
+T-0041,7/26/2008,Hire,C-LCV,CL-LCVTO-01,Assistant Teacher,Hire to meet staffing need July 2008
+T-0030,8/1/2008,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0023,8/1/2008,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left
+T-0019,9/1/2008,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Staff voluntarily left
+T-0036,9/1/2008,Termination,,CL-LCVPS-01,Teacher,Staff voluntarily left
+T-0042,9/24/2008,Hire,C-JP,CL-JPPS1-01,Lead Teacher,Hire to meet staffing need September 2008
+T-0043,9/17/2008,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need September 2008
+T-0038,10/1/2008,Termination,,CL-JPPS2-01,Assistant Teacher,Staff voluntarily left
+T-0044,10/10/2008,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need October 2008
+T-0042,11/1/2008,Termination,,CL-JPPS1-01,Lead Teacher,Staff voluntarily left
+T-0045,11/27/2008,Hire,C-JP,CL-JPPS1-01,Teacher,Hire to meet staffing need November 2008
+T-0035,12/1/2008,Termination,,CL-JPIN-01,Teacher,Staff voluntarily left
+T-0046,12/2/2008,Hire,C-LCV,CL-LCVIN-01,Lead Teacher,Hire to meet staffing need December 2008
+T-0047,12/31/2008,Hire,C-LCV,CL-LCVIN-01,Teacher,Hire to meet staffing need December 2008
+T-0048,1/24/2009,Hire,C-JP,CL-JPPS2-01,Teacher,Hire to meet staffing need January 2009
+T-0044,2/1/2009,Termination,,CL-LCVTO-01,Teacher,Staff voluntarily left
+T-0037,5/1/2009,Promotion,,CL-HPIN-01,Teacher,Promotion to Teacher
+T-0002,5/1/2009,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left
+T-0030,5/1/2009,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left
+T-0049,5/27/2009,Hire,C-LCV,CL-LCVIN-01,Assistant Teacher,Hire to meet staffing need May 2009
+T-0033,6/1/2009,Promotion,,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0024,6/1/2009,Termination,C-TD,CL-TDPS-01,Lead Teacher,Staff voluntarily left
+T-0050,6/19/2009,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need June 2009
+T-0040,7/1/2009,Promotion,,CL-HPPS2-01,Teacher,Promotion to Teacher
+T-0041,8/1/2009,Promotion,,CL-LCVTO-01,Teacher,Promotion to Teacher
+T-0045,9/1/2009,Termination,,CL-JPPS1-01,Teacher,Staff voluntarily left
+T-0051,9/6/2009,Hire,C-JP,CL-JPPS1-01,Teacher,Hire to meet staffing need September 2009
+T-0052,9/3/2009,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need September 2009
+T-0053,9/13/2009,Hire,C-TD,CL-TDTO-01,Teacher,Hire to meet staffing need September 2009
+T-0033,10/1/2009,Termination,,CL-HPTO-01,Lead Teacher,Staff voluntarily left
+T-0054,10/17/2009,Hire,C-HP,CL-HPTO-01,Lead Teacher,Hire to meet staffing need October 2009
+T-0005,11/1/2009,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left
+T-0055,11/17/2009,Hire,C-JP,CL-JPIN-01,Lead Teacher,Hire to meet staffing need November 2009
+T-0056,11/21/2009,Hire,C-LCV,CL-LCVPS-01,Assistant Teacher,Hire to meet staffing need November 2009
+T-0031,12/1/2009,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left
+T-0052,12/1/2009,Termination,,CL-LCVTO-01,Teacher,Staff voluntarily left
+T-0057,12/14/2009,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need December 2009
+T-0058,1/23/2010,Hire,C-JP,CL-JPPS1-01,Teacher,Hire to meet staffing need January 2010
+T-0059,1/31/2010,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need January 2010
+T-0039,2/1/2010,Termination,,CL-JPTO-01,Lead Teacher,Staff voluntarily left
+T-0060,2/8/2010,Hire,C-JP,CL-JPTO-01,Assistant Teacher,Hire to meet staffing need February 2010
+T-0061,3/7/2010,Hire,C-JP,CL-JPTO-01,Teacher,Hire to meet staffing need March 2010
+T-0043,4/1/2010,Termination,,CL-LCVPS-01,Teacher,Staff voluntarily left
+T-0053,4/1/2010,Termination,,CL-TDTO-01,Teacher,Staff voluntarily left
+T-0062,4/2/2010,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need April 2010
+T-0063,4/23/2010,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need April 2010
+T-0037,5/1/2010,Promotion,,CL-HPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0049,6/1/2010,Promotion,,CL-LCVIN-01,Teacher,Promotion to Teacher
+T-0040,7/1/2010,Promotion,,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0064,7/9/2010,Hire,C-HP,CL-HPPS2-01,Teacher,Hire to meet staffing need July 2010
+T-0041,8/1/2010,Promotion,,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0009,8/1/2010,Termination,C-TD,CL-TDPS-01,Lead Teacher,Staff voluntarily left
+T-0063,9/1/2010,Termination,,CL-LCVTO-01,Teacher,Staff voluntarily left
+T-0049,10/1/2010,Termination,,CL-LCVIN-01,Teacher,Staff voluntarily left
+T-0059,10/1/2010,Termination,,CL-LCVTO-01,Teacher,Staff voluntarily left
+T-0065,10/23/2010,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need October 2010
+T-0060,11/1/2010,Termination,,CL-JPTO-01,Assistant Teacher,Staff voluntarily left
+T-0056,12/1/2010,Promotion,,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0057,12/1/2010,Termination,,CL-LCVPS-01,Teacher,Staff voluntarily left
+T-0066,12/6/2010,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need December 2010
+T-0067,12/18/2010,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need December 2010
+T-0025,1/1/2007,Termination,C-TD,CL-TDTO-01,Lead Teacher,Staff voluntarily left
+T-0020,2/1/2007,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left
+T-0026,5/1/2007,Termination,C-TD,CL-TDTO-01,Lead Teacher,Staff voluntarily left
+T-0031,5/1/2007,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left
+T-0006,6/1/2007,Termination,C-HP,CL-HPPS1-01,Lead Teacher,Staff voluntarily left
+T-0068,6/26/2007,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need June 2007
+T-0015,7/1/2007,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left
+T-0069,7/10/2007,Hire,C-LCV,CL-LCVPS-01,Assistant Teacher,Hire to meet staffing need July 2007
+T-0014,8/1/2007,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left
+T-0018,8/1/2007,Termination,C-HP,CL-HPIN-01,Lead Teacher,Staff voluntarily left
+T-0023,8/1/2007,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left
+T-0024,10/1/2007,Termination,C-TD,CL-TDPS-01,Lead Teacher,Staff voluntarily left
+T-0070,10/10/2007,Hire,C-JP,CL-JPIN-01,Teacher,Hire to meet staffing need October 2007
+T-0002,1/1/2008,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left
+T-0027,1/1/2008,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left
+T-0030,1/1/2008,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left
+T-0071,1/23/2008,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need January 2008
+T-0071,2/1/2008,Termination,,CL-LCVPS-01,Teacher,Staff voluntarily left
+T-0072,2/24/2008,Hire,C-LCV,CL-LCVPS-01,Assistant Teacher,Hire to meet staffing need February 2008
+T-0007,3/1/2008,Termination,C-HP,CL-HPTO-01,Lead Teacher,Staff voluntarily left
+T-0022,3/1/2008,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left
+T-0073,4/2/2008,Hire,C-HP,CL-HPIN-01,Lead Teacher,Hire to meet staffing need April 2008
+T-0008,5/1/2008,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left
+T-0004,6/1/2008,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Staff voluntarily left
+T-0074,6/13/2008,Hire,C-HP,CL-HPPS2-01,Teacher,Hire to meet staffing need June 2008
+T-0075,6/23/2008,Hire,C-HP,CL-HPTO-01,Teacher,Hire to meet staffing need June 2008
+T-0072,7/1/2008,Termination,,CL-LCVPS-01,Assistant Teacher,Staff voluntarily left
+T-0076,7/29/2008,Hire,C-LCV,CL-LCVIN-01,Teacher,Hire to meet staffing need July 2008
+T-0077,7/21/2008,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need July 2008
+T-0069,8/1/2008,Promotion,,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0001,8/1/2008,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left
+T-0078,8/28/2008,Hire,C-LCV,CL-LCVIN-01,Teacher,Hire to meet staffing need August 2008
+T-0079,8/25/2008,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need August 2008
+T-0074,9/1/2008,Termination,,CL-HPPS2-01,Teacher,Staff voluntarily left
+T-0076,9/1/2008,Termination,,CL-LCVIN-01,Teacher,Staff voluntarily left
+T-0080,9/18/2008,Hire,C-HP,CL-HPPS2-01,Teacher,Hire to meet staffing need September 2008
+T-0081,9/12/2008,Hire,C-LCV,CL-LCVIN-01,Assistant Teacher,Hire to meet staffing need September 2008
+T-0032,10/1/2008,Termination,C-JP,CL-JPTO-01,Teacher,Staff voluntarily left
+T-0082,10/7/2008,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need October 2008
+T-0078,11/1/2008,Termination,,CL-LCVIN-01,Teacher,Staff voluntarily left
+T-0083,12/27/2008,Hire,C-LCV,CL-LCVIN-01,Lead Teacher,Hire to meet staffing need December 2008
+T-0084,12/7/2008,Hire,C-LCV,CL-LCVIN-01,Teacher,Hire to meet staffing need December 2008
+T-0085,12/30/2008,Hire,C-LCV,CL-LCVIN-01,Teacher,Hire to meet staffing need December 2008
+T-0081,1/1/2009,Termination,,CL-LCVIN-01,Assistant Teacher,Staff voluntarily left
+T-0086,1/5/2009,Hire,C-LCV,CL-LCVIN-01,Assistant Teacher,Hire to meet staffing need January 2009
+T-0010,2/1/2009,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left
+T-0086,2/1/2009,Termination,,CL-LCVIN-01,Assistant Teacher,Staff voluntarily left
+T-0087,2/27/2009,Hire,C-JP,CL-JPPS2-01,Teacher,Hire to meet staffing need February 2009
+T-0088,2/18/2009,Hire,C-LCV,CL-LCVIN-01,Lead Teacher,Hire to meet staffing need February 2009
+T-0077,3/1/2009,Termination,,CL-LCVTO-01,Teacher,Staff voluntarily left
+T-0082,3/1/2009,Termination,,CL-LCVTO-01,Teacher,Staff voluntarily left
+T-0029,5/1/2009,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff voluntarily left
+T-0080,5/1/2009,Termination,,CL-HPPS2-01,Teacher,Staff voluntarily left
+T-0089,5/17/2009,Hire,C-HP,CL-HPPS2-01,Assistant Teacher,Hire to meet staffing need May 2009
+T-0090,5/18/2009,Hire,C-JP,CL-JPTO-01,Assistant Teacher,Hire to meet staffing need May 2009
+T-0083,6/1/2009,Termination,,CL-LCVIN-01,Lead Teacher,Staff voluntarily left
+T-0085,6/1/2009,Termination,,CL-LCVIN-01,Teacher,Staff voluntarily left
+T-0091,6/13/2009,Hire,C-LCV,CL-LCVIN-01,Teacher,Hire to meet staffing need June 2009
+T-0092,6/1/2009,Hire,C-LCV,CL-LCVIN-01,Teacher,Hire to meet staffing need June 2009
+T-0093,6/21/2009,Hire,C-LCV,CL-LCVTO-01,Lead Teacher,Hire to meet staffing need June 2009
+T-0068,7/1/2009,Promotion,,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0069,7/1/2009,Promotion,,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0079,7/1/2009,Termination,,CL-LCVTO-01,Teacher,Staff voluntarily left
+T-0094,7/18/2009,Hire,C-LCV,CL-LCVTO-01,Lead Teacher,Hire to meet staffing need July 2009
+T-0095,9/26/2009,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need September 2009
+T-0096,9/27/2009,Hire,C-TD,CL-TDTO-01,Teacher,Hire to meet staffing need September 2009
+T-0070,10/1/2009,Promotion,,CL-JPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0090,10/1/2009,Termination,,CL-JPTO-01,Assistant Teacher,Staff voluntarily left
+T-0092,10/1/2009,Termination,,CL-LCVIN-01,Teacher,Staff voluntarily left
+T-0097,10/16/2009,Hire,C-JP,CL-JPTO-01,Teacher,Hire to meet staffing need October 2009
+T-0098,10/24/2009,Hire,C-LCV,CL-LCVIN-01,Teacher,Hire to meet staffing need October 2009
+T-0017,11/1/2009,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left
+T-0099,11/16/2009,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need November 2009
+T-0100,11/4/2009,Hire,C-LCV,CL-LCVTO-01,Lead Teacher,Hire to meet staffing need November 2009
+T-0094,12/1/2009,Termination,,CL-LCVTO-01,Lead Teacher,Staff voluntarily left
+T-0101,1/7/2010,Hire,C-JP,CL-JPPS1-01,Teacher,Hire to meet staffing need January 2010
+T-0102,1/6/2010,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need January 2010
+T-0099,2/1/2010,Termination,,CL-LCVPS-01,Teacher,Staff voluntarily left
+T-0103,2/18/2010,Hire,C-LCV,CL-LCVPS-01,Assistant Teacher,Hire to meet staffing need February 2010
+T-0104,3/1/2010,Hire,C-JP,CL-JPTO-01,Teacher,Hire to meet staffing need March 2010
+T-0105,4/7/2010,Hire,C-LCV,CL-LCVTO-01,Lead Teacher,Hire to meet staffing need April 2010
+T-0068,5/1/2010,Termination,,CL-LCVPS-01,Lead Teacher,Staff voluntarily left
+T-0089,5/1/2010,Termination,,CL-HPPS2-01,Assistant Teacher,Staff voluntarily left
+T-0106,5/2/2010,Hire,C-HP,CL-HPPS1-01,Lead Teacher,Hire to meet staffing need May 2010
+T-0107,5/6/2010,Hire,C-HP,CL-HPPS2-01,Assistant Teacher,Hire to meet staffing need May 2010
+T-0073,6/1/2010,Termination,,CL-HPIN-01,Lead Teacher,Staff voluntarily left
+T-0102,6/1/2010,Termination,,CL-LCVTO-01,Teacher,Staff voluntarily left
+T-0108,6/29/2010,Hire,C-LCV,CL-LCVTO-01,Lead Teacher,Hire to meet staffing need June 2010
+T-0075,7/1/2010,Promotion,,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0087,7/1/2010,Termination,,CL-JPPS2-01,Teacher,Staff voluntarily left
+T-0103,7/1/2010,Termination,,CL-LCVPS-01,Assistant Teacher,Staff voluntarily left
+T-0109,7/11/2010,Hire,C-HP,CL-HPPS2-01,Teacher,Hire to meet staffing need July 2010
+T-0110,7/6/2010,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need July 2010
+T-0111,7/24/2010,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need July 2010
+T-0084,9/1/2010,Termination,,CL-LCVIN-01,Teacher,Staff voluntarily left
+T-0069,11/1/2010,Termination,,CL-LCVPS-01,Lead Teacher,Staff voluntarily left
+T-0112,11/13/2010,Hire,C-LCV,CL-LCVPS-01,Assistant Teacher,Hire to meet staffing need November 2010
+T-0001,1/1/2011,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0003,1/1/2011,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0005,1/1/2011,Promotion,C-JP,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0006,1/1/2011,Promotion,C-HP,CL-HPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0007,1/1/2011,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0008,1/1/2011,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0009,1/1/2011,Promotion,C-TD,CL-TDPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0010,1/1/2011,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0015,1/1/2011,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0017,1/1/2011,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0020,1/1/2011,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0021,1/1/2011,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0022,1/1/2011,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0023,1/1/2011,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0024,1/1/2011,Promotion,C-TD,CL-TDPS-01,Teacher,Promotion to Teacher
+T-0027,1/1/2011,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0028,1/1/2011,Promotion,C-HP,CL-HPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0029,1/1/2011,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0030,1/1/2011,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0032,1/1/2011,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0033,1/1/2011,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0034,1/1/2011,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0035,1/1/2011,Promotion,C-JP,CL-JPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0036,1/1/2011,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0037,1/1/2011,Promotion,C-HP,CL-HPIN-01,Teacher,Promotion to Teacher
+T-0038,1/1/2011,Promotion,C-JP,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0040,1/1/2011,Promotion,C-HP,CL-HPPS2-01,Teacher,Promotion to Teacher
+T-0041,1/1/2011,Promotion,C-LCV,CL-LCVTO-01,Teacher,Promotion to Teacher
+T-0043,1/1/2011,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0044,1/1/2011,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0045,1/1/2011,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0047,1/1/2011,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0049,1/1/2011,Promotion,C-LCV,CL-LCVIN-01,Teacher,Promotion to Teacher
+T-0056,1/1/2011,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0068,1/1/2011,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0069,1/1/2011,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0070,1/1/2011,Promotion,C-JP,CL-JPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0071,1/1/2011,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0072,1/1/2011,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0074,1/1/2011,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0075,1/1/2011,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0076,1/1/2011,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0077,1/1/2011,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0078,1/1/2011,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0079,1/1/2011,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0080,1/1/2011,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0081,1/1/2011,Promotion,C-LCV,CL-LCVIN-01,Teacher,Promotion to Teacher
+T-0082,1/1/2011,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0084,1/1/2011,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0085,1/1/2011,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0086,1/1/2011,Promotion,C-LCV,CL-LCVIN-01,Teacher,Promotion to Teacher
+T-0089,1/1/2011,Promotion,C-HP,CL-HPPS2-01,Teacher,Promotion to Teacher
+T-0090,1/1/2011,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0017,1/1/2011,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0042,1/1/2011,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0086,1/1/2011,Termination,C-LCV,CL-LCVIN-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0091,1/1/2011,Termination,C-LCV,CL-LCVIN-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0093,1/1/2011,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0100,1/1/2011,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0111,1/1/2011,Termination,C-LCV,CL-LCVPS-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0005,2/1/2011,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0024,2/1/2011,Promotion,C-TD,CL-TDPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0029,2/1/2011,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0032,2/1/2011,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0034,2/1/2011,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0037,2/1/2011,Promotion,C-HP,CL-HPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0038,2/1/2011,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0040,2/1/2011,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0041,2/1/2011,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0048,2/1/2011,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0069,2/1/2011,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0072,2/1/2011,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0081,2/1/2011,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0031,2/1/2011,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0061,2/1/2011,Termination,C-JP,CL-JPTO-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0065,2/1/2011,Termination,C-LCV,CL-LCVTO-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0107,2/1/2011,Termination,C-HP,CL-HPPS2-01,Assistant Teacher,Staff voluntarily left (period of higher turnover)
+T-0110,2/1/2011,Termination,C-LCV,CL-LCVPS-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0060,3/1/2011,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0087,3/1/2011,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0103,3/1/2011,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0002,3/1/2011,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0008,3/1/2011,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0014,3/1/2011,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0078,3/1/2011,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0079,3/1/2011,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0081,3/1/2011,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0084,3/1/2011,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0016,4/1/2011,Termination,C-JP,,Site Supervisor,Staff voluntarily left (period of higher turnover)
+T-0052,5/1/2011,Termination,C-LCV,CL-LCVTO-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0057,5/1/2011,Termination,C-LCV,CL-LCVPS-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0049,6/1/2011,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0089,6/1/2011,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0090,6/1/2011,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0092,6/1/2011,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0010,6/1/2011,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0028,6/1/2011,Termination,C-HP,CL-HPPS1-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0036,6/1/2011,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0082,6/1/2011,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0094,6/1/2011,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0050,7/1/2011,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0019,7/1/2011,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0044,7/1/2011,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0063,7/1/2011,Termination,C-LCV,CL-LCVTO-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0066,7/1/2011,Termination,C-LCV,CL-LCVPS-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0077,7/1/2011,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0096,7/1/2011,Termination,C-TD,CL-TDTO-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0005,8/1/2011,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0071,8/1/2011,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0105,8/1/2011,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0051,9/1/2011,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0021,9/1/2011,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0055,9/1/2011,Termination,C-JP,CL-JPIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0085,9/1/2011,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0092,9/1/2011,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0104,9/1/2011,Termination,C-JP,CL-JPTO-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0053,10/1/2011,Promotion,C-TD,CL-TDTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0095,10/1/2011,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0037,10/1/2011,Termination,C-HP,CL-HPIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0097,11/1/2011,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0098,11/1/2011,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0113,11/27/2011,Hire,C-TD,CL-TDIN-01,Teacher,Hire to meet staffing need November 2011
+T-0056,12/1/2011,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0099,12/1/2011,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0112,12/1/2011,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0004,12/1/2011,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0034,12/1/2011,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0062,12/1/2011,Termination,C-LCV,CL-LCVPS-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0073,12/1/2011,Termination,C-HP,CL-HPIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0074,12/1/2011,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0101,1/1/2012,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0102,1/1/2012,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0007,1/1/2012,Termination,C-HP,CL-HPTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0043,1/1/2012,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0075,1/1/2012,Termination,C-HP,CL-HPTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0058,2/1/2012,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0059,2/1/2012,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0060,2/1/2012,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0064,2/1/2012,Termination,C-HP,CL-HPPS2-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0067,2/1/2012,Termination,C-LCV,CL-LCVTO-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0087,2/1/2012,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0103,3/1/2012,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0058,3/1/2012,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0069,3/1/2012,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0076,3/1/2012,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0080,3/1/2012,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0095,3/1/2012,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0049,4/1/2012,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0050,4/1/2012,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0083,4/1/2012,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0003,5/1/2012,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0020,5/1/2012,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0059,5/1/2012,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0112,5/1/2012,Termination,C-LCV,CL-LCVPS-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0114,5/14/2012,Hire,C-JP,CL-JPPS2-01,Teacher,Hire to meet staffing need May 2012
+T-0024,6/1/2012,Termination,C-TD,CL-TDPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0033,6/1/2012,Termination,C-HP,CL-HPTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0089,6/1/2012,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0103,6/1/2012,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0109,7/1/2012,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0041,8/1/2012,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0046,8/1/2012,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0051,8/1/2012,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0088,8/1/2012,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0115,8/25/2012,Hire,C-JP,CL-JPPS2-01,Teacher,Hire to meet staffing need August 2012
+T-0029,9/1/2012,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0097,11/1/2012,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0116,11/2/2012,Hire,C-JP,CL-JPPS1-01,Teacher,Hire to meet staffing need November 2012
+T-0035,12/1/2012,Termination,C-JP,CL-JPIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0113,12/1/2012,Termination,,CL-TDIN-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0116,12/1/2012,Termination,,CL-JPPS1-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0117,12/12/2012,Hire,C-JP,CL-JPPS1-01,Assistant Teacher,Hire to meet staffing need December 2012
+T-0068,1/1/2013,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0032,2/1/2013,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0018,3/1/2013,Termination,C-HP,CL-HPIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0054,3/1/2013,Termination,C-HP,CL-HPTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0108,3/1/2013,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0118,3/25/2013,Hire,C-HP,CL-HPTO-01,Teacher,Hire to meet staffing need March 2013
+T-0038,4/1/2013,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0030,5/1/2013,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0101,5/1/2013,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0119,5/30/2013,Hire,C-JP,CL-JPIN-01,Lead Teacher,Hire to meet staffing need May 2013
+T-0060,6/1/2013,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0120,6/13/2013,Hire,C-JP,CL-JPTO-01,Teacher,Hire to meet staffing need June 2013
+T-0040,7/1/2013,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0121,8/9/2013,Hire,C-JP,CL-JPTO-01,Teacher,Hire to meet staffing need August 2013
+T-0122,8/4/2013,Hire,C-JP,CL-JPTO-01,Assistant Teacher,Hire to meet staffing need August 2013
+T-0009,9/1/2013,Termination,C-TD,CL-TDPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0099,9/1/2013,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0119,9/1/2013,Termination,,CL-JPIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0123,9/14/2013,Hire,C-TD,CL-TDPS-01,Teacher,Hire to meet staffing need September 2013
+T-0047,11/1/2013,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0072,11/1/2013,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0098,11/1/2013,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0124,11/16/2013,Hire,C-LCV,CL-LCVIN-01,Assistant Teacher,Hire to meet staffing need November 2013
+T-0022,12/1/2013,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0125,12/28/2013,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need December 2013
+T-0117,1/1/2014,Promotion,,CL-JPPS1-01,Teacher,Promotion to Teacher
+T-0126,1/4/2014,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire to meet staffing need January 2014
+T-0039,2/1/2014,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0114,2/1/2014,Termination,,CL-JPPS2-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0127,2/4/2014,Hire,C-JP,CL-JPPS2-01,Lead Teacher,Hire to meet staffing need February 2014
+T-0048,4/1/2014,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0128,4/3/2014,Hire,C-JP,CL-JPPS2-01,Teacher,Hire to meet staffing need April 2014
+T-0129,5/26/2014,Hire,C-HP,CL-HPTO-01,Teacher,Hire to meet staffing need May 2014
+T-0001,6/1/2014,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0128,6/1/2014,Termination,,CL-JPPS2-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0129,6/1/2014,Termination,,CL-HPTO-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0130,6/30/2014,Hire,C-JP,CL-JPPS2-01,Assistant Teacher,Hire to meet staffing need June 2014
+T-0122,8/1/2014,Promotion,,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0109,8/1/2014,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0131,8/23/2014,Hire,C-HP,CL-HPPS2-01,Assistant Teacher,Hire to meet staffing need August 2014
+T-0115,9/1/2014,Promotion,,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0006,9/1/2014,Termination,C-HP,CL-HPPS1-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0053,9/1/2014,Termination,C-TD,CL-TDTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0132,9/11/2014,Hire,C-HP,CL-HPTO-01,Teacher,Hire to meet staffing need September 2014
+T-0115,10/1/2014,Termination,,CL-JPPS2-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0123,10/1/2014,Termination,,CL-TDPS-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0133,10/27/2014,Hire,C-HP,CL-HPPS1-01,Teacher,Hire to meet staffing need October 2014
+T-0134,10/29/2014,Hire,C-TD,CL-TDPS-01,Lead Teacher,Hire to meet staffing need October 2014
+T-0025,11/1/2014,Termination,C-TD,CL-TDTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0125,11/1/2014,Termination,,CL-LCVTO-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0124,12/1/2014,Promotion,,CL-LCVIN-01,Teacher,Promotion to Teacher
+T-0015,12/1/2014,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0132,12/1/2014,Termination,,CL-HPTO-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0135,12/10/2014,Hire,C-JP,CL-JPPS1-01,Teacher,Hire to meet staffing need December 2014
+T-0117,1/1/2015,Promotion,,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0136,1/17/2015,Hire,C-LCV,CL-LCVPS-01,Lead Teacher,Hire to meet staffing need January 2015
+T-0136,2/1/2015,Termination,,CL-LCVPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0137,2/26/2015,Hire,C-JP,CL-JPTO-01,Teacher,Hire to meet staffing need February 2015
+T-0138,2/14/2015,Hire,C-JP,CL-JPTO-01,Teacher,Hire to meet staffing need February 2015
+T-0139,2/20/2015,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need February 2015
+T-0117,3/1/2015,Termination,,CL-JPPS1-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0120,3/1/2015,Termination,,CL-JPTO-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0140,3/7/2015,Hire,C-JP,CL-JPPS1-01,Assistant Teacher,Hire to meet staffing need March 2015
+T-0141,3/7/2015,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need March 2015
+T-0142,3/27/2015,Hire,C-LCV,CL-LCVTO-01,Lead Teacher,Hire to meet staffing need March 2015
+T-0118,4/1/2015,Promotion,,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0056,4/1/2015,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0131,4/1/2015,Termination,,CL-HPPS2-01,Assistant Teacher,Staff voluntarily left (period of higher turnover)
+T-0143,4/30/2015,Hire,C-HP,CL-HPPS2-01,Teacher,Hire to meet staffing need April 2015
+T-0144,4/1/2015,Hire,C-JP,CL-JPPS1-01,Teacher,Hire to meet staffing need April 2015
+T-0145,5/26/2015,Hire,C-JP,CL-JPPS1-01,Teacher,Hire to meet staffing need May 2015
+T-0146,5/22/2015,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need May 2015
+T-0118,6/1/2015,Termination,,CL-HPTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0121,6/1/2015,Termination,,CL-JPTO-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0133,6/1/2015,Termination,,CL-HPPS1-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0143,6/1/2015,Termination,,CL-HPPS2-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0147,6/22/2015,Hire,C-HP,CL-HPPS2-01,Assistant Teacher,Hire to meet staffing need June 2015
+T-0148,7/1/2015,Hire,C-HP,CL-HPTO-01,Assistant Teacher,Hire to meet staffing need June 2015
+T-0130,7/1/2015,Promotion,,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0146,7/1/2015,Termination,,CL-LCVPS-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0149,7/9/2015,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need July 2015
+T-0122,8/1/2015,Promotion,,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0149,8/1/2015,Termination,,CL-LCVPS-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0139,10/1/2015,Termination,,CL-LCVPS-01,Teacher,Staff voluntarily left (period of higher turnover)
+T-0150,10/21/2015,Hire,C-LCV,CL-LCVPS-01,Lead Teacher,Hire to meet staffing need October 2015
+T-0026,11/1/2015,Termination,C-TD,CL-TDTO-01,Lead Teacher,Staff voluntarily left (period of higher turnover)
+T-0151,11/4/2015,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need November 2015
+T-0124,12/1/2015,Promotion,,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0001,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0003,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0005,1/1/2016,Promotion,C-JP,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0006,1/1/2016,Promotion,C-HP,CL-HPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0007,1/1/2016,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0008,1/1/2016,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0009,1/1/2016,Promotion,C-TD,CL-TDPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0010,1/1/2016,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0015,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0017,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0020,1/1/2016,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0021,1/1/2016,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0022,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0023,1/1/2016,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0024,1/1/2016,Promotion,C-TD,CL-TDPS-01,Teacher,Promotion to Teacher
+T-0027,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0028,1/1/2016,Promotion,C-HP,CL-HPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0029,1/1/2016,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0030,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0032,1/1/2016,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0033,1/1/2016,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0034,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0035,1/1/2016,Promotion,C-JP,CL-JPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0036,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0037,1/1/2016,Promotion,C-HP,CL-HPIN-01,Teacher,Promotion to Teacher
+T-0038,1/1/2016,Promotion,C-JP,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0040,1/1/2016,Promotion,C-HP,CL-HPPS2-01,Teacher,Promotion to Teacher
+T-0041,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Teacher,Promotion to Teacher
+T-0043,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0044,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0045,1/1/2016,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0047,1/1/2016,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0048,1/1/2016,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0049,1/1/2016,Promotion,C-LCV,CL-LCVIN-01,Teacher,Promotion to Teacher
+T-0050,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0051,1/1/2016,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0052,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0053,1/1/2016,Promotion,C-TD,CL-TDTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0056,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0057,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0058,1/1/2016,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0059,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0060,1/1/2016,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0061,1/1/2016,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0062,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0063,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0064,1/1/2016,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0065,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0066,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0067,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0068,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0069,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0070,1/1/2016,Promotion,C-JP,CL-JPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0071,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0072,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0074,1/1/2016,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0075,1/1/2016,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0076,1/1/2016,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0077,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0078,1/1/2016,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0079,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0080,1/1/2016,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0081,1/1/2016,Promotion,C-LCV,CL-LCVIN-01,Teacher,Promotion to Teacher
+T-0082,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0084,1/1/2016,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0085,1/1/2016,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0086,1/1/2016,Promotion,C-LCV,CL-LCVIN-01,Teacher,Promotion to Teacher
+T-0087,1/1/2016,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0089,1/1/2016,Promotion,C-HP,CL-HPPS2-01,Teacher,Promotion to Teacher
+T-0090,1/1/2016,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0091,1/1/2016,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0092,1/1/2016,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0095,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0096,1/1/2016,Promotion,C-TD,CL-TDTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0097,1/1/2016,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0098,1/1/2016,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0099,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0101,1/1/2016,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0102,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0103,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0104,1/1/2016,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0107,1/1/2016,Promotion,C-HP,CL-HPPS2-01,Teacher,Promotion to Teacher
+T-0109,1/1/2016,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0110,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0111,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0112,1/1/2016,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0113,1/1/2016,Promotion,C-TD,CL-TDIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0114,1/1/2016,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0115,1/1/2016,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0116,1/1/2016,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0117,1/1/2016,Promotion,C-JP,CL-JPPS1-01,Teacher,Promotion to Teacher
+T-0118,1/1/2016,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0120,1/1/2016,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0121,1/1/2016,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0122,1/1/2016,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0123,1/1/2016,Promotion,C-TD,CL-TDPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0124,1/1/2016,Promotion,C-LCV,CL-LCVIN-01,Teacher,Promotion to Teacher
+T-0125,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0126,1/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0130,1/1/2016,Promotion,C-JP,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0131,1/1/2016,Promotion,C-HP,CL-HPPS2-01,Teacher,Promotion to Teacher
+T-0016,1/1/2016,Termination,C-JP,,Site Supervisor,Staff left for LAUSD or other better-paying positions
+T-0025,1/1/2016,Termination,C-TD,CL-TDTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0070,1/1/2016,Termination,C-JP,CL-JPIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0078,1/1/2016,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0087,1/1/2016,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0089,1/1/2016,Termination,C-HP,CL-HPPS2-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0106,1/1/2016,Termination,C-HP,CL-HPPS1-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0107,1/1/2016,Termination,C-HP,CL-HPPS2-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0148,1/1/2016,Termination,C-HP,CL-HPTO-01,Assistant Teacher,Staff left for LAUSD or other better-paying positions
+T-0005,2/1/2016,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0024,2/1/2016,Promotion,C-TD,CL-TDPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0029,2/1/2016,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0032,2/1/2016,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0034,2/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0037,2/1/2016,Promotion,C-HP,CL-HPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0038,2/1/2016,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0040,2/1/2016,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0041,2/1/2016,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0049,2/1/2016,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0056,2/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0060,2/1/2016,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0069,2/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0072,2/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0081,2/1/2016,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0086,2/1/2016,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0090,2/1/2016,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0103,2/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0112,2/1/2016,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0117,2/1/2016,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0122,2/1/2016,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0124,2/1/2016,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0002,2/1/2016,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0015,2/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0040,2/1/2016,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0043,2/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0055,2/1/2016,Termination,C-JP,CL-JPIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0066,2/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0072,2/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0122,2/1/2016,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0136,2/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0140,2/1/2016,Termination,C-JP,CL-JPPS1-01,Assistant Teacher,Staff left for LAUSD or other better-paying positions
+T-0010,3/1/2016,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0027,3/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0048,3/1/2016,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0091,3/1/2016,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0094,3/1/2016,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0118,3/1/2016,Termination,C-HP,CL-HPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0120,3/1/2016,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0135,3/1/2016,Termination,C-JP,CL-JPPS1-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0143,3/1/2016,Termination,C-HP,CL-HPPS2-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0144,3/1/2016,Termination,C-JP,CL-JPPS1-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0128,4/1/2016,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0003,4/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0006,4/1/2016,Termination,C-HP,CL-HPPS1-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0039,4/1/2016,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0047,4/1/2016,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0079,4/1/2016,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0124,4/1/2016,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0141,4/1/2016,Termination,C-LCV,CL-LCVPS-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0037,5/1/2016,Termination,C-HP,CL-HPIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0052,5/1/2016,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0080,5/1/2016,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0093,5/1/2016,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0121,5/1/2016,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0129,6/1/2016,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0054,6/1/2016,Termination,C-HP,CL-HPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0071,6/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0086,6/1/2016,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0102,6/1/2016,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0103,6/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0130,7/1/2016,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0147,7/1/2016,Promotion,C-HP,CL-HPPS2-01,Teacher,Promotion to Teacher
+T-0062,7/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0068,7/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0090,7/1/2016,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0111,7/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0009,8/1/2016,Termination,C-TD,CL-TDPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0035,8/1/2016,Termination,C-JP,CL-JPIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0056,8/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0082,8/1/2016,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0104,8/1/2016,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0150,8/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0131,9/1/2016,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0132,9/1/2016,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0024,9/1/2016,Termination,C-TD,CL-TDPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0057,9/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0063,9/1/2016,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0092,9/1/2016,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0128,9/1/2016,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0130,9/1/2016,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0115,10/1/2016,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0133,11/1/2016,Promotion,C-HP,CL-HPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0036,11/1/2016,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0105,11/1/2016,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0127,11/1/2016,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0138,11/1/2016,Termination,C-JP,CL-JPTO-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0026,12/1/2016,Termination,C-TD,CL-TDTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0053,12/1/2016,Termination,C-TD,CL-TDTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0100,12/1/2016,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0114,12/1/2016,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0152,12/7/2016,Hire,C-JP,CL-JPIN-01,Lead Teacher,Hire to meet staffing need December 2016
+T-0153,12/14/2016,Hire,C-JP,CL-JPIN-01,Assistant Teacher,Hire to meet staffing need December 2016
+T-0101,1/1/2017,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0041,2/1/2017,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0060,2/1/2017,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0065,2/1/2017,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0084,2/1/2017,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0110,2/1/2017,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0133,2/1/2017,Termination,C-HP,CL-HPPS1-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0153,2/1/2017,Termination,,CL-JPIN-01,Assistant Teacher,Staff left for LAUSD or other better-paying positions
+T-0154,2/10/2017,Hire,C-JP,CL-JPIN-01,Teacher,Hire to meet staffing need February 2017
+T-0137,3/1/2017,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0139,3/1/2017,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0008,3/1/2017,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0022,3/1/2017,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0049,3/1/2017,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0069,3/1/2017,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0119,3/1/2017,Termination,C-JP,CL-JPIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0125,3/1/2017,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0132,3/1/2017,Termination,C-HP,CL-HPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0155,3/16/2017,Hire,C-JP,CL-JPIN-01,Assistant Teacher,Hire to meet staffing need March 2017
+T-0020,4/1/2017,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0031,4/1/2017,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0067,4/1/2017,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0073,4/1/2017,Termination,C-HP,CL-HPIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0074,4/1/2017,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0098,4/1/2017,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0017,5/1/2017,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0050,5/1/2017,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0061,5/1/2017,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0147,5/1/2017,Termination,C-HP,CL-HPPS2-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0151,5/1/2017,Termination,C-LCV,CL-LCVPS-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0145,6/1/2017,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0146,6/1/2017,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0019,6/1/2017,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0044,6/1/2017,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0155,6/1/2017,Termination,,CL-JPIN-01,Assistant Teacher,Staff left for LAUSD or other better-paying positions
+T-0149,7/1/2017,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0042,7/1/2017,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0058,7/1/2017,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0077,7/1/2017,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0117,7/1/2017,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0149,7/1/2017,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0116,8/1/2017,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0095,9/1/2017,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0097,9/1/2017,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0112,9/1/2017,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0152,9/1/2017,Termination,,CL-JPIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0007,10/1/2017,Termination,C-HP,CL-HPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0032,10/1/2017,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0113,10/1/2017,Termination,C-TD,CL-TDIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0129,10/1/2017,Termination,C-HP,CL-HPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0156,10/3/2017,Hire,C-LCV,CL-LCVPS-01,Lead Teacher,Hire to meet staffing need October 2017
+T-0018,11/1/2017,Termination,C-HP,CL-HPIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0051,11/1/2017,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0109,11/1/2017,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0145,11/1/2017,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0156,11/1/2017,Termination,,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0157,11/12/2017,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire to meet staffing need November 2017
+T-0045,12/1/2017,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0075,12/1/2017,Termination,C-HP,CL-HPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0158,12/2/2017,Hire,C-JP,CL-JPPS1-01,Teacher,Hire to meet staffing need December 2017
+T-0029,1/1/2018,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0159,1/12/2018,Hire,C-JP,CL-JPPS2-01,Lead Teacher,Hire to meet staffing need January 2018
+T-0064,2/1/2018,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0023,3/1/2018,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0038,3/1/2018,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0088,3/1/2018,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0085,4/1/2018,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0021,5/1/2018,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0137,5/1/2018,Termination,C-JP,CL-JPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0142,5/1/2018,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0160,5/12/2018,Hire,C-JP,CL-JPPS2-01,Lead Teacher,Hire to meet staffing need May 2018
+T-0161,5/30/2018,Hire,C-JP,CL-JPTO-01,Teacher,Hire to meet staffing need May 2018
+T-0123,6/1/2018,Termination,C-TD,CL-TDPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0162,6/4/2018,Hire,C-JP,CL-JPPS1-01,Teacher,Hire to meet staffing need June 2018
+T-0134,7/1/2018,Termination,C-TD,CL-TDPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0146,7/1/2018,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0154,7/1/2018,Termination,,CL-JPIN-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0163,7/18/2018,Hire,C-JP,CL-JPPS1-01,Teacher,Hire to meet staffing need July 2018
+T-0164,7/26/2018,Hire,C-TD,CL-TDPS-01,Lead Teacher,Hire to meet staffing need July 2018
+T-0157,8/1/2018,Termination,,CL-LCVPS-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0158,8/1/2018,Termination,,CL-JPPS1-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0165,8/21/2018,Hire,C-JP,CL-JPPS1-01,Teacher,Hire to meet staffing need August 2018
+T-0059,9/1/2018,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0083,9/1/2018,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0166,9/16/2018,Hire,C-JP,CL-JPPS2-01,Assistant Teacher,Hire to meet staffing need September 2018
+T-0139,10/1/2018,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0005,11/1/2018,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0099,1/1/2019,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0167,1/29/2019,Hire,C-JP,CL-JPIN-01,Teacher,Hire to meet staffing need January 2019
+T-0030,2/1/2019,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0034,2/1/2019,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0131,2/1/2019,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0159,2/1/2019,Termination,,CL-JPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0162,2/1/2019,Termination,,CL-JPPS1-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0166,2/1/2019,Termination,,CL-JPPS2-01,Assistant Teacher,Staff left for LAUSD or other better-paying positions
+T-0168,2/3/2019,Hire,C-HP,CL-HPPS2-01,Teacher,Hire to meet staffing need February 2019
+T-0169,2/9/2019,Hire,C-JP,CL-JPPS2-01,Teacher,Hire to meet staffing need February 2019
+T-0170,2/18/2019,Hire,C-JP,CL-JPTO-01,Teacher,Hire to meet staffing need February 2019
+T-0004,3/1/2019,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0171,3/30/2019,Hire,C-HP,CL-HPPS2-01,Assistant Teacher,Hire to meet staffing need March 2019
+T-0172,3/2/2019,Hire,C-JP,CL-JPPS2-01,Teacher,Hire to meet staffing need March 2019
+T-0173,3/26/2019,Hire,C-JP,CL-JPTO-01,Teacher,Hire to meet staffing need March 2019
+T-0108,5/1/2019,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0174,5/13/2019,Hire,C-JP,CL-JPIN-01,Teacher,Hire to meet staffing need May 2019
+T-0168,6/1/2019,Termination,,CL-HPPS2-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0033,7/1/2019,Termination,C-HP,CL-HPTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0173,7/1/2019,Termination,,CL-JPTO-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0174,7/1/2019,Termination,,CL-JPIN-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0175,7/4/2019,Hire,C-JP,CL-JPIN-01,Teacher,Hire to meet staffing need July 2019
+T-0176,7/13/2019,Hire,C-JP,CL-JPTO-01,Teacher,Hire to meet staffing need July 2019
+T-0028,9/1/2019,Termination,C-HP,CL-HPPS1-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0177,9/25/2019,Hire,C-HP,CL-HPPS1-01,Assistant Teacher,Hire to meet staffing need September 2019
+T-0178,9/16/2019,Hire,C-HP,CL-HPTO-01,Teacher,Hire to meet staffing need September 2019
+T-0081,10/1/2019,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0171,10/1/2019,Termination,,CL-HPPS2-01,Assistant Teacher,Staff left for LAUSD or other better-paying positions
+T-0076,12/1/2019,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0126,1/1/2020,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0160,1/1/2020,Termination,,CL-JPPS2-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0164,1/1/2020,Termination,,CL-TDPS-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0170,1/1/2020,Termination,,CL-JPTO-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0179,1/23/2020,Hire,C-JP,CL-JPPS2-01,Teacher,Hire to meet staffing need January 2020
+T-0180,1/19/2020,Hire,C-JP,CL-JPTO-01,Assistant Teacher,Hire to meet staffing need January 2020
+T-0181,1/30/2020,Hire,C-TD,CL-TDPS-01,Teacher,Hire to meet staffing need January 2020
+T-0182,3/3/2020,Hire,C-HP,CL-HPPS2-01,Teacher,Hire to meet staffing need March 2020
+T-0176,4/1/2020,Termination,,CL-JPTO-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0180,4/1/2020,Termination,,CL-JPTO-01,Assistant Teacher,Staff left for LAUSD or other better-paying positions
+T-0181,4/1/2020,Termination,,CL-TDPS-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0183,4/4/2020,Hire,C-JP,CL-JPTO-01,Teacher,Hire to meet staffing need April 2020
+T-0184,4/4/2020,Hire,C-TD,CL-TDPS-01,Lead Teacher,Hire to meet staffing need April 2020
+T-0046,5/1/2020,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0179,5/1/2020,Termination,,CL-JPPS2-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0185,5/17/2020,Hire,C-JP,CL-JPPS2-01,Assistant Teacher,Hire to meet staffing need May 2020
+T-0161,6/1/2020,Promotion,,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0096,6/1/2020,Termination,C-TD,CL-TDTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0186,6/5/2020,Hire,C-HP,CL-HPPS1-01,Teacher,Hire to meet staffing need June 2020
+T-0185,7/1/2020,Termination,,CL-JPPS2-01,Assistant Teacher,Staff left for LAUSD or other better-paying positions
+T-0187,7/10/2020,Hire,C-JP,CL-JPPS1-01,Assistant Teacher,Hire to meet staffing need July 2020
+T-0188,7/2/2020,Hire,C-JP,CL-JPPS2-01,Teacher,Hire to meet staffing need July 2020
+T-0163,8/1/2020,Promotion,,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0189,8/30/2020,Hire,C-HP,CL-HPPS1-01,Teacher,Hire to meet staffing need August 2020
+T-0165,9/1/2020,Promotion,,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0188,9/1/2020,Termination,,CL-JPPS2-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0190,9/30/2020,Hire,C-JP,CL-JPPS2-01,Teacher,Hire to meet staffing need September 2020
+T-0191,9/4/2020,Hire,C-JP,CL-JPPS2-01,Teacher,Hire to meet staffing need September 2020
+T-0177,10/1/2020,Promotion,,CL-HPPS1-01,Teacher,Promotion to Teacher
+T-0169,10/1/2020,Termination,,CL-JPPS2-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0182,10/1/2020,Termination,,CL-HPPS2-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0192,10/7/2020,Hire,C-JP,CL-JPPS1-01,Teacher,Hire to meet staffing need October 2020
+T-0193,10/3/2020,Hire,C-JP,CL-JPPS2-01,Lead Teacher,Hire to meet staffing need October 2020
+T-0001,11/1/2020,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0163,11/1/2020,Termination,,CL-JPPS1-01,Lead Teacher,Staff left for LAUSD or other better-paying positions
+T-0167,11/1/2020,Termination,,CL-JPIN-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0194,11/15/2020,Hire,C-HP,CL-HPPS2-01,Teacher,Hire to meet staffing need November 2020
+T-0195,11/3/2020,Hire,C-JP,CL-JPPS1-01,Teacher,Hire to meet staffing need November 2020
+T-0196,11/4/2020,Hire,C-TD,CL-TDTO-01,Teacher,Hire to meet staffing need November 2020
+T-0195,12/1/2020,Termination,,CL-JPPS1-01,Teacher,Staff left for LAUSD or other better-paying positions
+T-0001,1/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0005,1/1/2021,Promotion,C-JP,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0006,1/1/2021,Promotion,C-HP,CL-HPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0007,1/1/2021,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0008,1/1/2021,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0010,1/1/2021,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0017,1/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0020,1/1/2021,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0028,1/1/2021,Promotion,C-HP,CL-HPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0029,1/1/2021,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0030,1/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0033,1/1/2021,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0034,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0035,1/1/2021,Promotion,C-JP,CL-JPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0036,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0037,1/1/2021,Promotion,C-HP,CL-HPIN-01,Teacher,Promotion to Teacher
+T-0038,1/1/2021,Promotion,C-JP,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0043,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0048,1/1/2021,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0050,1/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0051,1/1/2021,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0053,1/1/2021,Promotion,C-TD,CL-TDTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0056,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0057,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0060,1/1/2021,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0061,1/1/2021,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0062,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0063,1/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0064,1/1/2021,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0065,1/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0066,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0070,1/1/2021,Promotion,C-JP,CL-JPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0072,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0075,1/1/2021,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0076,1/1/2021,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0077,1/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0078,1/1/2021,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0079,1/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0080,1/1/2021,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0081,1/1/2021,Promotion,C-LCV,CL-LCVIN-01,Teacher,Promotion to Teacher
+T-0082,1/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0084,1/1/2021,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0085,1/1/2021,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0086,1/1/2021,Promotion,C-LCV,CL-LCVIN-01,Teacher,Promotion to Teacher
+T-0087,1/1/2021,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0089,1/1/2021,Promotion,C-HP,CL-HPPS2-01,Teacher,Promotion to Teacher
+T-0091,1/1/2021,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0097,1/1/2021,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0098,1/1/2021,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0099,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0101,1/1/2021,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0102,1/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0103,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0107,1/1/2021,Promotion,C-HP,CL-HPPS2-01,Teacher,Promotion to Teacher
+T-0109,1/1/2021,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0111,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0113,1/1/2021,Promotion,C-TD,CL-TDIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0114,1/1/2021,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0116,1/1/2021,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0118,1/1/2021,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0120,1/1/2021,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0121,1/1/2021,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0122,1/1/2021,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0123,1/1/2021,Promotion,C-TD,CL-TDPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0124,1/1/2021,Promotion,C-LCV,CL-LCVIN-01,Teacher,Promotion to Teacher
+T-0125,1/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0128,1/1/2021,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0129,1/1/2021,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0130,1/1/2021,Promotion,C-JP,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0132,1/1/2021,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0133,1/1/2021,Promotion,C-HP,CL-HPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0135,1/1/2021,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0137,1/1/2021,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0138,1/1/2021,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0139,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0140,1/1/2021,Promotion,C-JP,CL-JPPS1-01,Teacher,Promotion to Teacher
+T-0141,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0147,1/1/2021,Promotion,C-HP,CL-HPPS2-01,Teacher,Promotion to Teacher
+T-0149,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0151,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0155,1/1/2021,Promotion,C-JP,CL-JPIN-01,Teacher,Promotion to Teacher
+T-0157,1/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0162,1/1/2021,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0163,1/1/2021,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0165,1/1/2021,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0166,1/1/2021,Promotion,C-JP,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0171,1/1/2021,Promotion,C-HP,CL-HPPS2-01,Teacher,Promotion to Teacher
+T-0177,1/1/2021,Promotion,C-HP,CL-HPPS1-01,Teacher,Promotion to Teacher
+T-0001,1/1/2021,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0006,1/1/2021,Termination,C-HP,CL-HPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0018,1/1/2021,Termination,C-HP,CL-HPIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0020,1/1/2021,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0024,1/1/2021,Termination,C-TD,CL-TDPS-01,Assistant Teacher,Covid/post-Covid turnover wave
+T-0026,1/1/2021,Termination,C-TD,CL-TDTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0036,1/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0056,1/1/2021,Termination,C-LCV,CL-LCVPS-01,Teacher,Covid/post-Covid turnover wave
+T-0059,1/1/2021,Termination,C-LCV,CL-LCVTO-01,Teacher,Covid/post-Covid turnover wave
+T-0069,1/1/2021,Termination,C-LCV,CL-LCVPS-01,Assistant Teacher,Covid/post-Covid turnover wave
+T-0073,1/1/2021,Termination,C-HP,CL-HPIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0074,1/1/2021,Termination,C-HP,CL-HPPS2-01,Teacher,Covid/post-Covid turnover wave
+T-0084,1/1/2021,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0128,1/1/2021,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0135,1/1/2021,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0153,1/1/2021,Termination,C-JP,CL-JPIN-01,Assistant Teacher,Covid/post-Covid turnover wave
+T-0003,2/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0005,2/1/2021,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0023,2/1/2021,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0032,2/1/2021,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0038,2/1/2021,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0040,2/1/2021,Promotion,C-HP,CL-HPPS2-01,Teacher,Promotion to Teacher
+T-0041,2/1/2021,Promotion,C-LCV,CL-LCVTO-01,Teacher,Promotion to Teacher
+T-0044,2/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0045,2/1/2021,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0052,2/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0058,2/1/2021,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0060,2/1/2021,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0072,2/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0089,2/1/2021,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0095,2/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0096,2/1/2021,Promotion,C-TD,CL-TDTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0103,2/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0104,2/1/2021,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0107,2/1/2021,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0110,2/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0112,2/1/2021,Promotion,C-LCV,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0115,2/1/2021,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0122,2/1/2021,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0124,2/1/2021,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0126,2/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0131,2/1/2021,Promotion,C-HP,CL-HPPS2-01,Teacher,Promotion to Teacher
+T-0143,2/1/2021,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0144,2/1/2021,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0145,2/1/2021,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0146,2/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0147,2/1/2021,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0154,2/1/2021,Promotion,C-JP,CL-JPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0155,2/1/2021,Promotion,C-JP,CL-JPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0158,2/1/2021,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0161,2/1/2021,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0167,2/1/2021,Promotion,C-JP,CL-JPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0014,2/1/2021,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0019,2/1/2021,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0033,2/1/2021,Termination,C-HP,CL-HPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0048,2/1/2021,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0089,2/1/2021,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0111,2/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0145,2/1/2021,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0148,2/1/2021,Termination,C-HP,CL-HPTO-01,Assistant Teacher,Covid/post-Covid turnover wave
+T-0156,2/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0174,2/1/2021,Termination,C-JP,CL-JPIN-01,Teacher,Covid/post-Covid turnover wave
+T-0009,3/1/2021,Promotion,C-TD,CL-TDPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0015,3/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0021,3/1/2021,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0022,3/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0027,3/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0029,3/1/2021,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0040,3/1/2021,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0047,3/1/2021,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0049,3/1/2021,Promotion,C-LCV,CL-LCVIN-01,Teacher,Promotion to Teacher
+T-0067,3/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0068,3/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0071,3/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0090,3/1/2021,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0112,3/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0130,3/1/2021,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0131,3/1/2021,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0140,3/1/2021,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0169,3/1/2021,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0170,3/1/2021,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0172,3/1/2021,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0180,3/1/2021,Promotion,C-JP,CL-JPTO-01,Teacher,Promotion to Teacher
+T-0021,3/1/2021,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0032,3/1/2021,Termination,C-JP,CL-JPTO-01,Teacher,Covid/post-Covid turnover wave
+T-0038,3/1/2021,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0047,3/1/2021,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0072,3/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0094,3/1/2021,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0127,3/1/2021,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0157,3/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0169,3/1/2021,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0034,4/1/2021,Promotion,C-LCV,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0037,4/1/2021,Promotion,C-HP,CL-HPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0041,4/1/2021,Promotion,C-LCV,CL-LCVTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0081,4/1/2021,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0086,4/1/2021,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0090,4/1/2021,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0092,4/1/2021,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0117,4/1/2021,Promotion,C-JP,CL-JPPS1-01,Teacher,Promotion to Teacher
+T-0166,4/1/2021,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0168,4/1/2021,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0171,4/1/2021,Promotion,C-HP,CL-HPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0173,4/1/2021,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0090,4/1/2021,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0091,4/1/2021,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0097,4/1/2021,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0105,4/1/2021,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0134,4/1/2021,Termination,C-TD,CL-TDPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0171,4/1/2021,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0194,4/1/2021,Termination,C-HP,CL-HPPS2-01,Teacher,Covid/post-Covid turnover wave
+T-0117,5/1/2021,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0025,5/1/2021,Termination,C-TD,CL-TDTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0064,5/1/2021,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0066,5/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0087,5/1/2021,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0096,5/1/2021,Termination,C-TD,CL-TDTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0101,5/1/2021,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0103,5/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0133,5/1/2021,Termination,C-HP,CL-HPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0142,5/1/2021,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0144,5/1/2021,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0147,5/1/2021,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0170,5/1/2021,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0185,6/1/2021,Promotion,C-JP,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0045,6/1/2021,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0078,6/1/2021,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0123,6/1/2021,Termination,C-TD,CL-TDPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0132,6/1/2021,Termination,C-HP,CL-HPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0154,6/1/2021,Termination,C-JP,CL-JPIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0167,6/1/2021,Termination,C-JP,CL-JPIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0182,6/1/2021,Termination,C-HP,CL-HPPS2-01,Teacher,Covid/post-Covid turnover wave
+T-0049,7/1/2021,Promotion,C-LCV,CL-LCVIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0175,7/1/2021,Promotion,C-JP,CL-JPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0010,7/1/2021,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0034,7/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0037,7/1/2021,Termination,C-HP,CL-HPIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0102,7/1/2021,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0113,7/1/2021,Termination,C-TD,CL-TDIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0118,7/1/2021,Termination,C-HP,CL-HPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0152,7/1/2021,Termination,C-JP,CL-JPIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0187,8/1/2021,Promotion,C-JP,CL-JPPS1-01,Teacher,Promotion to Teacher
+T-0002,8/1/2021,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0007,8/1/2021,Termination,C-HP,CL-HPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0017,8/1/2021,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0039,8/1/2021,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0131,8/1/2021,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0162,8/1/2021,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0172,8/1/2021,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0179,8/1/2021,Termination,C-JP,CL-JPPS2-01,Teacher,Covid/post-Covid turnover wave
+T-0176,9/1/2021,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0049,9/1/2021,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0065,9/1/2021,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0088,9/1/2021,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0109,9/1/2021,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0116,9/1/2021,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0130,9/1/2021,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0139,9/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0181,9/1/2021,Termination,C-TD,CL-TDPS-01,Teacher,Covid/post-Covid turnover wave
+T-0188,9/1/2021,Termination,C-JP,CL-JPPS2-01,Teacher,Covid/post-Covid turnover wave
+T-0189,9/1/2021,Termination,C-HP,CL-HPPS1-01,Teacher,Covid/post-Covid turnover wave
+T-0177,10/1/2021,Promotion,C-HP,CL-HPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0015,10/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0042,10/1/2021,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0044,10/1/2021,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0057,10/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0080,10/1/2021,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0124,10/1/2021,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0160,10/1/2021,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0178,11/1/2021,Promotion,C-HP,CL-HPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0031,11/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0050,11/1/2021,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0068,11/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0110,11/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0114,11/1/2021,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0115,11/1/2021,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0117,11/1/2021,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0119,11/1/2021,Termination,C-JP,CL-JPIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0121,11/1/2021,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0150,11/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0186,11/1/2021,Termination,C-HP,CL-HPPS1-01,Teacher,Covid/post-Covid turnover wave
+T-0190,11/1/2021,Termination,C-JP,CL-JPPS2-01,Teacher,Covid/post-Covid turnover wave
+T-0196,11/1/2021,Termination,C-TD,CL-TDTO-01,Teacher,Covid/post-Covid turnover wave
+T-0035,12/1/2021,Termination,C-JP,CL-JPIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0051,12/1/2021,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0062,12/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0063,12/1/2021,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0075,12/1/2021,Termination,C-HP,CL-HPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0100,12/1/2021,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0106,12/1/2021,Termination,C-HP,CL-HPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0108,12/1/2021,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0141,12/1/2021,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0143,12/1/2021,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0173,12/1/2021,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0183,12/1/2021,Termination,C-JP,CL-JPTO-01,Teacher,Covid/post-Covid turnover wave
+T-0003,1/1/2022,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0016,1/1/2022,Termination,C-JP,,Site Supervisor,Covid/post-Covid turnover wave
+T-0067,1/1/2022,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0086,1/1/2022,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0098,1/1/2022,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0158,1/1/2022,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0159,1/1/2022,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0180,2/1/2022,Promotion,C-JP,CL-JPTO-01,Lead Teacher,Promotion to Lead Teacher
+T-0008,2/1/2022,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0043,2/1/2022,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0076,2/1/2022,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0028,3/1/2022,Termination,C-HP,CL-HPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0070,3/1/2022,Termination,C-JP,CL-JPIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0099,3/1/2022,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0120,3/1/2022,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0125,3/1/2022,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0129,3/1/2022,Termination,C-HP,CL-HPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0166,3/1/2022,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0175,3/1/2022,Termination,C-JP,CL-JPIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0027,4/1/2022,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0040,4/1/2022,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0055,4/1/2022,Termination,C-JP,CL-JPIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0079,4/1/2022,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0085,4/1/2022,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0146,4/1/2022,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0178,4/1/2022,Termination,C-HP,CL-HPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0180,4/1/2022,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0191,4/1/2022,Termination,C-JP,CL-JPPS2-01,Teacher,Covid/post-Covid turnover wave
+T-0009,5/1/2022,Termination,C-TD,CL-TDPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0052,5/1/2022,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0136,5/1/2022,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0163,5/1/2022,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0192,5/1/2022,Termination,C-JP,CL-JPPS1-01,Teacher,Covid/post-Covid turnover wave
+T-0197,5/2/2022,Hire,C-LCV,CL-LCVPS-01,Lead Teacher,Hire during rebuilding phase May 2022
+T-0083,6/1/2022,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0193,6/1/2022,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0185,7/1/2022,Promotion,C-JP,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0187,7/1/2022,Promotion,C-JP,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0058,7/1/2022,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0081,7/1/2022,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0082,7/1/2022,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0092,7/1/2022,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0112,7/1/2022,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0195,7/1/2022,Termination,C-JP,CL-JPPS1-01,Teacher,Covid/post-Covid turnover wave
+T-0046,8/1/2022,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0071,8/1/2022,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0137,8/1/2022,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0004,9/1/2022,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0122,9/1/2022,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0187,9/1/2022,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0197,9/1/2022,Termination,,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0198,9/30/2022,Hire,C-LCV,CL-LCVPS-01,Assistant Teacher,Hire during rebuilding phase September 2022
+T-0029,10/1/2022,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0093,10/1/2022,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0149,10/1/2022,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0199,10/21/2022,Hire,C-LCV,CL-LCVPS-01,Lead Teacher,Hire during rebuilding phase October 2022
+T-0200,11/26/2022,Hire,C-LCV,CL-LCVPS-01,Lead Teacher,Hire during rebuilding phase November 2022
+T-0107,12/1/2022,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0161,12/1/2022,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0201,1/9/2023,Hire,C-HP,CL-HPPS1-01,Assistant Teacher,Hire during rebuilding phase January 2023
+T-0202,1/9/2023,Hire,C-JP,CL-JPPS1-01,Lead Teacher,Hire during rebuilding phase January 2023
+T-0203,1/11/2023,Hire,C-LCV,CL-LCVPS-01,Teacher,Hire during rebuilding phase January 2023
+T-0204,1/26/2023,Hire,C-LCV,CL-LCVPS-01,Lead Teacher,Hire during rebuilding phase January 2023
+T-0205,1/16/2023,Hire,C-TD,CL-TDIN-01,Teacher,Hire during rebuilding phase January 2023
+T-0030,2/1/2023,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0165,2/1/2023,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0177,2/1/2023,Termination,C-HP,CL-HPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0206,2/4/2023,Hire,C-JP,CL-JPPS1-01,Teacher,Hire during rebuilding phase February 2023
+T-0104,3/1/2023,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0207,3/22/2023,Hire,C-HP,CL-HPPS2-01,Lead Teacher,Hire during rebuilding phase March 2023
+T-0151,5/1/2023,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0208,5/25/2023,Hire,C-HP,CL-HPIN-01,Assistant Teacher,Hire during rebuilding phase May 2023
+T-0209,5/11/2023,Hire,C-HP,CL-HPIN-01,Teacher,Hire during rebuilding phase May 2023
+T-0210,5/3/2023,Hire,C-HP,CL-HPIN-01,Teacher,Hire during rebuilding phase May 2023
+T-0211,5/26/2023,Hire,C-HP,CL-HPIN-01,Lead Teacher,Hire during rebuilding phase May 2023
+T-0053,6/1/2023,Termination,C-TD,CL-TDTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0208,6/1/2023,Termination,,CL-HPIN-01,Assistant Teacher,Covid/post-Covid turnover wave
+T-0209,6/1/2023,Termination,,CL-HPIN-01,Teacher,Covid/post-Covid turnover wave
+T-0212,6/12/2023,Hire,C-HP,CL-HPIN-01,Lead Teacher,Hire during rebuilding phase June 2023
+T-0213,6/13/2023,Hire,C-HP,CL-HPIN-01,Lead Teacher,Hire during rebuilding phase June 2023
+T-0061,7/1/2023,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0155,7/1/2023,Termination,C-JP,CL-JPIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0212,8/1/2023,Termination,,CL-HPIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0214,8/24/2023,Hire,C-HP,CL-HPIN-01,Lead Teacher,Hire during rebuilding phase August 2023
+T-0215,8/31/2023,Hire,C-JP,CL-JPPS2-01,Teacher,Hire during rebuilding phase August 2023
+T-0140,9/1/2023,Termination,C-JP,CL-JPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0201,9/1/2023,Termination,,CL-HPPS1-01,Assistant Teacher,Covid/post-Covid turnover wave
+T-0198,10/1/2023,Promotion,,CL-LCVPS-01,Teacher,Promotion to Teacher
+T-0168,10/1/2023,Termination,C-HP,CL-HPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0216,11/30/2023,Hire,C-LCV,CL-LCVIN-01,Teacher,Hire during rebuilding phase November 2023
+T-0022,12/1/2023,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0138,12/1/2023,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0217,12/4/2023,Hire,C-JP,CL-JPTO-01,Lead Teacher,Hire during rebuilding phase December 2023
+T-0060,1/1/2024,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0205,1/1/2024,Termination,,CL-TDIN-01,Teacher,Covid/post-Covid turnover wave
+T-0214,1/1/2024,Termination,,CL-HPIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0216,1/1/2024,Termination,,CL-LCVIN-01,Teacher,Covid/post-Covid turnover wave
+T-0218,1/14/2024,Hire,C-HP,CL-HPIN-01,Assistant Teacher,Hire during rebuilding phase January 2024
+T-0219,1/24/2024,Hire,C-JP,CL-JPTO-01,Teacher,Hire during rebuilding phase January 2024
+T-0220,1/31/2024,Hire,C-LCV,CL-LCVIN-01,Teacher,Hire during rebuilding phase January 2024
+T-0221,1/29/2024,Hire,C-TD,CL-TDIN-01,Teacher,Hire during rebuilding phase January 2024
+T-0222,2/29/2024,Hire,C-HP,CL-HPTO-01,Lead Teacher,Hire during rebuilding phase February 2024
+T-0223,2/25/2024,Hire,C-HP,CL-HPTO-01,Teacher,Hire during rebuilding phase February 2024
+T-0224,2/28/2024,Hire,C-HP,CL-HPTO-01,Lead Teacher,Hire during rebuilding phase February 2024
+T-0185,3/1/2024,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0225,3/25/2024,Hire,C-JP,CL-JPPS2-01,Lead Teacher,Hire during rebuilding phase March 2024
+T-0226,4/16/2024,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire during rebuilding phase April 2024
+T-0077,5/1/2024,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0227,5/19/2024,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire during rebuilding phase May 2024
+T-0041,7/1/2024,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0211,7/1/2024,Termination,,CL-HPIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0228,7/21/2024,Hire,C-JP,CL-JPPS1-01,Teacher,Hire during rebuilding phase July 2024
+T-0229,7/21/2024,Hire,C-LCV,CL-LCVTO-01,Teacher,Hire during rebuilding phase July 2024
+T-0204,8/1/2024,Termination,,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0218,8/1/2024,Termination,,CL-HPIN-01,Assistant Teacher,Covid/post-Covid turnover wave
+T-0230,8/12/2024,Hire,C-JP,CL-JPIN-01,Teacher,Hire during rebuilding phase August 2024
+T-0231,8/15/2024,Hire,C-LCV,CL-LCVPS-01,Lead Teacher,Hire during rebuilding phase August 2024
+T-0232,8/7/2024,Hire,C-TD,CL-TDTO-01,Teacher,Hire during rebuilding phase August 2024
+T-0222,9/1/2024,Termination,,CL-HPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0225,9/1/2024,Termination,,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0233,9/30/2024,Hire,C-HP,CL-HPTO-01,Teacher,Hire during rebuilding phase September 2024
+T-0198,10/1/2024,Promotion,,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0005,11/1/2024,Termination,C-JP,CL-JPPS2-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0126,11/1/2024,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0221,11/1/2024,Termination,,CL-TDIN-01,Teacher,Covid/post-Covid turnover wave
+T-0234,11/15/2024,Hire,C-HP,CL-HPIN-01,Assistant Teacher,Hire during rebuilding phase November 2024
+T-0235,11/5/2024,Hire,C-HP,CL-HPPS1-01,Assistant Teacher,Hire during rebuilding phase November 2024
+T-0236,11/19/2024,Hire,C-HP,CL-HPTO-01,Teacher,Hire during rebuilding phase November 2024
+T-0237,11/25/2024,Hire,C-JP,CL-JPIN-01,Lead Teacher,Hire during rebuilding phase November 2024
+T-0238,11/18/2024,Hire,C-JP,CL-JPIN-01,Teacher,Hire during rebuilding phase November 2024
+T-0239,11/18/2024,Hire,C-JP,CL-JPIN-01,Teacher,Hire during rebuilding phase November 2024
+T-0240,11/5/2024,Hire,C-JP,CL-JPPS2-01,Assistant Teacher,Hire during rebuilding phase November 2024
+T-0241,11/23/2024,Hire,C-JP,CL-JPTO-01,Teacher,Hire during rebuilding phase November 2024
+T-0242,11/24/2024,Hire,C-JP,CL-JPTO-01,Lead Teacher,Hire during rebuilding phase November 2024
+T-0243,11/10/2024,Hire,C-JP,CL-JPTO-01,Teacher,Hire during rebuilding phase November 2024
+T-0244,11/28/2024,Hire,C-TD,CL-TDIN-01,Lead Teacher,Hire during rebuilding phase November 2024
+T-0223,12/1/2024,Termination,,CL-HPTO-01,Teacher,Covid/post-Covid turnover wave
+T-0245,12/22/2024,Hire,C-HP,CL-HPPS1-01,Lead Teacher,Hire during rebuilding phase December 2024
+T-0246,12/12/2024,Hire,C-HP,CL-HPPS1-01,Assistant Teacher,Hire during rebuilding phase December 2024
+T-0247,12/25/2024,Hire,C-HP,CL-HPPS2-01,Teacher,Hire during rebuilding phase December 2024
+T-0248,12/22/2024,Hire,C-HP,CL-HPTO-01,Teacher,Hire during rebuilding phase December 2024
+T-0249,12/6/2024,Hire,C-HP,CL-HPTO-01,Teacher,Hire during rebuilding phase December 2024
+T-0250,12/28/2024,Hire,C-JP,CL-JPIN-01,Teacher,Hire during rebuilding phase December 2024
+T-0251,12/13/2024,Hire,C-JP,CL-JPPS1-01,Teacher,Hire during rebuilding phase December 2024
+T-0252,12/12/2024,Hire,C-JP,CL-JPPS1-01,Lead Teacher,Hire during rebuilding phase December 2024
+T-0253,12/22/2024,Hire,C-JP,CL-JPPS1-01,Lead Teacher,Hire during rebuilding phase December 2024
+T-0254,12/27/2024,Hire,C-JP,CL-JPPS1-01,Teacher,Hire during rebuilding phase December 2024
+T-0255,12/31/2024,Hire,C-JP,CL-JPTO-01,Lead Teacher,Hire during rebuilding phase December 2024
+T-0256,12/6/2024,Hire,C-JP,CL-JPTO-01,Teacher,Hire during rebuilding phase December 2024
+T-0203,1/1/2025,Promotion,,CL-LCVPS-01,Lead Teacher,Promotion to Lead Teacher
+T-0241,1/1/2025,Termination,,CL-JPTO-01,Teacher,Covid/post-Covid turnover wave
+T-0257,1/13/2025,Hire,C-JP,CL-JPIN-01,Teacher,Hire during rebuilding phase January 2025
+T-0258,1/4/2025,Hire,C-JP,CL-JPPS1-01,Teacher,Hire during rebuilding phase January 2025
+T-0259,1/7/2025,Hire,C-JP,CL-JPPS2-01,Teacher,Hire during rebuilding phase January 2025
+T-0260,1/16/2025,Hire,C-JP,CL-JPTO-01,Lead Teacher,Hire during rebuilding phase January 2025
+T-0261,1/28/2025,Hire,C-JP,CL-JPTO-01,Teacher,Hire during rebuilding phase January 2025
+T-0262,1/31/2025,Hire,C-JP,CL-JPTO-01,Teacher,Hire during rebuilding phase January 2025
+T-0263,1/31/2025,Hire,C-JP,CL-JPTO-01,Assistant Teacher,Hire during rebuilding phase January 2025
+T-0206,2/1/2025,Promotion,,CL-JPPS1-01,Lead Teacher,Promotion to Lead Teacher
+T-0023,2/1/2025,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0264,2/21/2025,Hire,C-HP,CL-HPPS1-01,Teacher,Hire during rebuilding phase February 2025
+T-0265,3/3/2025,Hire,C-HP,CL-HPPS1-01,Teacher,Hire during rebuilding phase February 2025
+T-0266,2/28/2025,Hire,C-HP,CL-HPPS1-01,Teacher,Hire during rebuilding phase February 2025
+T-0267,2/11/2025,Hire,C-HP,CL-HPTO-01,Teacher,Hire during rebuilding phase February 2025
+T-0268,2/18/2025,Hire,C-HP,CL-HPTO-01,Teacher,Hire during rebuilding phase February 2025
+T-0269,2/10/2025,Hire,C-HP,CL-HPTO-01,Lead Teacher,Hire during rebuilding phase February 2025
+T-0270,2/19/2025,Hire,C-JP,CL-JPIN-01,Lead Teacher,Hire during rebuilding phase February 2025
+T-0271,2/16/2025,Hire,C-JP,CL-JPIN-01,Teacher,Hire during rebuilding phase February 2025
+T-0272,2/21/2025,Hire,C-JP,CL-JPPS1-01,Teacher,Hire during rebuilding phase February 2025
+T-0273,2/12/2025,Hire,C-JP,CL-JPTO-01,Lead Teacher,Hire during rebuilding phase February 2025
+T-0274,2/10/2025,Hire,C-JP,CL-JPTO-01,Teacher,Hire during rebuilding phase February 2025
+T-0275,2/7/2025,Hire,C-JP,CL-JPTO-01,Teacher,Hire during rebuilding phase February 2025
+T-0244,3/1/2025,Termination,,CL-TDIN-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0269,3/1/2025,Termination,,CL-HPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0276,3/26/2025,Hire,C-HP,CL-HPIN-01,Teacher,Hire during rebuilding phase March 2025
+T-0277,3/21/2025,Hire,C-HP,CL-HPIN-01,Teacher,Hire during rebuilding phase March 2025
+T-0278,3/8/2025,Hire,C-HP,CL-HPPS1-01,Teacher,Hire during rebuilding phase March 2025
+T-0279,3/26/2025,Hire,C-HP,CL-HPPS1-01,Lead Teacher,Hire during rebuilding phase March 2025
+T-0280,3/11/2025,Hire,C-HP,CL-HPPS1-01,Lead Teacher,Hire during rebuilding phase March 2025
+T-0281,3/4/2025,Hire,C-HP,CL-HPTO-01,Teacher,Hire during rebuilding phase March 2025
+T-0282,3/8/2025,Hire,C-HP,CL-HPTO-01,Teacher,Hire during rebuilding phase March 2025
+T-0283,3/31/2025,Hire,C-JP,CL-JPIN-01,Assistant Teacher,Hire during rebuilding phase March 2025
+T-0284,3/19/2025,Hire,C-JP,CL-JPIN-01,Teacher,Hire during rebuilding phase March 2025
+T-0285,3/29/2025,Hire,C-JP,CL-JPIN-01,Teacher,Hire during rebuilding phase March 2025
+T-0286,3/1/2025,Hire,C-JP,CL-JPIN-01,Teacher,Hire during rebuilding phase March 2025
+T-0287,3/6/2025,Hire,C-JP,CL-JPIN-01,Assistant Teacher,Hire during rebuilding phase March 2025
+T-0288,3/25/2025,Hire,C-JP,CL-JPPS1-01,Lead Teacher,Hire during rebuilding phase March 2025
+T-0289,3/16/2025,Hire,C-JP,CL-JPPS1-01,Teacher,Hire during rebuilding phase March 2025
+T-0290,3/8/2025,Hire,C-JP,CL-JPPS1-01,Teacher,Hire during rebuilding phase March 2025
+T-0291,3/26/2025,Hire,C-JP,CL-JPPS2-01,Teacher,Hire during rebuilding phase March 2025
+T-0292,3/7/2025,Hire,C-TD,CL-TDIN-01,Teacher,Hire during rebuilding phase March 2025
+T-0054,4/1/2025,Termination,C-HP,CL-HPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0095,4/1/2025,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0230,4/1/2025,Termination,,CL-JPIN-01,Teacher,Covid/post-Covid turnover wave
+T-0231,4/1/2025,Termination,,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0290,4/1/2025,Termination,,CL-JPPS1-01,Teacher,Covid/post-Covid turnover wave
+T-0292,4/1/2025,Termination,,CL-TDIN-01,Teacher,Covid/post-Covid turnover wave
+T-0293,4/25/2025,Hire,C-HP,CL-HPPS1-01,Teacher,Hire during rebuilding phase April 2025
+T-0294,4/24/2025,Hire,C-HP,CL-HPTO-01,Teacher,Hire during rebuilding phase April 2025
+T-0295,4/14/2025,Hire,C-JP,CL-JPIN-01,Teacher,Hire during rebuilding phase April 2025
+T-0296,4/22/2025,Hire,C-JP,CL-JPPS1-01,Teacher,Hire during rebuilding phase April 2025
+T-0297,4/4/2025,Hire,C-JP,CL-JPPS1-01,Teacher,Hire during rebuilding phase April 2025
+T-0298,4/4/2025,Hire,C-JP,CL-JPPS2-01,Assistant Teacher,Hire during rebuilding phase April 2025
+T-0299,4/21/2025,Hire,C-JP,CL-JPTO-01,Lead Teacher,Hire during rebuilding phase April 2025
+T-0300,4/19/2025,Hire,C-TD,CL-TDIN-01,Teacher,Hire during rebuilding phase April 2025
+T-0210,5/1/2025,Promotion,,CL-HPIN-01,Lead Teacher,Promotion to Lead Teacher
+T-0232,5/1/2025,Termination,,CL-TDTO-01,Teacher,Covid/post-Covid turnover wave
+T-0246,5/1/2025,Termination,,CL-HPPS1-01,Assistant Teacher,Covid/post-Covid turnover wave
+T-0250,5/1/2025,Termination,,CL-JPIN-01,Teacher,Covid/post-Covid turnover wave
+T-0265,5/1/2025,Termination,,CL-HPPS1-01,Teacher,Covid/post-Covid turnover wave
+T-0301,5/5/2025,Hire,C-HP,CL-HPPS1-01,Teacher,Hire during rebuilding phase May 2025
+T-0302,5/2/2025,Hire,C-HP,CL-HPPS1-01,Lead Teacher,Hire during rebuilding phase May 2025
+T-0303,5/4/2025,Hire,C-HP,CL-HPPS2-01,Assistant Teacher,Hire during rebuilding phase May 2025
+T-0304,5/8/2025,Hire,C-JP,CL-JPPS2-01,Assistant Teacher,Hire during rebuilding phase May 2025
+T-0305,5/16/2025,Hire,C-JP,CL-JPTO-01,Teacher,Hire during rebuilding phase May 2025
+T-0176,6/1/2025,Termination,C-JP,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0184,6/1/2025,Termination,C-TD,CL-TDPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0242,6/1/2025,Termination,,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0276,6/1/2025,Termination,,CL-HPIN-01,Teacher,Covid/post-Covid turnover wave
+T-0283,6/1/2025,Termination,,CL-JPIN-01,Assistant Teacher,Covid/post-Covid turnover wave
+T-0291,6/1/2025,Termination,,CL-JPPS2-01,Teacher,Covid/post-Covid turnover wave
+T-0306,6/2/2025,Hire,C-HP,CL-HPTO-01,Teacher,Hire during rebuilding phase June 2025
+T-0307,6/26/2025,Hire,C-JP,CL-JPPS2-01,Lead Teacher,Hire during rebuilding phase June 2025
+T-0308,6/30/2025,Hire,C-JP,CL-JPTO-01,Teacher,Hire during rebuilding phase June 2025
+T-0309,6/21/2025,Hire,C-JP,CL-JPTO-01,Teacher,Hire during rebuilding phase June 2025
+T-0310,6/19/2025,Hire,C-JP,CL-JPTO-01,Teacher,Hire during rebuilding phase June 2025
+T-0311,6/20/2025,Hire,C-JP,CL-JPTO-01,Lead Teacher,Hire during rebuilding phase June 2025
+T-0280,7/1/2025,Termination,,CL-HPPS1-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0287,7/1/2025,Termination,,CL-JPIN-01,Assistant Teacher,Covid/post-Covid turnover wave
+T-0310,7/1/2025,Termination,,CL-JPTO-01,Teacher,Covid/post-Covid turnover wave
+T-0274,8/1/2025,Termination,,CL-JPTO-01,Teacher,Covid/post-Covid turnover wave
+T-0305,8/1/2025,Termination,,CL-JPTO-01,Teacher,Covid/post-Covid turnover wave
+T-0215,9/1/2025,Promotion,,CL-JPPS2-01,Lead Teacher,Promotion to Lead Teacher
+T-0199,9/1/2025,Termination,,CL-LCVPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0217,9/1/2025,Termination,,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0248,9/1/2025,Termination,,CL-HPTO-01,Teacher,Covid/post-Covid turnover wave
+T-0293,9/1/2025,Termination,,CL-HPPS1-01,Teacher,Covid/post-Covid turnover wave
+T-0296,9/1/2025,Termination,,CL-JPPS1-01,Teacher,Covid/post-Covid turnover wave
+T-0234,10/1/2025,Termination,,CL-HPIN-01,Assistant Teacher,Covid/post-Covid turnover wave
+T-0251,10/1/2025,Termination,,CL-JPPS1-01,Teacher,Covid/post-Covid turnover wave
+T-0272,10/1/2025,Termination,,CL-JPPS1-01,Teacher,Covid/post-Covid turnover wave
+T-0273,10/1/2025,Termination,,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0284,10/1/2025,Termination,,CL-JPIN-01,Teacher,Covid/post-Covid turnover wave
+T-0235,11/1/2025,Promotion,,CL-HPPS1-01,Teacher,Promotion to Teacher
+T-0240,11/1/2025,Promotion,,CL-JPPS2-01,Teacher,Promotion to Teacher
+T-0164,11/1/2025,Termination,C-TD,CL-TDPS-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0243,11/1/2025,Termination,,CL-JPTO-01,Teacher,Covid/post-Covid turnover wave
+T-0264,11/1/2025,Termination,,CL-HPPS1-01,Teacher,Covid/post-Covid turnover wave
+T-0285,11/1/2025,Termination,,CL-JPIN-01,Teacher,Covid/post-Covid turnover wave
+T-0260,12/1/2025,Termination,,CL-JPTO-01,Lead Teacher,Covid/post-Covid turnover wave
+T-0001,6/1/2022,Reassignment,C-JP,CL-LCVTO-01,Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0002,5/31/2022,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Departure due to LCV closure (second wave fix)
+T-0003,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0008,5/31/2022,Termination,C-LCV,CL-LCVIN-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0014,6/1/2022,Reassignment,C-HP,CL-LCVIN-01,Lead Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0015,6/1/2022,Reassignment,C-HP,CL-LCVPS-01,Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0017,6/1/2022,Reassignment,C-JP,CL-LCVTO-01,Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0022,5/31/2022,Termination,C-LCV,CL-LCVTO-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0023,5/31/2022,Termination,C-LCV,CL-LCVIN-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0027,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0030,5/31/2022,Termination,C-LCV,CL-LCVTO-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0031,6/1/2022,Reassignment,C-JP,CL-LCVPS-01,Lead Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0034,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Assistant Teacher,Departure due to LCV closure (second wave fix)
+T-0036,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0041,6/1/2022,Reassignment,C-JP,CL-LCVTO-01,Assistant Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0041,8/31/2022,Termination,C-JP,CL-LCVTO-01,Assistant Teacher,Departure after reassignment from LCV (second wave fix)
+T-0043,6/1/2022,Reassignment,C-HP,CL-LCVPS-01,Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0044,5/31/2022,Termination,C-LCV,CL-LCVTO-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0046,6/1/2022,Reassignment,C-HP,CL-LCVIN-01,Lead Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0047,6/1/2022,Reassignment,C-JP,CL-LCVIN-01,Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0047,8/31/2022,Termination,C-JP,CL-LCVIN-01,Teacher,Departure after reassignment from LCV (second wave fix)
+T-0049,5/31/2022,Termination,C-LCV,CL-LCVIN-01,Assistant Teacher,Departure due to LCV closure (second wave fix)
+T-0050,6/1/2022,Reassignment,C-JP,CL-LCVTO-01,Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0052,6/1/2022,Reassignment,C-JP,CL-LCVTO-01,Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0056,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Assistant Teacher,Departure due to LCV closure (second wave fix)
+T-0057,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0059,6/1/2022,Reassignment,C-HP,CL-LCVTO-01,Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0062,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0063,5/31/2022,Termination,C-LCV,CL-LCVTO-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0065,5/31/2022,Termination,C-LCV,CL-LCVTO-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0066,6/1/2022,Reassignment,C-HP,CL-LCVPS-01,Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0067,6/1/2022,Reassignment,C-HP,CL-LCVTO-01,Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0068,6/1/2022,Reassignment,C-HP,CL-LCVPS-01,Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0069,6/1/2022,Reassignment,C-JP,CL-LCVPS-01,Assistant Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0069,8/31/2022,Termination,C-JP,CL-LCVPS-01,Assistant Teacher,Departure after reassignment from LCV (second wave fix)
+T-0071,6/1/2022,Reassignment,C-HP,CL-LCVPS-01,Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0072,6/1/2022,Reassignment,C-HP,CL-LCVPS-01,Assistant Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0076,5/31/2022,Termination,C-LCV,CL-LCVIN-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0077,6/1/2022,Reassignment,C-HP,CL-LCVTO-01,Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0078,6/1/2022,Reassignment,C-JP,CL-LCVIN-01,Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0078,8/31/2022,Termination,C-JP,CL-LCVIN-01,Teacher,Departure after reassignment from LCV (second wave fix)
+T-0079,6/1/2022,Reassignment,C-HP,CL-LCVTO-01,Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0081,6/1/2022,Reassignment,C-JP,CL-LCVIN-01,Assistant Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0081,8/31/2022,Termination,C-JP,CL-LCVIN-01,Assistant Teacher,Departure after reassignment from LCV (second wave fix)
+T-0082,6/1/2022,Reassignment,C-JP,CL-LCVTO-01,Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0082,8/31/2022,Termination,C-JP,CL-LCVTO-01,Teacher,Departure after reassignment from LCV (second wave fix)
+T-0083,6/1/2022,Reassignment,C-JP,CL-LCVIN-01,Lead Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0083,8/31/2022,Termination,C-JP,CL-LCVIN-01,Lead Teacher,Departure after reassignment from LCV (second wave fix)
+T-0084,5/31/2022,Termination,C-LCV,CL-LCVIN-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0085,5/31/2022,Termination,C-LCV,CL-LCVIN-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0086,5/31/2022,Termination,C-LCV,CL-LCVIN-01,Assistant Teacher,Departure due to LCV closure (second wave fix)
+T-0088,5/31/2022,Termination,C-LCV,CL-LCVIN-01,Lead Teacher,Departure due to LCV closure (second wave fix)
+T-0091,5/31/2022,Termination,C-LCV,CL-LCVIN-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0092,5/31/2022,Termination,C-LCV,CL-LCVIN-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0093,5/31/2022,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Departure due to LCV closure (second wave fix)
+T-0094,6/1/2022,Reassignment,C-HP,CL-LCVTO-01,Lead Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0095,5/31/2022,Termination,C-LCV,CL-LCVTO-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0098,5/31/2022,Termination,C-LCV,CL-LCVIN-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0099,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0100,5/31/2022,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Departure due to LCV closure (second wave fix)
+T-0102,6/1/2022,Reassignment,C-HP,CL-LCVTO-01,Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0103,6/1/2022,Reassignment,C-JP,CL-LCVPS-01,Assistant Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0103,8/31/2022,Termination,C-JP,CL-LCVPS-01,Assistant Teacher,Departure after reassignment from LCV (second wave fix)
+T-0105,6/1/2022,Reassignment,C-HP,CL-LCVTO-01,Lead Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0108,5/31/2022,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Departure due to LCV closure (second wave fix)
+T-0110,6/1/2022,Reassignment,C-JP,CL-LCVPS-01,Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0110,8/31/2022,Termination,C-JP,CL-LCVPS-01,Teacher,Departure after reassignment from LCV (second wave fix)
+T-0111,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0112,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Assistant Teacher,Departure due to LCV closure (second wave fix)
+T-0124,6/1/2022,Reassignment,C-HP,CL-LCVIN-01,Assistant Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0125,6/1/2022,Reassignment,C-HP,CL-LCVTO-01,Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0126,6/1/2022,Reassignment,C-JP,CL-LCVTO-01,Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0126,8/31/2022,Termination,C-JP,CL-LCVTO-01,Teacher,Departure after reassignment from LCV (second wave fix)
+T-0136,6/1/2022,Reassignment,C-HP,CL-LCVPS-01,Lead Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0139,6/1/2022,Reassignment,C-HP,CL-LCVPS-01,Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0141,6/1/2022,Reassignment,C-JP,CL-LCVPS-01,Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0141,8/31/2022,Termination,C-JP,CL-LCVPS-01,Teacher,Departure after reassignment from LCV (second wave fix)
+T-0142,5/31/2022,Termination,C-LCV,CL-LCVTO-01,Lead Teacher,Departure due to LCV closure (second wave fix)
+T-0146,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0149,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0150,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Departure due to LCV closure (second wave fix)
+T-0151,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0156,6/1/2022,Reassignment,C-HP,CL-LCVPS-01,Lead Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0157,6/1/2022,Reassignment,C-HP,CL-LCVPS-01,Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0197,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Departure due to LCV closure (second wave fix)
+T-0198,6/1/2022,Reassignment,C-HP,CL-LCVPS-01,Assistant Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0199,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Departure due to LCV closure (second wave fix)
+T-0200,6/1/2022,Reassignment,C-HP,CL-LCVPS-01,Lead Teacher,Reassigned from LCV to C-HP after closure (second wave fix)
+T-0203,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0204,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Departure due to LCV closure (second wave fix)
+T-0216,5/31/2022,Termination,C-LCV,CL-LCVIN-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0220,6/1/2022,Reassignment,C-JP,CL-LCVIN-01,Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0226,5/31/2022,Termination,C-LCV,CL-LCVTO-01,Teacher,Departure due to LCV closure (second wave fix)
+T-0227,6/1/2022,Reassignment,C-JP,CL-LCVTO-01,Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0227,8/31/2022,Termination,C-JP,CL-LCVTO-01,Teacher,Departure after reassignment from LCV (second wave fix)
+T-0229,6/1/2022,Reassignment,C-JP,CL-LCVTO-01,Teacher,Reassigned from LCV to C-JP after closure (second wave fix)
+T-0229,8/31/2022,Termination,C-JP,CL-LCVTO-01,Teacher,Departure after reassignment from LCV (second wave fix)
+T-0231,5/31/2022,Termination,C-LCV,CL-LCVPS-01,Lead Teacher,Departure due to LCV closure (second wave fix)
